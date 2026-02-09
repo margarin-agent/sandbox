@@ -3,86 +3,35 @@
   color: #0f172a;
   background: #f6f7fb;
 }
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 body {
   margin: 0;
-  min-height: 100vh;
   background: #f6f7fb;
-  color: #0f172a;
 }
 header {
   padding: 2.5rem;
   text-align: center;
-  border-bottom: 1px solid #e2e8f0;
+  background: #090b16;
+  color: #f6f7fb;
 }
 main {
-  padding: 2rem;
-  max-width: 960px;
+  max-width: 1024px;
   margin: 0 auto;
+  padding: 2rem;
 }
 section {
-  margin-bottom: 1.5rem;
   background: #fff;
-  border-radius: 0.75rem;
-  border: 1px solid #e5e7eb;
+  border-radius: 1rem;
+  margin-bottom: 1.5rem;
   padding: 1.25rem 1.5rem;
-  box-shadow: 0 15px 35px rgba(15, 23, 42, 0.08);
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 20px 40px rgba(15, 23, 42, 0.08);
 }
-section h2 {
-  margin-top: 0;
-}
-ul {
-  padding-left: 1.25rem;
-  margin: 0;
-  line-height: 1.55;
-}
-a {
-  color: #1d4ed8;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-.tweet-card {
-  border: 1px solid #e5e8ff;
-  border-radius: 0.75rem;
-  padding: 1rem;
-  background: #fdfdff;
-  margin-bottom: 1rem;
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6);
-}
-.tweet-meta {
-  font-size: 0.85rem;
-  color: #475569;
-  margin: 0 0 0.75rem;
-}
-.tweet-card p {
-  margin: 0 0 0.75rem;
-}
-.tweet-images {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  padding-bottom: 0.5rem;
-}
-.tweet-images img {
-  flex: 1 1 220px;
-  width: 100%;
-  height: 180px;
-  object-fit: contain;
-  border-radius: 0.5rem;
-  border: 1px solid #dbeafe;
-  background: #f8fafc;
-}
-.page-footer {
-  font-size: 0.85rem;
-  color: #475569;
-}
-@media (max-width: 600px) {
-  .tweet-images img {
-    flex: 1 1 100%;
-    height: 160px;
-  }
-}
+section h2 { margin-top: 0; }
+ul { padding-left: 1.25rem; margin: 0; line-height: 1.6; }
+a { color: #2563eb; }
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align: left; padding: 0.6rem; border-bottom: 1px solid #e5e7eb; }
+th { background: #f2f6ff; }
+.tweet-card, .gallery, .tweet-images { display:none; }
+.page-footer { font-size: 0.88rem; color: #475569; }
