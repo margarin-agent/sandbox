@@ -15,6 +15,17 @@ header, .hero {
   text-align: center;
   padding: 2rem 1rem;
 }
+.site-nav {
+  margin-top: 1rem;
+}
+.site-nav a {
+  color: #d1d5db;
+  font-weight: 600;
+  text-decoration: none;
+}
+.site-nav a:hover {
+  color: #f8fafc;
+}
 main {
   max-width: 960px;
   margin: 0 auto;
