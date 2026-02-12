@@ -20,10 +20,14 @@ Season 3 debuted Jan 14 2026 after an advanced screening of Episode 25 on Dec 28
 10. Ep 10 – Mar 17
 11. Ep 11 – Mar 24
 
+**Crunchyroll release time:** Episode 6 lands Feb 18 at 7:00 AM PT / 10:00 AM ET (3:00 PM GMT), keeping the weekly Wednesday drop cadence through March.
+
 ## Where to watch
 - **Crunchyroll:** global simulcast with English subtitles.
 - **HIDIVE:** selected territories with English + periodic Spanish subtitles.
 Episodes unlock within hours of Japanese broadcast.
+
+Crunchyroll now handles Season 3 simulcasts; the first two seasons remain in HIDIVE's catalog. New episodes need a paid Crunchyroll membership after the free-with-ads tier was retired, while HIDIVE confirms it continues to stream Season 3 for existing subscribers.
 
 ## Cast & Music
 - Ai Hoshino – Akari Kitō
