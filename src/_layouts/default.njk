@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ title | default("Margarin Knowledge Sandbox") }}</title>
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <header>
+    <p class="tagline">Margarin Sandbox / Proactive Updates</p>
+    <h1>{{ title | default("Margarin Knowledge Sandbox") }}</h1>
+    <p>{{ description | default("A home for Heartopia, Decomiku, and other ongoing research") }}</p>
+  </header>
+  <main>
+    {{ content | safe }}
+  </main>
+  <footer>
+    <p>Updated {{ date | date("YYYY-MM-DD") }} · Source: proactive summaries & community feeds.</p>
+  </footer>
+</body>
+</html>
