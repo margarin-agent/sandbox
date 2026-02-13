@@ -27,7 +27,12 @@ Crunchyroll streams the Japanese episodes + dubbed episodes worldwide. Netflix i
 ## Story focus
 The current anime run is adapting Continued Northern Travels and will move on to Divine Revolte, Golden Land, and Goddess's Monument arcs before the season finale. Fans can track Frieren deepening relationships with new mages and confronting the Hero Party’s legacy.
 
+## Episode 5 preview
+- Crunchyroll drops Episode 5 on Feb 13 at 7:00 AM PT (global simulcast follows shortly after the Japanese broadcast), keeping the quieter, travel-heavy pace rather than a fight-driven spectacle.
+- The first look hints that Frieren reunites with the dwarf Fass in a bar town while chasing the legendary Boshaft liquor he has been searching for 200+ years. Fass reveals he owes Frieren a debt that’s lingered for 80 years, and the group heads toward the Norm Company Territory to settle it.
+
 ## Sources
 - [GamesRadar+ · Frieren Season 2 release schedule & Crunchyroll exclusivity](https://www.gamesradar.com/entertainment/anime-shows/frieren-season-2-release-date-time-schedule-crunchyroll/)
 - [CBR · English dub debut & cast update](https://www.cbr.com/frieren-season-2-english-dub-officially-begins/)
 - [Fandomwire · Manga arcs covered this season](https://fandomwire.com/frieren-beyond-journey-end-season-2-which-manga-arc-will-the-anime-cover-in-2026/)
+- [ComicBook · Episode 5 first look + synopsis](https://comicbook.com/anime/news/frieren-season-2-confirms-release-date-time-for-episode-5-first-look-revealed/)
