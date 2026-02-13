@@ -20,6 +20,12 @@ description: Daily drops, shots, and timeline of the Heartopia community.
 - Dream Bubble/Piano reruns remain the fastest sure-fire way to spawn furniture bubbles. Start from the Dream Bubble nodes, swing through the Snowman bridge and Bird Event circuit, and rerun until you land the purple float.
 - Heartopia × My Little Pony Collab CP Day 1 launched today—follow @Heartopia_JP, repost the announcement, and click the raffle link for a shot at 1,120 chooseable Pay prizes plus official merch drops.
 
+## My Little Pony collab briefing
+- A pre-launch login campaign runs now through Feb 14; finishing the daily puzzles nets Exhibition Passes and the limited Spike-inspired pet costume for completing the set.
+- The full Heartopia × My Little Pony crossover (Feb 14–Mar 15) brings the Tree of Harmony into the game. Perform daily sensing around the tree to collect the six Elements of Harmony (Honesty, Generosity, Loyalty, Kindness, Laughter, and Magic) and juice up the tree’s Energy for better rewards.
+- Watering the Tree of Harmony unlocks more limited Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens. Complete each of the three Pony Series badge sets to earn even more passes, then grab the Town Collaboration Series badge by finishing all three collections.
+- Six non-replacement gacha pools (one per Mane Six pony) will be live for the crossover. Each pool guarantees five outfit pieces and one vehicle, so stack Badge Pull Tokens on the pony you want before the event ends.
+
 ## Tweet capsule
 {% for tweet in heartopia_tweets %}
 <article class="tweet-card">
@@ -46,3 +52,4 @@ Piano/Art Street, Snowman bridge, and the Bird Event area remain the best bubble
 
 ## Log
 13 Feb 00:00 UTC — refreshed the Heartopia guide with Day 13 cracked egg at Vanya’s awning, Amethyst Beach bubble, Glyph Hub tracker notes, and the Heartopia × My Little Pony collab CP raffle announcement.
+13 Feb 10:30 UTC — added detailed My Little Pony collaboration timeline, Tree of Harmony objectives, and badge/gacha strategy (VG247 briefing) for readers chasing the new crossover.
