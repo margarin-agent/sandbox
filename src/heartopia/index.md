@@ -5,20 +5,20 @@ description: Daily drops, shots, and timeline of the Heartopia community.
 ---
 
 ## Resources today (13 Feb 2026)
-- **Fluorite:** Onsen Mountain lake (north shore) — the double camp near Vanya still gives steady spawns, so loop from the bus stop at the dock for a quick net.
-- **Oak Timber:** Plot 12 cluster, same run as Fluorite for the best mileage.
-- **Egg:** Day 13 cracked egg perches on Vanya’s fishing stall roof; keep circling the shoreline and the ocean-facing blue egg pops into view.
-- **Bubble:** The snowman bubble drifts above the purple lifeguard station at Amethyst Beach; pop it immediately after the photo to claim Fashionwave Tokens and continue the promise track.
+- **Fluorite:** Onsen Mountain lake (north shoreline). The double camp near Vanya is still giving steady spawns, so loop from the dock-return bus stop for the quickest haul.
+- **Oak Timber:** Plot 12 cluster—pair it with Fluorite runs to keep momentum while the snow slows no one down.
+- **Egg:** Blue cracked egg perches on Vanya’s fishing stall roof; circle the dock, snap the photo once it sparkles, and you can hit the bubble before the day reset.
+- **Bubble:** The Amethyst Beach purple lifeguard station bubble is live again. Pop it right after the photo to grab furniture rewards while the Heartopia × My Little Pony collab event stays hot.
 
 ## Feb 13 tracker (Day 13)
-- **Egg location:** Follow Polygon/TheGamer and head to the shoreline near Vanya’s fishing stall—turn left toward the water and the blue cracked egg sits on the stall’s awning facing the sea. Snap the photo from the dock and let the camera register the sparkle.
-- **Furniture bubble:** Amethyst Beach’s purple lifeguard station hosts the bubble now. Stay on the sand until the bubble spawns, then pop it for the latest furniture reward after your photo registers.
-- **Tactics:** If the bubble doesn’t appear instantly, step toward the lifeguard hut, leave the area for a few steps, and reenter—the tracker usually updates within seconds. Keep a couple of V energy drinks handy for the loop.
+- **Egg location:** Follow Polygon and TheGamer cues—head to the shoreline near Vanya’s stall, swing inside the booth, and the cracked egg shows above the roof awning. Stay long enough for the shine animation to finish before snapping shots.
+- **Furniture bubble:** The purple lifeguard hut at Amethyst Beach is the bubble anchor today. If it doesn't spawn instantly, step out toward the sand, slo-mo a circle, then re-enter; it refreshes within seconds.
+- **Tactics:** Keep two V energy drinks in your inventory so you can sprint Vanya → lifeguard → Roaming Oak loops without pausing. The Glyph Hub tracker is still the best reference for Day 1–5 vs Day 6+ bubble arcs.
 
 ## Events & quests
-- Onsen Egg Promise rolls through Feb 14—keep collecting each cracked egg + bubble pair to unlock the snowman sculpture finale. Glyph Hub’s Day 1–5 and Day 6+ maps still showing the bubble arcs for quick reference.
-- Dream Bubble/piano reruns remain the fastest way to trigger furniture bubbles; start from Dream Bubble nodes, swing through Snowman bridge and the Bird Event area, and rerun until the purple float appears.
-- Heartopia × My Little Pony collaboration CP Day 1 launched—follow @Heartopia_JP, repost the announcement, and check the raffle link for a chance at 1,120 chooseable Pay prizes and official merch.
+- Onsen Egg Promise continues through Feb 14—collect each cracked egg + bubble pair to climb the snowman sculpture ladder. Glyph Hub’s Day 6+ map still lists the full bubble rotation, so reference it during every loop.
+- Dream Bubble/Piano reruns remain the fastest sure-fire way to spawn furniture bubbles. Start from the Dream Bubble nodes, swing through the Snowman bridge and Bird Event circuit, and rerun until you land the purple float.
+- Heartopia × My Little Pony Collab CP Day 1 launched today—follow @Heartopia_JP, repost the announcement, and click the raffle link for a shot at 1,120 chooseable Pay prizes plus official merch drops.
 
 ## Tweet capsule
 {% for tweet in heartopia_tweets %}
@@ -38,11 +38,11 @@ description: Daily drops, shots, and timeline of the Heartopia community.
 {% endfor %}
 
 ## Community tactics
-- Carry 250k budget + seasonal salads so you can sprint the shoreline, bubble, and living room loops without stopping.
-- Keep Glyph Hub’s Day 6+ tracker open and toggle between Dream Bubble nodes to watch the bubble spawn timers.
+- Carry 250k budget plus seasonal salads so you can sprint the coastline, bubble, and living room loops without stopping. The collab tokens help if you need extra stamina.
+- Flip between the Glyph Hub Day 6+ tracker and the Heartopia dream bubble timer—drop the timer on repeat and the bubble respawns match up with your loop velocity.
 
 ## Bubble hunting hints
-Piano/Art Street, Snowman bridge, and Bird Event area remain top bubble locations. Rerun the Dream Bubble sequence, keep the Glyph Hub checklist handy, and watch the Onsen tree tops for the Emerald Egg/February ornament spawns after the cracked egg photos.
+Piano/Art Street, Snowman bridge, and the Bird Event area remain the best bubble locations. Keep the Glyph Hub checklist handy and watch the Onsen tree tops for Emerald Egg/February ornament spawns after each cracked egg photo run.
 
 ## Log
-13 Feb 00:00 UTC — refreshed Heartopia guide for Day 13’s cracked egg at Vanya’s stall, Amethyst Beach bubble, Glyph Hub tracker, and the new collab CP raffle notes.
+13 Feb 00:00 UTC — refreshed the Heartopia guide with Day 13 cracked egg at Vanya’s awning, Amethyst Beach bubble, Glyph Hub tracker notes, and the Heartopia × My Little Pony collab CP raffle announcement.
