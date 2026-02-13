@@ -4,16 +4,16 @@ layout: default
 description: Daily drops, shots, and timeline of the Heartopia community.
 ---
 
-## Resources today (12 Feb 2026)
-- **Fluorite:** Onsen Mountain Lake (northern spawn cluster).
-- **Oak Timber:** House #12, same run as Fluorite for efficiency.
-- **Egg:** Jade Onsen egg (Day 12) hiding in the grass/bushes near Eric’s stall and behind the shrubs across from Blanc’s flower stand. Take the picture, then step back to trigger the bubble spawn.
-- **Bubble:** Furniture bubble spawns right after the photo at the Andrew signpost in Suburban Lake (two tall trees + hanging directional board). Pop it to grab the Aquamarine ornament reward.
+## Resources today (13 Feb 2026)
+- **Fluorite:** Onsen Mountain Lake (north shore) — ride the bus stop near Vanya to sweep the spawn cluster.
+- **Oak Timber:** Plot 12 cluster, same route as Fluorite for fast harvesting.
+- **Egg:** Day 13 cracked blue egg sits atop Vanya’s fishing stall (Onsen shoreline). Photographed from the dock, it’s easy to spot once you circle the stall and look seaward.
+- **Bubble:** Bubble hovers above the purple lifeguard station at Amethyst Beach; approach immediately once the photo registers so the snowman float can be popped for Fashionwave tokens.
 
-## Feb 12 tracker (Day 12)
-- **Egg location:** Jade egg is tucked into the bushes near Eric’s pathway and the Blanc flower stall; multiple guides (IGN, Heartopia Tips) describe it as the grassy cluster beside the Onsen path.
-- **Furniture bubble:** Once the photo registers, walk to the signpost just behind Andrew in the Suburban Lake area (look for the cluster of trees with the hanging board) and pop the bubble there for the Day 12 reward.
-- **Tactics:** Snap the egg photo from the path, back away so the camera registers it, then watch for the bubble to appear at the signpost—if it doesn’t, relog or hop servers and double-check the quest tracker says Day 12 complete.
+## Feb 13 tracker (Day 13)
+- **Egg location:** Head to the shoreline near Vanya’s fishing stall, turn left toward the water, and the blue cracked egg is perched on the stall’s roof facing the ocean. TheGamer and Polygon both highlight the seaside placement—snap the photo, then walk toward Amethyst Beach for the bubble.
+- **Furniture bubble:** The Amethyst Beach purple lifeguard station hosts the Day 13 snowman bubble. Pop it for Fashionwave Tokens and event progress once the camera registers the egg.
+- **Tactics:** If the bubble doesn’t spawn immediately, step out of the zone and reenter; the daily tracker usually updates within seconds of the photo. Keep a couple of V’s on hand for stamina refills mid-run.
 
 ## Tweet capsule
 {% for tweet in heartopia_tweets %}
@@ -33,16 +33,16 @@ description: Daily drops, shots, and timeline of the Heartopia community.
 {% endfor %}
 
 ## Events & quests
-- Onsen Egg Promise Treasure Hunt continues with the Day 12 aqua/fun bubble and Day 13 just ahead—keep collecting the photo + bubble pair so the tracker rewards unlock.
-- Dream Bubble/piano reruns are the current focus—repeat interactions to trigger the furniture bubble and track rare drops on Snowman bridge and Pine Street.
-- Day 10/11 snow theme: chat with Doris before hunting for extra bonuses.
+- Onsen Egg Promise steps through Feb 14—collect each cracked egg photo and its bubble pair to unlock the snowman sculpture bonus.
+- Dream Bubble reruns keep dropping along Piano/Art Street; start from the Dream Bubble node, then swing through Snowman bridge and Bird Event to stack resources.
+- Chat with Doris after each egg/bubble run for the bonus Energy and Fashionwave token reward.
 
 ## Community tactics
-- Stock energy (salads) and budgets (~200k) so you can sprint loops without missing bubble attempts.
-- Use Glyph Hub’s Day 6+ tracker + Snowman map while you rerun Dream Bubble to watch for furniture bubble spawns.
+- Carry at least 250k budget + seasonal salads so you can sprint from Vanya to Amethyst Beach without stopping.
+- Keep Glyph Hub’s Day 6+ tracker and Snowman map open; toggle between Dream Bubble nodes to keep the bubble spawn timer in check.
 
 ## Bubble hunting hints
-Piano/Art Street, Snowman bridge, and Bird Event area remain the best bets. Keep Glyph Hub’s list open, rerun Dream Bubble sequences, and check the Onsen tree tops for the Emerald Egg and associated furniture bubble.
+Piano/Art Street, Snowman bridge, and Bird Event area remain top bubble locations. Keep Glyph Hub’s list visible, rerun Dream Bubble sequences, and watch the Onsen tree tops for the Emerald Egg spawn after the cracked egg photos.
 
 ## Log
-12 Feb 04:30 UTC — refreshed midday Heartopia page with Day 12 Naughty egg/bubble update and Suburban Lake furniture notes.
+13 Feb 00:00 UTC — refreshed Heartopia guide with Day 13 cracked egg at Vanya’s stall plus the Amethyst Beach bubble and latest Onsen event techniques.
