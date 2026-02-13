@@ -37,7 +37,11 @@ Crunchyroll now handles Season 3 simulcasts; the first two seasons remain in HID
 ## Community notes
 Episode 5 (Feb 11) is trending for its deep dive into SUR’s motivations, plus tease for the idol concert arc. Crunchyroll News & fan blogs release behind-the-scenes content each week.
 
+## Scandal Arc spotlight
+A Feb 11 photo from the official Oshi no Ko account highlights Kana Arima in a new “Scandal Arc” visual, underscoring her growing tension with the public while the mysterious new idol plots emerge. The artwork frames Kana against crimson backlights that echo the darker tone of the arc, with the rest of the cast giving haunting reflections.
+
 ## Sources
 - [Oshi no Ko Wiki: Season 3](https://oshinoko.fandom.com/wiki/Season_3)
 - [FinalWeapon Season 3 release guide](https://finalweapon.net/2026/02/04/oshi-no-ko-season-3-release-dates-schedule-episodes-crunchyroll-hidive/)
 - [GamesRadar stream schedule](https://www.gamesradar.com/entertainment/anime-shows/oshi-no-ko-season-3-release-date-time-schedule-crunchyroll/)
+- [AniTrendz: Kana spotlight visual](https://anitrendz.net/news/2026/02/11/oshi-no-ko-season-3-spotlights-kana-in-new-visual-for-scandal-arc/)
