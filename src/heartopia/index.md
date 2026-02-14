@@ -4,27 +4,26 @@ layout: default
 description: Daily drops, shots, and timeline of the Heartopia community.
 ---
 
-## Resources today (13 Feb 2026)
-- **Fluorite:** Onsen Mountain lake (north shoreline). The double camp near Vanya is still giving steady spawns, so loop from the dock-return bus stop for the quickest haul.
-- **Oak Timber:** Plot 12 cluster—pair it with Fluorite runs to keep momentum while the snow slows no one down.
-- **Egg:** Blue cracked egg perches on Vanya’s fishing stall roof; circle the dock, snap the photo once it sparkles, and you can hit the bubble before the day reset.
-- **Bubble:** The Amethyst Beach purple lifeguard station bubble is live again. Pop it right after the photo to grab furniture rewards while the Heartopia × My Little Pony collab event stays hot.
+## Resources today (14 Feb 2026)
+- **Fluorite:** Onsen Mountain Lake’s north shoreline keeps spitting out sharp clusters—run north from the dock and sweep the abandoned inn’s courtyards before the snow resets.
+- **Oak Timber:** Plot 12’s forest cluster still dominates the Roaming Oak drops, letting you tag a second diameter while the Fluorite queue cools.
+- **Egg:** The cracked egg is precariously perched above Vanya’s fishing stall awning; wait for the sparkle and then sprint toward the bubble before the timer ticks down.
+- **Bubble:** Amethyst Beach’s purple lifeguard station bubble is back—pop it immediately after the egg photo to lock in furniture pieces while the My Little Pony collab rotates infamous rewards.
 
-## Feb 13 tracker (Day 13)
-- **Egg location:** Follow Polygon and TheGamer cues—head to the shoreline near Vanya’s stall, swing inside the booth, and the cracked egg shows above the roof awning. Stay long enough for the shine animation to finish before snapping shots.
-- **Furniture bubble:** The purple lifeguard hut at Amethyst Beach is the bubble anchor today. If it doesn't spawn instantly, step out toward the sand, slo-mo a circle, then re-enter; it refreshes within seconds.
-- **Tactics:** Keep two V energy drinks in your inventory so you can sprint Vanya → lifeguard → Roaming Oak loops without pausing. The Glyph Hub tracker is still the best reference for Day 1–5 vs Day 6+ bubble arcs.
+## Feb 14 tracker (Day 14)
+- **Egg loop:** Start at Vanya, snap the egg after the shine animation, then swing past the Amethyst Beach bubble and circle through Plot 12; the LunarNook coordinate collage keeps the path tidy so you can move from egg to bubble in a single run.
+- **Bubble timing:** Keep Glyph Hub’s Day 6+ schedule on deck, drop the timer between the Snowman bridge, Bird Event, and Dream Bubble nodes, and follow tangyly00’s snack cabinet build inspiration while waiting for the furniture loop to refresh.
+- **Pacing:** Keep two stamina snacks in your pocket—Vaya’s bus runs, bubble pops, and Tree of Harmony sensing loops stack up quickly, so double-check your inventory before starting the full circuit.
 
 ## Events & quests
-- Onsen Egg Promise continues through Feb 14—collect each cracked egg + bubble pair to climb the snowman sculpture ladder. Glyph Hub’s Day 6+ map still lists the full bubble rotation, so reference it during every loop.
-- Dream Bubble/Piano reruns remain the fastest sure-fire way to spawn furniture bubbles. Start from the Dream Bubble nodes, swing through the Snowman bridge and Bird Event circuit, and rerun until you land the purple float.
-- Heartopia × My Little Pony Collab CP Day 1 launched today—follow @Heartopia_JP, repost the announcement, and click the raffle link for a shot at 1,120 chooseable Pay prizes plus official merch drops.
+- Onsen Egg Promise keeps running through Feb 15—collect each cracked egg + bubble pair to climb the snowman sculpture ladder and keep the Purple Lifeguard station in rotation.
+- Heartopia × My Little Pony Collaboration is live from Feb 14 to Mar 15. Daily Tree of Harmony sensing now grants Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens once you complete each Pony Series badge, plus Town Collaboration Series rewards when you gap-complete all sets.
+- The Specialty Exhibition sells limited My Little Pony furniture, costumes, and accessory bundles—drop by after your loop to preview the pony-tier outfits.
 
 ## My Little Pony collab briefing
-- A pre-launch login campaign runs now through Feb 14; finishing the daily puzzles nets Exhibition Passes and the limited Spike-inspired pet costume for completing the set.
-- The full Heartopia × My Little Pony crossover (Feb 14–Mar 15) brings the Tree of Harmony into the game. Perform daily sensing around the tree to collect the six Elements of Harmony (Honesty, Generosity, Loyalty, Kindness, Laughter, and Magic) and juice up the tree’s Energy for better rewards.
-- Watering the Tree of Harmony unlocks more limited Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens. Complete each of the three Pony Series badge sets to earn even more passes, then grab the Town Collaboration Series badge by finishing all three collections.
-- Six non-replacement gacha pools (one per Mane Six pony) will be live for the crossover. Each pool guarantees five outfit pieces and one vehicle, so stack Badge Pull Tokens on the pony you want before the event ends.
+- **Tree of Harmony loop:** Hit the tasting nodes each day to collect the six Elements of Harmony (Honesty, Generosity, Loyalty, Kindness, Laughter, Magic). Water the tree to charge its energy, unlock better Exhibition Pass drops, and stack tokens for Badge Pulls.
+- **Badge strategy:** Three non-replacement pony pools guarantee five outfit pieces and one vehicle per pull. Spend Badge Pull Tokens on the pony you need most before the Tree of Harmony timers reset.
+- **Special rewards:** D.G. members earn Exhibition Passes and My Little Pony costumes by reaching milestone energy levels. Continue sharing build photos like tangyly00’s snack cabinet so the specialization team can keep the café vibes fresh.
 
 ## Tweet capsule
 {% for tweet in heartopia_tweets %}
@@ -44,12 +43,13 @@ description: Daily drops, shots, and timeline of the Heartopia community.
 {% endfor %}
 
 ## Community tactics
-- Carry 250k budget plus seasonal salads so you can sprint the coastline, bubble, and living room loops without stopping. The collab tokens help if you need extra stamina.
-- Flip between the Glyph Hub Day 6+ tracker and the Heartopia dream bubble timer—drop the timer on repeat and the bubble respawns match up with your loop velocity.
+- Keep a Glyph Hub Day 6+ checklist, the LunarNook coordinate collage, and the Tree of Harmony timers open on a second screen so you can jump from egg to bubble to collab rewards without missing a beat.
+- Bring at least two V-energy drinks and a snack kit before starting the Coastal Loop—Amethyst Beach bubble pops and the bus-loop to Vanya’s stall can stretch your stamina quickly.
+- Post new Fluorite and Roaming Oak spawns (especially Plot 12 and Onsen Mountain Lake) and tag the collab ref posts so others can sync numbers.
 
 ## Bubble hunting hints
-Piano/Art Street, Snowman bridge, and the Bird Event area remain the best bubble locations. Keep the Glyph Hub checklist handy and watch the Onsen tree tops for Emerald Egg/February ornament spawns after each cracked egg photo run.
+Piano/Art Street, Snowman bridge, and the Bird Event area still supply the most reliable bubbles. Keep the Glyph Hub timer on repeat to know exactly when the purple bubble at Amethyst Beach will respawn.
 
 ## Log
-13 Feb 00:00 UTC — refreshed the Heartopia guide with Day 13 cracked egg at Vanya’s awning, Amethyst Beach bubble, Glyph Hub tracker notes, and the Heartopia × My Little Pony collab CP raffle announcement.
-13 Feb 10:30 UTC — added detailed My Little Pony collaboration timeline, Tree of Harmony objectives, and badge/gacha strategy (VG247 briefing) for readers chasing the new crossover.
+- 14 Feb 00:00 UTC — Midday refresh: captured today’s cracked egg loop, Amethyst Beach bubble, and Tree of Harmony sensing notes, plus updated the asset gallery with new collage shots and snack-cabinet inspiration.
+- 14 Feb 08:50 UTC — Added My Little Pony collaboration timeline, badge strategy, and LunarNook/tangyly00 community callouts to keep the crossover loop prioritized ahead of the new exhibition rewards.
