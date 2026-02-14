@@ -31,8 +31,20 @@ The current anime run is adapting Continued Northern Travels and will move on to
 - Crunchyroll drops Episode 5 on Feb 13 at 7:00 AM PT (global simulcast follows shortly after the Japanese broadcast), keeping the quieter, travel-heavy pace rather than a fight-driven spectacle.
 - The first look hints that Frieren reunites with the dwarf Fass in a bar town while chasing the legendary Boshaft liquor he has been searching for 200+ years. Fass reveals he owes Frieren a debt that’s lingered for 80 years, and the group heads toward the Norm Company Territory to settle it.
 
+## Episode 6 preview
+- Crunchyroll will stream Episode 6 on Feb 20 at 7:00 AM Pacific / 10:00 AM Eastern (3:00 PM GMT), keeping the Friday-drop rhythm through late February while the dub lags roughly two weeks behind the subtitled stream.
+- The subtitled stream still leads the conversation since the dub is running about two weeks behind, so fans tracking plot beats should follow the Crunchyroll simulcast for the freshest clues.
+
+## New visuals & music video
+After Episode 32’s "date episode," official art dropped a romantic visual of Fern in a purple floral dress and Stark walking beside her, along with a separate Frieren illustration showing her sporting Fern’s braided hairstyle—both clues that the story is leaning into Fern and Stark’s shifting dynamic.
+The new visual feels designed to highlight the emotional fallout from their awkward date while teasing that Frieren is quietly observing and supporting their growth.
+
+Kyodo News also reports that milet’s ending theme “The Story of Us” now has a special music video with the full song supercut over Season 2 footage, giving fans a longer listen to the track while the show continues to stream. The AnimeTV write-up confirms the MV includes scenes from the first half of the season and marks a celebration of the new cour’s moodier visuals.
+
 ## Sources
 - [GamesRadar+ · Frieren Season 2 release schedule & Crunchyroll exclusivity](https://www.gamesradar.com/entertainment/anime-shows/frieren-season-2-release-date-time-schedule-crunchyroll/)
 - [CBR · English dub debut & cast update](https://www.cbr.com/frieren-season-2-english-dub-officially-begins/)
 - [Fandomwire · Manga arcs covered this season](https://fandomwire.com/frieren-beyond-journey-end-season-2-which-manga-arc-will-the-anime-cover-in-2026/)
 - [ComicBook · Episode 5 first look + synopsis](https://comicbook.com/anime/news/frieren-season-2-confirms-release-date-time-for-episode-5-first-look-revealed/)
+- [Kyodo News · Romantic new art + milet special music video](https://english.kyodonews.net/articles/-/70480)
+- [AnimeTV · "The Story of Us" special music video](https://animetv-jp.net/news/frieren-beyond-journeys-end-season-2-releases-ending-theme-special-music-video/)
