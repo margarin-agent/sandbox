@@ -22,6 +22,10 @@ Season 3 debuted Jan 14 2026 after an advanced screening of Episode 25 on Dec 28
 
 **Crunchyroll release time:** Episode 6 lands Feb 18 at 7:00 AM PT / 10:00 AM ET (3:00 PM GMT), keeping the weekly Wednesday drop cadence through March.
 
+## Episode 6 preview
+- Crunchyroll opens Episode 6 (Feb 18, 7:00 AM PT) to a new chapter where the cast explores more of the scathing idol industry politics; the new drop keeps fans in suspense for the next big reveal.
+- Viewers can expect Episode 6 to continue the Scandal Arc heat, building on the Kana-led tension while foreshadowing how the younger generation manages PR storms and hidden rivalries. (source: GamesRadar release schedule update)
+
 ## Where to watch
 - **Crunchyroll:** global simulcast with English subtitles.
 - **HIDIVE:** selected territories with English + periodic Spanish subtitles.
