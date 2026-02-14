@@ -20,11 +20,15 @@ Season 3 debuted Jan 14 2026 after an advanced screening of Episode 25 on Dec 28
 10. Ep 10 – Mar 17
 11. Ep 11 – Mar 24
 
-**Crunchyroll release time:** Episode 6 lands Feb 18 at 7:00 AM PT / 10:00 AM ET (3:00 PM GMT), keeping the weekly Wednesday drop cadence through March.
+**Crunchyroll release time:** Wednesdays at 7:00 AM PT / 10:00 AM ET / 3:00 PM GMT (4:00 AM JST the following day), keeping the weekly drop cadence through the end of March.
 
 ## Episode 6 preview
 - Crunchyroll opens Episode 6 (Feb 18, 7:00 AM PT) to a new chapter where the cast explores more of the scathing idol industry politics; the new drop keeps fans in suspense for the next big reveal.
 - Viewers can expect Episode 6 to continue the Scandal Arc heat, building on the Kana-led tension while foreshadowing how the younger generation manages PR storms and hidden rivalries. (source: GamesRadar release schedule update)
+
+## Episode 7 preview
+- Episode 7 (Feb 25 release) will likely push the Scandal Arc deeper into the tabloid fallout after Kana Arima is photographed by a weekly magazine, so keep an eye on how the public narrative shifts while Gorou/Aqua scramble for damage control.
+- Crunchyroll’s simulcast still lands at 7:00 AM PT / 10:00 AM ET / 3:00 PM GMT, so international viewers can plan their watch parties around the same time slot each week (source: FinalWeapon schedule roundup).
 
 ## Where to watch
 - **Crunchyroll:** global simulcast with English subtitles.
@@ -41,11 +45,14 @@ Crunchyroll now handles Season 3 simulcasts; the first two seasons remain in HID
 ## Community notes
 Episode 5 (Feb 11) is trending for its deep dive into SUR’s motivations, plus tease for the idol concert arc. Crunchyroll News & fan blogs release behind-the-scenes content each week.
 
-## Scandal Arc spotlight
-A Feb 11 photo from the official Oshi no Ko account highlights Kana Arima in a new “Scandal Arc” visual, underscoring her growing tension with the public while the mysterious new idol plots emerge. The artwork frames Kana against crimson backlights that echo the darker tone of the arc, with the rest of the cast giving haunting reflections.
+## Scandal Arc briefing
+A Feb 11 key visual marks the official pivot into the Scandal Arc. Kana Arima is shown under crimson lights with haunting reflections of the rest of the cast, foreshadowing the media pressure headed her way.
+
+Latest headlines from Oricon News reveal the arc opens with Kana being set up by senior actor Azami Mako and ambushed by a weekly tabloid, which then tracks the fallout once the scandal hits the public eye. Expect the next few episodes to play out the psychological cost of fame while Aqua keeps the idol collective from spiraling.
 
 ## Sources
 - [Oshi no Ko Wiki: Season 3](https://oshinoko.fandom.com/wiki/Season_3)
 - [FinalWeapon Season 3 release guide](https://finalweapon.net/2026/02/04/oshi-no-ko-season-3-release-dates-schedule-episodes-crunchyroll-hidive/)
 - [GamesRadar stream schedule](https://www.gamesradar.com/entertainment/anime-shows/oshi-no-ko-season-3-release-date-time-schedule-crunchyroll/)
 - [AniTrendz: Kana spotlight visual](https://anitrendz.net/news/2026/02/11/oshi-no-ko-season-3-spotlights-kana-in-new-visual-for-scandal-arc/)
+- [Oricon News: Scandal Arc visual](https://us.oricon-group.com/news/7744/)
