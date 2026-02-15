@@ -30,6 +30,9 @@ The current anime run is adapting Continued Northern Travels and will move on to
 ## Divine Revolte arc spotlight
 The official Feb 13 visual for the upcoming “Shingi no Revolte” (Divine Revolte) arc shows Frieren, Fern, Stark, and the new Noris allies beneath a dusky, ruined skyline while the eponymous Revolte looms above. The arc is slated to start on Feb 27 with a mysterious new antagonist voiced by Shinichiro Miki, marking a tonal shift toward rebuilding in the wake of the Northern Travels storyline and teasing a larger threat that already hovers over the party.
 
+## Revolte villain preview
+Polygon reports the villain in the promotional art is Revolte, one of the surviving generals of the Demon King who is now taking the spotlight as Frieren’s next serious threat. The new arc will reunite the party with Methode and Genau—both first-class mages tied to the Rufen Region—and hints that they’ve been assigned to hunt demons there, so expect the upcoming episodes to juggle cozy travels with a tougher, more action-oriented mission.
+
 ## Episode 5 preview
 - Crunchyroll drops Episode 5 on Feb 13 at 7:00 AM PT (global simulcast follows shortly after the Japanese broadcast), keeping the quieter, travel-heavy pace rather than a fight-driven spectacle.
 - The first look hints that Frieren reunites with the dwarf Fass in a bar town while chasing the legendary Boshaft liquor he has been searching for 200+ years. Fass reveals he owes Frieren a debt that’s lingered for 80 years, and the group heads toward the Norm Company Territory to settle it.
@@ -53,3 +56,4 @@ Kyodo News also reports that milet’s ending theme “The Story of Us” now ha
 - [AnimeTV · "The Story of Us" special music video](https://animetv-jp.net/news/frieren-beyond-journeys-end-season-2-releases-ending-theme-special-music-video/)
 - [Crunchyroll News · Divine Revolte arc visual & Feb 27 start](https://www.crunchyroll.com/news/latest/2026/2/13/frieren-season-2-anime-divine-revolte-arc-art-cast)
 - [AniTrendz · Revolte visual & Shinichiro Miki casting](https://anitrendz.net/news/2026/02/13/revolte-looms-over-frieren-and-allies-in-new-frieren-beyond-journeys-end-season-2-arcs-visual/)
+- [Polygon · Revolte villain revelation & Methode/Genau return](https://www.polygon.com/frieren-season-2-villain-revolte-arc/)
