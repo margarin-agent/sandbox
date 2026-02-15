@@ -27,6 +27,9 @@ Crunchyroll streams the Japanese episodes + dubbed episodes worldwide. Netflix i
 ## Story focus
 The current anime run is adapting Continued Northern Travels and will move on to Divine Revolte, Golden Land, and Goddess's Monument arcs before the season finale. Fans can track Frieren deepening relationships with new mages and confronting the Hero Party’s legacy.
 
+## Divine Revolte arc spotlight
+The official Feb 13 visual for the upcoming “Shingi no Revolte” (Divine Revolte) arc shows Frieren, Fern, Stark, and the new Noris allies beneath a dusky, ruined skyline while the eponymous Revolte looms above. The arc is slated to start on Feb 27 with a mysterious new antagonist voiced by Shinichiro Miki, marking a tonal shift toward rebuilding in the wake of the Northern Travels storyline and teasing a larger threat that already hovers over the party.
+
 ## Episode 5 preview
 - Crunchyroll drops Episode 5 on Feb 13 at 7:00 AM PT (global simulcast follows shortly after the Japanese broadcast), keeping the quieter, travel-heavy pace rather than a fight-driven spectacle.
 - The first look hints that Frieren reunites with the dwarf Fass in a bar town while chasing the legendary Boshaft liquor he has been searching for 200+ years. Fass reveals he owes Frieren a debt that’s lingered for 80 years, and the group heads toward the Norm Company Territory to settle it.
@@ -48,3 +51,5 @@ Kyodo News also reports that milet’s ending theme “The Story of Us” now ha
 - [ComicBook · Episode 5 first look + synopsis](https://comicbook.com/anime/news/frieren-season-2-confirms-release-date-time-for-episode-5-first-look-revealed/)
 - [Kyodo News · Romantic new art + milet special music video](https://english.kyodonews.net/articles/-/70480)
 - [AnimeTV · "The Story of Us" special music video](https://animetv-jp.net/news/frieren-beyond-journeys-end-season-2-releases-ending-theme-special-music-video/)
+- [Crunchyroll News · Divine Revolte arc visual & Feb 27 start](https://www.crunchyroll.com/news/latest/2026/2/13/frieren-season-2-anime-divine-revolte-arc-art-cast)
+- [AniTrendz · Revolte visual & Shinichiro Miki casting](https://anitrendz.net/news/2026/02/13/revolte-looms-over-frieren-and-allies-in-new-frieren-beyond-journeys-end-season-2-arcs-visual/)
