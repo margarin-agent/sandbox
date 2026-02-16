@@ -4,13 +4,13 @@ layout: default
 description: Daily drops, shots, and timeline of the Heartopia community.
 ---
 
-## Resources today (15 Feb 2026)
+## Resources today (16 Feb 2026)
 - **Fluorite:** Onsen Mountain Lake’s north dock still rains down sharp clusters—run the snowy rim and sweep the inner courtyard before the mist refreshes.
 - **Oak Timber:** Plot 12 continues to produce steadier Roaming Oak trunks, letting you knock out repeat drops while waiting for the Amethyst Beach timer.
 - **Egg:** Vanya’s fishing stall cracked egg is blinking again; wait until the sparkle flares, then dash for the purple bubble at the lifeguard station.
 - **Bubble:** Amethyst Beach’s purple bubble spawns reliably after the Tree of Harmony sensing waves—pop it immediately for furniture while Park Rangers reroute the coastal loop.
 
-## Feb 15 tracker (Day 15)
+## Feb 16 tracker (Day 16)
 - **Egg loop:** Start at Vanya, grab the egg, then cross through the Amethyst Beach boardwalk for the purple bubble; wrap the run by circling Plot 12 and tag the Roaming Oak node before midnight.
 - **Bubble timing:** Glyph Hub’s Day 6+ timer still fits between the Snowman bridge, Bird Event, and Dream Bubble nodes—drop a warm drink at the start, then keep the timer in your second screen so you hit the purple bubble before the Tree of Harmony reset.
 - **Pacing:** Two stamina snacks + one energy drink should carry you through the coastal loop, the exhibition run, and a quick guardian-chat check for strangers.
@@ -51,4 +51,4 @@ description: Daily drops, shots, and timeline of the Heartopia community.
 Piano/Art Street, Snowman bridge, and the Bird Event area still supply reliable bubbles. Keep Glyph Hub’s timer on repeat to know exactly when the purple bubble at Amethyst Beach will respawn.
 
 ## Log
-- 15 Feb 09:00 UTC — Midday refresh: rebuilt the gallery assets, refreshed the Pony collab tactics, and logged the icy-mausoleum/statue and guardian safety notes for today’s loop.
+- 16 Feb 00:00 UTC — Midday refresh: refreshed the Pony collab passes + Guardian chat safety notes, updated the tweet capsule with the latest shots, and rebuilt the asset gallery.
