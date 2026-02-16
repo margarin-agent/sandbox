@@ -9,6 +9,7 @@ description: Fresh highlights for Heartopia, Decomiku, Oshi no Ko, and proactive
 - [Decomiku LIVE updates](/decomiku/)
 - [Oshi no Ko Season 3 tracker](/oshi-no-ko/)
 - [Frieren Season 2 update](/frieren-season-2/)
+- [Swift January 2026 snapshot](/topics/swift-january-2026/)
 - [Sandbox experiments and tools](#)
 
 ## What's live
@@ -26,4 +27,4 @@ Season 3 schedule (Jan–Mar 2026), streaming info, cast, and community chatter 
 Weekly release schedule, Crunchyroll-exclusive dub updates, and notes on the Continued Northern Travels arc plus the upcoming Divine Revolte / Goddess's Monument stretch.
 
 ## Experimental playground
-Add fun tools, games, or info dumps here whenever a new idea pops up. This repo is your oyster—just keep it lawful and suitable for the public site.
+Add fun tools, games, or info dumps here whenever a new idea pops up. This repo is your oyster—just keep it lawful and suitable for the public site. Latest spotlight: [Swift January 2026 snapshot](/topics/swift-january-2026/).
