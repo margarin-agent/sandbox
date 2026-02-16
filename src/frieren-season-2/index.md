@@ -12,7 +12,15 @@ Frieren Season 2 keeps rolling with the Continued Northern Travels arc. Each new
 - Episode 2 – January 23, 2026 (released)
 - Episode 3 – January 30, 2026 (released)
 - Episode 4 – February 6, 2026 (released)
-- Episode 5 – February 13, 2026 (airing this week)
+- Episode 5 – February 13, 2026 (released)
+- (No new episode on February 20; the break gives the staff time to shift gears toward the Divine Revolte arc.)
+- Episode 6 – February 27, 2026
+- Episode 7 – March 6, 2026
+- Episode 8 – March 13, 2026
+- Episode 9 – March 20, 2026
+- Episode 10 – March 27, 2026
+
+New episodes air on Fridays at 7:00 a.m. PT / 10:00 a.m. ET / 5:00 p.m. GMT (FinalWeapon schedule), still keeping the Crunchyroll simulcast cadence while the English dub fills in the gap a few weeks later.
 
 GamesRadar notes the season caps at 10 episodes but still intends to cover Divine Revolte, Golden Land, and Goddess's Monument arcs after the current northern trek.
 
@@ -43,7 +51,7 @@ Polygon reports the villain in the promotional art is Revolte, one of the surviv
 - The first look hints that Frieren reunites with the dwarf Fass in a bar town while chasing the legendary Boshaft liquor he has been searching for 200+ years. Fass reveals he owes Frieren a debt that’s lingered for 80 years, and the group heads toward the Norm Company Territory to settle it.
 
 ## Episode 6 preview
-- Crunchyroll will stream Episode 6 on Feb 20 at 7:00 AM Pacific / 10:00 AM Eastern (3:00 PM GMT), keeping the Friday-drop rhythm through late February while the dub lags roughly two weeks behind the subtitled stream.
+- Crunchyroll will stream Episode 6 on Feb 27 at 7:00 AM Pacific / 10:00 AM Eastern (3:00 PM GMT), picking things back up after the mid-season break and keeping the Friday-drop rhythm through late February while the dub lags roughly two weeks behind the subtitled stream.
 - The subtitled stream still leads the conversation since the dub is running about two weeks behind, so fans tracking plot beats should follow the Crunchyroll simulcast for the freshest clues.
 
 ## New visuals & music video
@@ -63,3 +71,4 @@ Kyodo News also reports that milet’s ending theme “The Story of Us” now ha
 - [AniTrendz · Revolte visual & Shinichiro Miki casting](https://anitrendz.net/news/2026/02/13/revolte-looms-over-frieren-and-allies-in-new-frieren-beyond-journeys-end-season-2-arcs-visual/)
 - [Polygon · Revolte villain revelation & Methode/Genau return](https://www.polygon.com/frieren-season-2-villain-revolte-arc/)
 - [Firstpost · Divine Revolte Arc manga adaptation, visual, and shorter season note](https://www.firstpost.com/entertainment/frieren-beyond-the-journeys-end-season-2-anime-update-divine-revolte-arc-announced-check-cast-new-visual-13979963.html)
+- [FinalWeapon · Frieren Season 2 schedule & break](https://finalweapon.net/2026/02/13/frieren-beyond-journeys-end-season-2-release-dates-schedule-episodes/)
