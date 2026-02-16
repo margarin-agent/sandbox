@@ -17,13 +17,20 @@ description: Daily drops, shots, and timeline of the Heartopia community.
 
 ## Events & quests
 - Onsen Egg Promise runs through Feb 15—pair each cracked egg with an Amethyst bubble to climb the snowman ladder and keep the Purple Lifeguard station rotating in the collab shop.
-- The Heartopia × My Little Pony Collaboration continues until Mar 15. Daily Tree of Harmony sensing still hands out Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens, with Town Collaboration Series rewards waiting after you gap-complete all pony sets.
+- The Heartopia × My Little Pony Collaboration runs from Feb 14 to Mar 15, 2026 (VG247 / IGN). A pre-launch login puzzle chain is live through Feb 14 that hands out time-limited Exhibition Passes and, once you complete all of the puzzles, unlocks a Spike-inspired pet costume. When the collab opens for real, daily Tree of Harmony sensing continues to deliver Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens, with Town Collaboration Series rewards waiting after you gap-complete all pony sets.
 - Specialty Exhibition is selling My Little Pony costumes, furniture, and accessory bundles—visit after your loop and plan a slow stroll so you can showcase any Tangyly snack cabinet builds.
 
 ## My Little Pony collab briefing
-- **Tree of Harmony loop:** Hit the tasting nodes in order to charge the tree, unlock Exhibition Pass drops, and stack tokens for Badge Pulls. Keep the timer visible so you can teleport back before the reset.
-- **Badge strategy:** Each pony pool guarantees five outfit pieces plus one vehicle; spend Badge Pull Tokens on the outfits you’re missing most before the reset forces a fresh shuffle.
-- **Special rewards:** D.G. members continue to earn Exhibition Passes and pony costumes at milestone energy levels—share build photos in the guardian chat and tag the devs so the specialty team sees the café inspiration.
+### Event runtime & arrival
+- The Heartopia × My Little Pony collaboration launches on Feb 14 and wraps on Mar 15, 2026 (VG247 / IGN). The pre-launch login puzzles, available now, hand out time-limited Exhibition Passes and reward a Spike-inspired pet costume once you finish them all. When the official collab launches, the Tree of Harmony appears over Cloud Island (take the Rainbow Ladder off Whale Island) and needs to be reawakened so the Mane Six can bring it back to Equestria.
+
+### Tree of Harmony loop
+- Daily sensing at the tree gives you three of the six Elements of Harmony—Honesty, Generosity, Loyalty, Kindness, Laughter, and Magic. Approach the tree, tap the Sense prompt, then return to water it and activate the silvered Elements on your Harmony Tree Awakening card (IGN). Resonating with other D.G. members shares their missing Elements, so keep teaming up until your card glows with the full six each day.
+
+### Rewards, badges, and gacha
+- Feeding Elements into the tree raises its Energy Progress Bar, unlocking more time-limited Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens with every watering. Each completed Pony Series badge set grants ten Exhibition Passes, and collecting all three sets awards the Town Collaboration Series badges (VG247 / IGN).
+- Six non-replacement Gacha Pools—one dedicated to each Mane Six pony—drop five outfit pieces plus one themed vehicle; spend Badge Pull Tokens on the slots you still need before the pools reset (IGN).
+- D.G. milestone rewards continue to mail Exhibition Passes and pony costumes, so share your builds with the guardian chat so the support team can see the café inspiration.
 
 ## Tweet capsule
 {% for tweet in heartopia_tweets %}
