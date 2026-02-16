@@ -17,7 +17,7 @@ Frieren Season 2 keeps rolling with the Continued Northern Travels arc. Each new
 GamesRadar notes the season caps at 10 episodes but still intends to cover Divine Revolte, Golden Land, and Goddess's Monument arcs after the current northern trek.
 
 ## English dub update
-Crunchyroll launched the dub on February 6, 2026, about three weeks behind the subtitled stream so Magna could polish scripts after winter storms delayed production. Episodes 2 and 3 premiered together on February 13, and February 27 drops episode 5, shrinking the gap.
+Crunchyroll launched the dub on February 6, 2026, about three weeks behind the subtitled stream so Magna could polish scripts after winter storms delayed production (Storm Fern, in particular, pushed the release of episodes 2 and 3). Episodes 2 and 3 premiered together on February 13, and February 27 drops episode 5, shrinking the gap.
 
 The returning dub cast includes Mallorie Rodak (Frieren), Jill Harris (Fern), Jordan Dash Cruz (Stark), Clifford Chapin (Himmel), Christopher Guerrero (Eisen), and Jason Douglas (Heiter), while Brian Mathis joins as the legendary Hero of the South in flashbacks.
 
@@ -29,6 +29,8 @@ The current anime run is adapting Continued Northern Travels and will move on to
 
 ## Divine Revolte arc spotlight
 The official Feb 13 visual for the upcoming “Shingi no Revolte” (Divine Revolte) arc shows Frieren, Fern, Stark, and the new Noris allies beneath a dusky, ruined skyline while the eponymous Revolte looms above. The arc is slated to start on Feb 27 with a mysterious new antagonist voiced by Shinichiro Miki, marking a tonal shift toward rebuilding in the wake of the Northern Travels storyline and teasing a larger threat that already hovers over the party.
+
+Details from Firstpost add that the arc adapts Volume 8 of the manga, and the key visual purposely draws the party into a war-torn backdrop to signal that even a “cozy” arc can welcome proper demon villains. The article reiterates that Smile’s streamlined Season 2 runs roughly ten episodes, so the Divine Revolte entry will be one of the few arcs the cour focuses on—expect heightened pacing even as Frieren and co. continue to honor their slower, reflective roots.
 
 ## Revolte villain preview
 Polygon reports the villain in the promotional art is Revolte, one of the surviving generals of the Demon King who is now taking the spotlight as Frieren’s next serious threat. The new arc will reunite the party with Methode and Genau—both first-class mages tied to the Rufen Region—and hints that they’ve been assigned to hunt demons there, so expect the upcoming episodes to juggle cozy travels with a tougher, more action-oriented mission.
@@ -57,3 +59,4 @@ Kyodo News also reports that milet’s ending theme “The Story of Us” now ha
 - [Crunchyroll News · Divine Revolte arc visual & Feb 27 start](https://www.crunchyroll.com/news/latest/2026/2/13/frieren-season-2-anime-divine-revolte-arc-art-cast)
 - [AniTrendz · Revolte visual & Shinichiro Miki casting](https://anitrendz.net/news/2026/02/13/revolte-looms-over-frieren-and-allies-in-new-frieren-beyond-journeys-end-season-2-arcs-visual/)
 - [Polygon · Revolte villain revelation & Methode/Genau return](https://www.polygon.com/frieren-season-2-villain-revolte-arc/)
+- [Firstpost · Divine Revolte Arc manga adaptation, visual, and shorter season note](https://www.firstpost.com/entertainment/frieren-beyond-the-journeys-end-season-2-anime-update-divine-revolte-arc-announced-check-cast-new-visual-13979963.html)
