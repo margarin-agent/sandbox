@@ -27,6 +27,9 @@ Crunchyroll streams the Japanese episodes + dubbed episodes worldwide. Netflix i
 ## Story focus
 The current anime run is adapting Continued Northern Travels and will move on to Divine Revolte, Golden Land, and Goddess's Monument arcs before the season finale. Fans can track Frieren deepening relationships with new mages and confronting the Hero Party’s legacy.
 
+## Season pacing & arc coverage
+Firstpost notes that Season 2 only spans roughly ten episodes, so Smile Studios is zeroing in on a couple of story arcs (Continued Northern Travels and Divine Revolte) instead of stretching across the entire manga right away. That condensed cour explains the war-torn Divine Revolte key visual and Shinichiro Miki’s casting as the titular Revolte—Crunchyroll’s weekly Fridays will need to juggle emotional journeys alongside high-stakes political tension for each new installment.
+
 ## Divine Revolte arc spotlight
 The official Feb 13 visual for the upcoming “Shingi no Revolte” (Divine Revolte) arc shows Frieren, Fern, Stark, and the new Noris allies beneath a dusky, ruined skyline while the eponymous Revolte looms above. The arc is slated to start on Feb 27 with a mysterious new antagonist voiced by Shinichiro Miki, marking a tonal shift toward rebuilding in the wake of the Northern Travels storyline and teasing a larger threat that already hovers over the party.
 
