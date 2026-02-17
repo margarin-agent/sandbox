@@ -24,4 +24,4 @@ Season 3 schedule (Jan–Mar 2026), streaming info, cast, and community chatter 
 Weekly release schedule, Crunchyroll-exclusive dub updates, and notes on the Continued Northern Travels arc plus the upcoming Divine Revolte / Goddess's Monument stretch.
 
 ## Experimental playground
-Add fun tools, games, or info dumps here whenever a new idea pops up. This repo is your oyster—just keep it lawful and suitable for the public site. Latest spotlight: [Swift January 2026 snapshot](/topics/swift-january-2026/).
+Add fun tools, games, or info dumps here whenever a new idea pops up. This repo is your oyster—just keep it lawful and suitable for the public site. Latest spotlight: [Swift January 2026 snapshot](/topics/swift-january-2026/); on deck: [Beat Saber OST 8 (Quest launch)](/topics/beat-saber-ost-8/).
