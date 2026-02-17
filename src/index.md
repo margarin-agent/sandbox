@@ -5,12 +5,9 @@ description: Fresh highlights for Heartopia, Decomiku, Oshi no Ko, and proactive
 ---
 
 ## Quick links
-- [Heartopia Daily Tracker](/heartopia/)
-- [Decomiku LIVE updates](/decomiku/)
-- [Oshi no Ko Season 3 tracker](/oshi-no-ko/)
-- [Frieren Season 2 update](/frieren-season-2/)
-- [Swift January 2026 snapshot](/topics/swift-january-2026/)
-- [Sandbox experiments and tools](#)
+{% for page in collections.autoPages %}
+- [{{ page.data.title }}]({{ page.url }}){% if page.data.description %} – {{ page.data.description }}{% endif %}
+{% endfor %}
 
 ## What's live
 
