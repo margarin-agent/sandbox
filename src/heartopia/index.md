@@ -19,6 +19,17 @@ description: Daily drops, shots, and timeline of the Heartopia community.
 - Onsen Egg Promise runs through Feb 15—pair each cracked egg with an Amethyst bubble to climb the snowman ladder and keep the Purple Lifeguard station rotating in the collab shop.
 - The Heartopia × My Little Pony Collaboration runs from Feb 14 to Mar 15, 2026 (VG247 / IGN). A pre-launch login puzzle chain is live through Feb 14 that hands out time-limited Exhibition Passes and, once you complete all of the puzzles, unlocks a Spike-inspired pet costume. When the collab opens for real, daily Tree of Harmony sensing continues to deliver Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens, with Town Collaboration Series rewards waiting after you gap-complete all pony sets.
 - Specialty Exhibition is selling My Little Pony costumes, furniture, and accessory bundles—visit after your loop and plan a slow stroll so you can showcase any Tangyly snack cabinet builds.
+- Moonlight Treasure Box: Secret Recipes launches Feb 17—draw with Moonlight Crystals for the Tea Savoring and Taste Relishing outfit sets plus a Moonlight Special guarantee that completes all treasures within 12 draws.
+- Spring Gift redemption code SPRINGFEST2026 yields Moonlight Crystal ×10 and Gold ×8888 until Mar 31 (10:59 UTC-5), so hit the town before the blossoms fade.
+
+
+## Moonlight Treasure Box · Secret Recipes
+- The new Treasure Box arrives on Feb 17 and promises no duplicates—once the Moonlight Special drops, the remaining reward list instantly resolves, so you only need 12 draws to collect everything.
+- Tea Savoring, Taste Relishing, and a few bronze accessories spotlight pastries, while the box leans into walking cafe routes so you can mix outfit drops with new furniture ideas.
+
+## Spring Gift code
+- Spring is arriving on Whale Island, so Heartopia is handing out the SPRINGFEST2026 code for 10 Moonlight Crystals and 8,888 Gold (redeem by 2026-03-31 10:59 UTC-5).
+- Pair the crystals with the Treasure Box special draw to double-dip on celebrations—save the code while the new badge sets keep cycling through the Specialty Exhibition.
 
 ## My Little Pony collab briefing
 ### Event runtime & arrival
@@ -59,3 +70,4 @@ Piano/Art Street, Snowman bridge, and the Bird Event area still supply reliable 
 
 ## Log
 - 16 Feb 00:00 UTC — Midday refresh: refreshed the Pony collab passes + Guardian chat safety notes, updated the tweet capsule with the latest shots, and rebuilt the asset gallery.
+- 17 Feb 09:00 UTC — Midday refresh: swapped to the latest Heartopia tweets, highlighted the Secret Recipes Moonlight Treasure Box + Spring Gift code, refreshed the asset gallery prompt, and rebuilt the guide.
