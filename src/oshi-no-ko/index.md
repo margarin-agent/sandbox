@@ -26,6 +26,8 @@ Season 3 debuted Jan 14 2026 after an advanced screening of Episode 25 on Dec 28
 - Crunchyroll opens Episode 6 (Feb 18, 7:00 AM PT) to a new chapter where the cast explores more of the scathing idol industry politics; the new drop keeps fans in suspense for the next big reveal.
 - Viewers can expect Episode 6 to continue the Scandal Arc heat, building on the Kana-led tension while foreshadowing how the younger generation manages PR storms and hidden rivalries. (source: GamesRadar release schedule update)
 
+AnimeCorner’s preview frames the next entry as the moment when MEM-Cho’s hard work helps B-Komachi hit a major break while Aqua stays multi-talented and Akane’s acting career glides forward. Kana has lost some of her earlier cheerfulness, and Ruby keeps rising in the entertainment world while still hunting down the truth behind Ai and Gorou’s deaths, so the Scandal Arc tension stays alive even as new promotions roll out. Director/storyboard lead Koki Uchinomiya and writer Jin Tanaka are credited for the episode. (source: AnimeCorner preview images)
+
 ## Episode 7 preview
 - Episode 7 (Feb 25 release) will likely push the Scandal Arc deeper into the tabloid fallout after Kana Arima is photographed by a weekly magazine, so keep an eye on how the public narrative shifts while Gorou/Aqua scramble for damage control.
 - Crunchyroll’s simulcast still lands at 7:00 AM PT / 10:00 AM ET / 3:00 PM GMT, so international viewers can plan their watch parties around the same time slot each week (source: FinalWeapon schedule roundup).
@@ -56,3 +58,4 @@ Latest headlines from Oricon News reveal the arc opens with Kana being set up by
 - [GamesRadar stream schedule](https://www.gamesradar.com/entertainment/anime-shows/oshi-no-ko-season-3-release-date-time-schedule-crunchyroll/)
 - [AniTrendz: Kana spotlight visual](https://anitrendz.net/news/2026/02/11/oshi-no-ko-season-3-spotlights-kana-in-new-visual-for-scandal-arc/)
 - [Oricon News: Scandal Arc visual](https://us.oricon-group.com/news/7744/)
+- [AnimeCorner · Episode 6 preview images](https://animecorner.me/oshi-no-ko-season-3-reveals-episode-6-preview/)
