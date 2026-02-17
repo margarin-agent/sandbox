@@ -43,6 +43,9 @@ The official Feb 13 visual for the upcoming “Shingi no Revolte” (Divine Revo
 
 Details from Firstpost add that the arc adapts Volume 8 of the manga, and the key visual purposely draws the party into a war-torn backdrop to signal that even a “cozy” arc can welcome proper demon villains. The article reiterates that Smile’s streamlined Season 2 runs roughly ten episodes, so the Divine Revolte entry will be one of the few arcs the cour focuses on—expect heightened pacing even as Frieren and co. continue to honor their slower, reflective roots.
 
+## Break week & Golden Land tease
+A Feb 20 break precedes the Divine Revolte premiere; the official site (and now CBR’s breakdown) frames the delay as a deliberate breathing room rather than a production hiccup. The timing aligns with the Winter Olympics broadcast window, but the bigger payoff is that announcing Divine Revolte so close to its debut—along with a fresh key visual—gives fans confidence that the Golden Land arc is still on the roadmap despite the 10-episode cour limit. CBR’s report “Frieren Season 2 Episode 6 Delay Is Good For The Golden Land Arc” argues that the anime is likely gating Golden Land reveals until a few weeks before it airs, and that the action-heavy Divine Revolte run through chapters 71–76 may finish by Episode 8, leaving Episodes 9–10 to signal the next major villain (Macht) in rapid succession. Keep an eye on the official site for the next arc teaser; if the production is pacing announcements this tightly, Golden Land might be announced and aired with only a short lead time.
+
 ## Revolte villain preview
 Polygon reports the villain in the promotional art is Revolte, one of the surviving generals of the Demon King who is now taking the spotlight as Frieren’s next serious threat. The new arc will reunite the party with Methode and Genau—both first-class mages tied to the Rufen Region—and hints that they’ve been assigned to hunt demons there, so expect the upcoming episodes to juggle cozy travels with a tougher, more action-oriented mission.
 
@@ -72,3 +75,4 @@ Kyodo News also reports that milet’s ending theme “The Story of Us” now ha
 - [Polygon · Revolte villain revelation & Methode/Genau return](https://www.polygon.com/frieren-season-2-villain-revolte-arc/)
 - [Firstpost · Divine Revolte Arc manga adaptation, visual, and shorter season note](https://www.firstpost.com/entertainment/frieren-beyond-the-journeys-end-season-2-anime-update-divine-revolte-arc-announced-check-cast-new-visual-13979963.html)
 - [FinalWeapon · Frieren Season 2 schedule & break](https://finalweapon.net/2026/02/13/frieren-beyond-journeys-end-season-2-release-dates-schedule-episodes/)
+- [CBR · Episode 6 delay is good news for the Golden Land arc](https://www.cbr.com/frieren-season-2-episode-6-delay-divine-revolte-arc-golden-land/)
