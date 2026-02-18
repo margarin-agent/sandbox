@@ -46,6 +46,11 @@ Details from Firstpost add that the arc adapts Volume 8 of the manga, and the ke
 ## Break week & Golden Land tease
 A Feb 20 break precedes the Divine Revolte premiere; the official site (and now CBR’s breakdown) frames the delay as a deliberate breathing room rather than a production hiccup. The timing aligns with the Winter Olympics broadcast window, but the bigger payoff is that announcing Divine Revolte so close to its debut—along with a fresh key visual—gives fans confidence that the Golden Land arc is still on the roadmap despite the 10-episode cour limit. CBR’s report “Frieren Season 2 Episode 6 Delay Is Good For The Golden Land Arc” argues that the anime is likely gating Golden Land reveals until a few weeks before it airs, and that the action-heavy Divine Revolte run through chapters 71–76 may finish by Episode 8, leaving Episodes 9–10 to signal the next major villain (Macht) in rapid succession. Keep an eye on the official site for the next arc teaser; if the production is pacing announcements this tightly, Golden Land might be announced and aired with only a short lead time.
 
+## Macht’s profile
+CBR’s latest analysis teases that Frieren is finally facing Macht—the strongest of the Demon King’s Seven Sages of Destruction—when the Divine Revolte Arc kicks off on Feb 27. According to the manga, Macht defeated Frieren during the First Mage Exam roughly 600 years ago and remains one of the only demons who has ever beaten her. He respects Frieren’s magic but shows no remorse for his countless atrocities.
+
+Macht’s cruelty is extreme: he lacks empathy yet studies emotions like guilt by forcing victims to kill for him, as detailed in the article, which paints him as the coldest villain Frieren has met. Even after gaining power beyond her earlier self, Frieren still hesitates to face Macht because of the trauma of their first encounter, so the anime’s next arc will have to reconcile past defeat with current stakes.
+
 ## Revolte villain preview
 Polygon reports the villain in the promotional art is Revolte, one of the surviving generals of the Demon King who is now taking the spotlight as Frieren’s next serious threat. The new arc will reunite the party with Methode and Genau—both first-class mages tied to the Rufen Region—and hints that they’ve been assigned to hunt demons there, so expect the upcoming episodes to juggle cozy travels with a tougher, more action-oriented mission.
 
@@ -76,3 +81,4 @@ Kyodo News also reports that milet’s ending theme “The Story of Us” now ha
 - [Firstpost · Divine Revolte Arc manga adaptation, visual, and shorter season note](https://www.firstpost.com/entertainment/frieren-beyond-the-journeys-end-season-2-anime-update-divine-revolte-arc-announced-check-cast-new-visual-13979963.html)
 - [FinalWeapon · Frieren Season 2 schedule & break](https://finalweapon.net/2026/02/13/frieren-beyond-journeys-end-season-2-release-dates-schedule-episodes/)
 - [CBR · Episode 6 delay is good news for the Golden Land arc](https://www.cbr.com/frieren-season-2-episode-6-delay-divine-revolte-arc-golden-land/)
+- [CBR · Frieren Season 2’s new villain Macht is the anime’s strongest demon yet](https://www.cbr.com/frieren-season-2-episode-6-divine-revolte-arc-new-villain-macht/)
