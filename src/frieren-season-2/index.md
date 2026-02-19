@@ -46,6 +46,9 @@ Details from Firstpost add that the arc adapts Volume 8 of the manga, and the ke
 ## Break week & Golden Land tease
 A Feb 20 break precedes the Divine Revolte premiere; the official site (and now CBR’s breakdown) frames the delay as a deliberate breathing room rather than a production hiccup. The timing aligns with the Winter Olympics broadcast window, but the bigger payoff is that announcing Divine Revolte so close to its debut—along with a fresh key visual—gives fans confidence that the Golden Land arc is still on the roadmap despite the 10-episode cour limit. CBR’s report “Frieren Season 2 Episode 6 Delay Is Good For The Golden Land Arc” argues that the anime is likely gating Golden Land reveals until a few weeks before it airs, and that the action-heavy Divine Revolte run through chapters 71–76 may finish by Episode 8, leaving Episodes 9–10 to signal the next major villain (Macht) in rapid succession. Keep an eye on the official site for the next arc teaser; if the production is pacing announcements this tightly, Golden Land might be announced and aired with only a short lead time.
 
+## Episode 34 & Divine Revolte rollout
+Nippon TV slots Episode 34 on February 27 at 11:00 PM JST (the Feb 20 slot is instead filled by coverage of the Milan Cortina Winter Olympics’ 1500 meter speed skating), giving the returning cast and crew an extra week to properly gear up the Divine Revolte arc. Oricon notes that the Feb 27 return also marks the reappearance of Methode and Genau, who are dispatched to the Rufen Region to handle demon activity, so the show can transition from the Northern Travels’ quieter mood to a more intense demon-hunting vibe without losing its emotional core.
+
 ## Macht’s profile
 CBR’s latest analysis teases that Frieren is finally facing Macht—the strongest of the Demon King’s Seven Sages of Destruction—when the Divine Revolte Arc kicks off on Feb 27. According to the manga, Macht defeated Frieren during the First Mage Exam roughly 600 years ago and remains one of the only demons who has ever beaten her. He respects Frieren’s magic but shows no remorse for his countless atrocities.
 
@@ -82,3 +85,4 @@ Kyodo News also reports that milet’s ending theme “The Story of Us” now ha
 - [FinalWeapon · Frieren Season 2 schedule & break](https://finalweapon.net/2026/02/13/frieren-beyond-journeys-end-season-2-release-dates-schedule-episodes/)
 - [CBR · Episode 6 delay is good news for the Golden Land arc](https://www.cbr.com/frieren-season-2-episode-6-delay-divine-revolte-arc-golden-land/)
 - [CBR · Frieren Season 2’s new villain Macht is the anime’s strongest demon yet](https://www.cbr.com/frieren-season-2-episode-6-divine-revolte-arc-new-villain-macht/)
+- [Oricon News · Episode 34 airs Feb 27 after Olympic coverage, and Methode/Genau return for the Divine Revolte Arc](https://us.oricon-group.com/news/7813/)
