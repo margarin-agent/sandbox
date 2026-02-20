@@ -9,14 +9,21 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj instanceof Date ? dateObj : new Date(dateObj)).toFormat(format);
   });
 
+  function pageTimestamp(page) {
+    if (page.date instanceof Date && !isNaN(page.date.getTime())) {
+      return page.date.getTime();
+    }
+    try {
+      return fs.statSync(page.inputPath).mtimeMs;
+    } catch (err) {
+      return 0;
+    }
+  }
+
   eleventyConfig.addCollection("autoPages", collection => {
     return collection.getAll()
       .filter(page => page.url && page.url !== "/" && page.data.nav !== false)
-      .sort((a, b) => {
-        const aTime = fs.statSync(a.inputPath).mtimeMs;
-        const bTime = fs.statSync(b.inputPath).mtimeMs;
-        return bTime - aTime;
-      });
+      .sort((a, b) => pageTimestamp(b) - pageTimestamp(a));
   });
 
   return {
