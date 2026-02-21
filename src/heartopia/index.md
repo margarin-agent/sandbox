@@ -14,6 +14,10 @@ description: Daily drops, shots, and timeline of the Heartopia community.
 - Kongbakpao’s February 20 update confirmed the Wandering Oak’s recent loop ends near Home Plot 11 in the Spirit Oak Pine Forest. Circle the inner plots counterclockwise, and check both the forest entrance and the nearby cabins to spot the orange marker without wandering too far.
 - The same update reminds collectors that Flawless Fluorite has been appearing near the home plot ring as well; visiting the pine grove around Plot 11 usually nets the cluster, but if the node doesn’t glow immediately, retreat a short distance and reset the spawn timer before trying again.
 
+## Daily Oak scouting tips
+- Keep a looped stroll through Plots 9–12 during the morning refresh; Kongbakpao observed the NPC hugging the pine grove behind Plot 11, so starting from Plot 9 gives you a predictable counterclockwise sweep and lets you snag Roaming Oak before it rolls deeper into the forest.
+- If the Oak vanishes mid-loop, check the adjacent forest path near the Spirit Oak Pine Forest entrance—the 20 Feb update notes it will occasionally pause against the cabins before continuing along the inner ring, so you can wait there without chasing across the map.
+
 ## Codes & vault intel
 - SportsRant’s Feb 2026 list highlights **b8n2k5l** for 2x Flawless Fluorite, 6 Rare Timber, and 10 Stone—redeem it from Settings → Redeem Code the moment you can, then pop the rewards into your crafting queue before the next log reset.
 - Keep **SPRINGFEST2026** on hand for 10 Moonlight Crystals + 8,888 Gold and pair it with **m7r9q4a** (10,000 Gold) to fund a quick furniture rush or badge pull whenever you need another Moonlight Treasure Box run.
@@ -37,4 +41,4 @@ Piano/Art Street, Snowman bridge, and the Bird Event area still supply reliable 
 ## Last references
 - Kongbakpao · "Heartopia Wandering Oak Location Today" (Feb 20) · https://www.kongbakpao.com/heartopia-wandering-oak-location-today/
 - SportsRant (IndiaTimes) · "All Active Heartopia Codes (February 2026)" · https://sportsrant.indiatimes.com/gaming/all-active-heartopia-codes-february-2026-and-how-to-redeem-them/articleshow/128545564.html
-- Twitter updates could not be read because the timeline requires a logged-in session; no tweets were captured for this refresh.
+- Twitter (Top/Fluorite/Oak searches) required a logged-in session, so no tweets could be captured for this refresh.
