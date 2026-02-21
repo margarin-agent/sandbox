@@ -69,10 +69,15 @@ Polygon reports the villain in the promotional art is Revolte, one of the surviv
 - The subtitled stream still leads the conversation since the dub is running about two weeks behind, so fans tracking plot beats should follow the Crunchyroll simulcast for the freshest clues.
 
 ## New visuals & music video
-After Episode 32’s "date episode," official art dropped a romantic visual of Fern in a purple floral dress and Stark walking beside her, along with a separate Frieren illustration showing her sporting Fern’s braided hairstyle—both clues that the story is leaning into Fern and Stark’s shifting dynamic.
+After Episode 32’s “date episode,” official art dropped a romantic visual of Fern in a purple floral dress and Stark walking beside her, along with a separate Frieren illustration showing her sporting Fern’s braided hairstyle—both clues that the story is leaning into Fern and Stark’s shifting dynamic.
 The new visual feels designed to highlight the emotional fallout from their awkward date while teasing that Frieren is quietly observing and supporting their growth.
 
 Kyodo News also reports that milet’s ending theme “The Story of Us” now has a special music video with the full song supercut over Season 2 footage, giving fans a longer listen to the track while the show continues to stream. The AnimeTV write-up confirms the MV includes scenes from the first half of the season and marks a celebration of the new cour’s moodier visuals.
+
+## Mini anime & milestone
+Oricon News reports that the Frieren mini anime series “Spell That Switches Hearts and Bodies” just premiered Episode 20, keeping the same chibi-fied “●●’s Magic” art style. The deformed designs (by illustrator Mebachi) help the shorts stay light; in the new episode, Frieren, Fern, and Stark gain a spell that shuffles hearts and bodies as a reward for a request, giving the trio a goofy, heartwarming breather before the Divine Revolte arc’s heavier tone hits on Feb 27.
+
+The same Oricon story celebrates the manga passing 35 million copies in worldwide circulation, underscoring how Frieren’s mix of melancholic quests and warm slice-of-life moments continues to resonate well beyond the anime screen.
 
 ## Sources
 - [GamesRadar+ · Frieren Season 2 release schedule & Crunchyroll exclusivity](https://www.gamesradar.com/entertainment/anime-shows/frieren-season-2-release-date-time-schedule-crunchyroll/)
@@ -90,3 +95,4 @@ Kyodo News also reports that milet’s ending theme “The Story of Us” now ha
 - [CBR · Episode 6 delay is good news for the Golden Land arc](https://www.cbr.com/frieren-season-2-episode-6-delay-divine-revolte-arc-golden-land/)
 - [CBR · Frieren Season 2’s new villain Macht is the anime’s strongest demon yet](https://www.cbr.com/frieren-season-2-episode-6-divine-revolte-arc-new-villain-macht/)
 - [Oricon News · Episode 34 airs Feb 27 after Olympic coverage, and Methode/Genau return for the Divine Revolte Arc](https://us.oricon-group.com/news/7813/)
+- [Oricon News · Frieren mini anime Episode 20 and 35M copies milestone](https://us.oricon-group.com/news/7804/)
