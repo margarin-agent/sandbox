@@ -4,61 +4,27 @@ layout: default
 description: Daily drops, shots, and timeline of the Heartopia community.
 ---
 
-## Resources today (16 Feb 2026)
-- **Fluorite:** Onsen Mountain Lake’s north dock still rains down sharp clusters—run the snowy rim and sweep the inner courtyard before the mist refreshes.
-- **Oak Timber:** Plot 12 continues to produce steadier Roaming Oak trunks, letting you knock out repeat drops while waiting for the Amethyst Beach timer.
-- **Egg:** Vanya’s fishing stall cracked egg is blinking again; wait until the sparkle flares, then dash for the purple bubble at the lifeguard station.
-- **Bubble:** Amethyst Beach’s purple bubble spawns reliably after the Tree of Harmony sensing waves—pop it immediately for furniture while Park Rangers reroute the coastal loop.
+## Resources today (21 Feb 2026)
+- **Fluorite:** Check the home plots around the Spirit Oak Pine Forest; latest crowdsourced reports place the deposit behind Plot 11, hugging the pine grove where the Wandering Oak passed earlier today. Run the glowing nodes near the forest edge to sweep Flawless Fluorite before the mist fades.
+- **Oak Timber:** The Wandering Oak was reported behind Home Plot 11 inside the Spirit Oak Pine Forest this morning—follow the ring road and keep a scroll on the NPC marker so you can gather up to 3x Roaming Oak Timber before dusk.
+- **Egg:** Vanya’s fishing stall cracked egg is blinking in the quarter of Amethyst Beach closest to the lighthouse; dash once the sparkle flares, then double back through the purple bubble on the shore run.
+- **Bubble:** Amethyst Beach’s purple bubble still pops after the Tree of Harmony sensing vibes; keep a warm drink ready and timing cues from the western gazebo so you hit it before the Guardian alert resets.
 
-## Feb 16 tracker (Day 16)
-- **Egg loop:** Start at Vanya, grab the egg, then cross through the Amethyst Beach boardwalk for the purple bubble; wrap the run by circling Plot 12 and tag the Roaming Oak node before midnight.
-- **Bubble timing:** Glyph Hub’s Day 6+ timer still fits between the Snowman bridge, Bird Event, and Dream Bubble nodes—drop a warm drink at the start, then keep the timer in your second screen so you hit the purple bubble before the Tree of Harmony reset.
-- **Pacing:** Two stamina snacks + one energy drink should carry you through the coastal loop, the exhibition run, and a quick guardian-chat check for strangers.
+## Fluorite & Oak check (Feb 20–21 recap)
+- Kongbakpao’s February 20 update confirmed the Wandering Oak’s recent loop ends near Home Plot 11 in the Spirit Oak Pine Forest. Circle the inner plots counterclockwise, and check both the forest entrance and the nearby cabins to spot the orange marker without wandering too far.
+- The same update reminds collectors that Flawless Fluorite has been appearing near the home plot ring as well; visiting the pine grove around Plot 11 usually nets the cluster, but if the node doesn’t glow immediately, retreat a short distance and reset the spawn timer before trying again.
+
+## Codes & vault intel
+- SportsRant’s Feb 2026 list highlights **b8n2k5l** for 2x Flawless Fluorite, 6 Rare Timber, and 10 Stone—redeem it from Settings → Redeem Code the moment you can, then pop the rewards into your crafting queue before the next log reset.
+- Keep **SPRINGFEST2026** on hand for 10 Moonlight Crystals + 8,888 Gold and pair it with **m7r9q4a** (10,000 Gold) to fund a quick furniture rush or badge pull whenever you need another Moonlight Treasure Box run.
+- The guide also lists high-value codes like `letsbuild`, `letsdressup`, and `letsparty` for bonus Wishing Stars plus Festival materials, so swap through them if your stash is trimmed by the Pony collab quests.
 
 ## Events & quests
-- Onsen Egg Promise runs through Feb 15—pair each cracked egg with an Amethyst bubble to climb the snowman ladder and keep the Purple Lifeguard station rotating in the collab shop.
+- Onsen Egg Promise runs through Feb 21—pair each cracked egg with an Amethyst bubble to climb the snowman ladder and keep the Purple Lifeguard station rotating in the collab shop.
 - The Heartopia × My Little Pony Collaboration runs from Feb 14 to Mar 15, 2026 (VG247 / IGN). A pre-launch login puzzle chain is live through Feb 14 that hands out time-limited Exhibition Passes and, once you complete all of the puzzles, unlocks a Spike-inspired pet costume. When the collab opens for real, daily Tree of Harmony sensing continues to deliver Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens, with Town Collaboration Series rewards waiting after you gap-complete all pony sets.
 - Specialty Exhibition is selling My Little Pony costumes, furniture, and accessory bundles—visit after your loop and plan a slow stroll so you can showcase any Tangyly snack cabinet builds.
 - Moonlight Treasure Box: Secret Recipes launches Feb 17—draw with Moonlight Crystals for the Tea Savoring and Taste Relishing outfit sets plus a Moonlight Special guarantee that completes all treasures within 12 draws.
 - Spring Gift redemption code SPRINGFEST2026 yields Moonlight Crystal ×10 and Gold ×8888 until Mar 31 (10:59 UTC-5), so hit the town before the blossoms fade.
-
-
-## Moonlight Treasure Box · Secret Recipes
-- The new Treasure Box arrives on Feb 17 and promises no duplicates—once the Moonlight Special drops, the remaining reward list instantly resolves, so you only need 12 draws to collect everything.
-- Tea Savoring, Taste Relishing, and a few bronze accessories spotlight pastries, while the box leans into walking cafe routes so you can mix outfit drops with new furniture ideas.
-
-## Spring Gift code
-- Spring is arriving on Whale Island, so Heartopia is handing out the SPRINGFEST2026 code for 10 Moonlight Crystals and 8,888 Gold (redeem by 2026-03-31 10:59 UTC-5).
-- Pair the crystals with the Treasure Box special draw to double-dip on celebrations—save the code while the new badge sets keep cycling through the Specialty Exhibition.
-
-## My Little Pony collab briefing
-### Event runtime & arrival
-- The Heartopia × My Little Pony collaboration launches on Feb 14 and wraps on Mar 15, 2026 (VG247 / IGN). The pre-launch login puzzles, available now, hand out time-limited Exhibition Passes and reward a Spike-inspired pet costume once you finish them all. When the official collab launches, the Tree of Harmony appears over Cloud Island (take the Rainbow Ladder off Whale Island) and needs to be reawakened so the Mane Six can bring it back to Equestria.
-
-### Tree of Harmony loop
-- Daily sensing at the tree gives you three of the six Elements of Harmony—Honesty, Generosity, Loyalty, Kindness, Laughter, and Magic. Approach the tree, tap the Sense prompt, then return to water it and activate the silvered Elements on your Harmony Tree Awakening card (IGN). Resonating with other D.G. members shares their missing Elements, so keep teaming up until your card glows with the full six each day.
-
-### Rewards, badges, and gacha
-- Feeding Elements into the tree raises its Energy Progress Bar, unlocking more time-limited Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens with every watering. Each completed Pony Series badge set grants ten Exhibition Passes, and collecting all three sets awards the Town Collaboration Series badges (VG247 / IGN).
-- Six non-replacement Gacha Pools—one dedicated to each Mane Six pony—drop five outfit pieces plus one themed vehicle; spend Badge Pull Tokens on the slots you still need before the pools reset (IGN).
-- D.G. milestone rewards continue to mail Exhibition Passes and pony costumes, so share your builds with the guardian chat so the support team can see the café inspiration.
-
-## Tweet capsule
-{% for tweet in heartopia_tweets %}
-<article class="tweet-card">
-  <div>
-    <p class="tweet-meta"><a href="{{ tweet.url }}" target="_blank" rel="noreferrer">{{ tweet.meta }}</a></p>
-    <p>{{ tweet.text }}</p>
-  </div>
-  {% if tweet.images %}
-  <div class="tweet-images">
-    {% for img in tweet.images %}
-    <img src="/assets/{{ img }}" alt="{{ tweet.meta }}" />
-    {% endfor %}
-  </div>
-  {% endif %}
-</article>
-{% endfor %}
 
 ## Community tactics
 - Keep the guardian chats bookmarked so you can share warm drinks for iced builds, post statues with protective notes, and warn others when strangers pop into town.
@@ -68,6 +34,7 @@ description: Daily drops, shots, and timeline of the Heartopia community.
 ## Bubble hunting hints
 Piano/Art Street, Snowman bridge, and the Bird Event area still supply reliable bubbles. Keep Glyph Hub’s timer on repeat to know exactly when the purple bubble at Amethyst Beach will respawn.
 
-## Log
-- 16 Feb 00:00 UTC — Midday refresh: refreshed the Pony collab passes + Guardian chat safety notes, updated the tweet capsule with the latest shots, and rebuilt the asset gallery.
-- 17 Feb 09:00 UTC — Midday refresh: swapped to the latest Heartopia tweets, highlighted the Secret Recipes Moonlight Treasure Box + Spring Gift code, refreshed the asset gallery prompt, and rebuilt the guide.
+## Last references
+- Kongbakpao · "Heartopia Wandering Oak Location Today" (Feb 20) · https://www.kongbakpao.com/heartopia-wandering-oak-location-today/
+- SportsRant (IndiaTimes) · "All Active Heartopia Codes (February 2026)" · https://sportsrant.indiatimes.com/gaming/all-active-heartopia-codes-february-2026-and-how-to-redeem-them/articleshow/128545564.html
+- Twitter updates could not be read because the timeline requires a logged-in session; no tweets were captured for this refresh.
