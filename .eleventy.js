@@ -1,5 +1,17 @@
 const { DateTime } = require("luxon");
-const fs = require("fs");
+const { execSync } = require("child_process");
+
+function getGitTimestamp(filePath) {
+  try {
+    const timestamp = execSync(
+      `git log -1 --format=%ct -- "${filePath}"`,
+      { encoding: "utf-8", cwd: "/root/.sandbox" }
+    ).trim();
+    return parseInt(timestamp, 10) * 1000; // Convert to milliseconds
+  } catch (err) {
+    return 0; // Fallback if not in git
+  }
+}
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets");
@@ -9,21 +21,28 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj instanceof Date ? dateObj : new Date(dateObj)).toFormat(format);
   });
 
-  function pageTimestamp(page) {
-    if (page.date instanceof Date && !isNaN(page.date.getTime())) {
-      return page.date.getTime();
-    }
-    try {
-      return fs.statSync(page.inputPath).mtimeMs;
-    } catch (err) {
-      return 0;
-    }
-  }
-
   eleventyConfig.addCollection("autoPages", collection => {
     return collection.getAll()
       .filter(page => page.url && page.url !== "/" && page.data.nav !== false)
-      .sort((a, b) => pageTimestamp(b) - pageTimestamp(a));
+      .sort((a, b) => {
+        // Priority: front matter date > git commit timestamp
+        let aTime = 0;
+        let bTime = 0;
+        
+        if (a.date instanceof Date && !isNaN(a.date.getTime())) {
+          aTime = a.date.getTime();
+        } else {
+          aTime = getGitTimestamp(a.inputPath);
+        }
+        
+        if (b.date instanceof Date && !isNaN(b.date.getTime())) {
+          bTime = b.date.getTime();
+        } else {
+          bTime = getGitTimestamp(b.inputPath);
+        }
+        
+        return bTime - aTime; // Newest first
+      });
   });
 
   return {
