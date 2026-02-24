@@ -2,6 +2,7 @@
 title: "BAKI-DOU: The Invincible Samurai (Netflix Feb 26, 2026)"
 layout: default
 description: "Netflix premieres a new 13-episode Baki series centered on a time-transcending clash with Musashi Miyamoto, complete with WANIMA + Novel Core theme songs and the latest trailer."
+lastModified: 2026-02-18
 ---
 
 ## Netflix drop preview

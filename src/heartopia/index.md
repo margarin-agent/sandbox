@@ -2,6 +2,7 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and the latest Heartopia pulse.
+lastModified: 2026-02-24
 ---
 
 ## Resources today (24 Feb 2026)

@@ -2,6 +2,7 @@
 title: Beat Saber OST 8 (Quest launch)
 layout: default
 description: Free OST 8 tracks on Quest plus the PC VR release hold while Beat Games works with AMD.
+lastModified: 2026-02-17
 ---
 
 ## OST 8 drops on Quest

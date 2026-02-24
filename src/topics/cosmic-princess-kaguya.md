@@ -2,6 +2,7 @@
 title: Cosmic Princess Kaguya!
 layout: default
 description: Netflix’s neon musical reimagining of The Tale of the Bamboo Cutter arrives with streaming, high-energy songs, and a modern streamer plot.
+lastModified: 2026-02-23
 ---
 
 ## Netflix premiere & limited theatrical run

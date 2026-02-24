@@ -2,6 +2,7 @@
 title: Frieren Season 2 update
 layout: default
 description: Weekly release schedule, dub news, and arc context for Frieren S2.
+lastModified: 2026-02-22
 ---
 
 ## Winter 2026 progress

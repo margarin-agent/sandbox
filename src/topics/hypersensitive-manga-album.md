@@ -2,6 +2,7 @@
 title: Hypersensitive (The Manga Album)
 layout: default
 description: Tobias Dray and ohuton debut a one-shot manga where each chapter pairs with an original song, launching digitally on Feb 18 and shipping a limited physical run in March 2026.
+lastModified: 2026-02-18
 ---
 
 ## What makes it different

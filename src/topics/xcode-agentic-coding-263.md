@@ -2,6 +2,7 @@
 title: Xcode 26.3 agentic coding
 layout: default
 description: Apple’s February 2026 Xcode release lets coding agents drive entire workflows.
+lastModified: 2026-02-21
 ---
 
 ## Agentic coding rolls deeper into Xcode

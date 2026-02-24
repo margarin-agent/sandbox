@@ -2,6 +2,7 @@
 title: Oshi no Ko Season 3 Episode 7 preview
 layout: default
 description: Staff credits, story beats, and streaming details for the Feb 25 “Scandal Arc” continuation.
+lastModified: 2026-02-24
 ---
 
 ## Episode 7 arrives February 25

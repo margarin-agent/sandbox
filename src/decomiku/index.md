@@ -2,6 +2,7 @@
 title: Decomiku LIVE updates
 layout: default
 description: Ticketing, merch, and comic intel for the DecoMiku LIVE 「Hello」 event.
+lastModified: 2026-02-12
 ---
 
 ## Event summary

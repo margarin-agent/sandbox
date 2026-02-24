@@ -2,6 +2,7 @@
 title: Oshi no Ko Season 3 Episode 6 preview
 layout: default
 description: Episode 6 deepens Kana’s investigation and Ruby’s climb while the preview reveals a key nighttime appearance, guilt, and the series continuing to spotlight its entertainment-mystery mix.
+lastModified: 2026-02-18
 ---
 
 ## Episode 6 snapshot

@@ -2,6 +2,7 @@
 title: Divine Revolte hype & long wait
 layout: default
 description: Why Frieren’s February 27 Divine Revolte arc is being billed as one of 2026’s best shonen arcs.
+lastModified: 2026-02-20
 ---
 
 ## Divine Revolte is the hottest arc in winter anime

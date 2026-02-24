@@ -2,6 +2,7 @@
 title: Swift January 2026 snapshot
 layout: default
 description: What’s new in Swift (server notes, proposals, community highlights) as of Jan 2026.
+lastModified: 2026-02-16
 ---
 
 ## Swift on the rise (Jan 2026 snapshot)

@@ -2,6 +2,7 @@
 title: Frieren mini anime & 35M milestone
 layout: default
 description: The latest ORICON update celebrates Frieren’s circulation milestone and the new "heart swap" mini episode.
+lastModified: 2026-02-19
 ---
 
 ## "Spell That Switches Hearts and Bodies" mini anime

@@ -2,6 +2,7 @@
 title: State of Swift 2026
 layout: default
 description: What the State of Swift 2026 newsletter says about concurrency fixes, platform expansion, and where the ecosystem is headed.
+lastModified: 2026-02-21
 ---
 
 ## 2025 recalibration sets stage for 2026

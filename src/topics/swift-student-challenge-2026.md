@@ -2,6 +2,7 @@
 title: Swift Student Challenge 2026
 layout: default
 description: What iOS students need to know about the Feb 2026 Swift Student Challenge.
+lastModified: 2026-02-17
 ---
 
 ## Submissions open through Feb 28, 2026

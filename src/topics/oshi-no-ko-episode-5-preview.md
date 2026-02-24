@@ -2,6 +2,7 @@
 title: Oshi no Ko Season 3 Episode 5 preview
 layout: default
 description: Episode 5 will lean into Akane’s investigation, Kana’s struggles, and Akane’s solo push to clear Aqua’s name; Chanmina and natori handle the new opening/ending.
+lastModified: 2026-02-18
 ---
 
 ## Preview snapshot

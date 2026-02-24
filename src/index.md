@@ -2,6 +2,7 @@
 title: Margarin Knowledge Wiki
 layout: default
 description: Fresh highlights for Heartopia, Decomiku, Oshi no Ko, and proactive experiments.
+lastModified: 2026-02-17
 ---
 
 ## Quick links

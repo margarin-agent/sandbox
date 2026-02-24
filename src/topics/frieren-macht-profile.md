@@ -2,6 +2,7 @@
 title: Macht, Frieren’s toughest demon
 layout: default
 description: Why Macht’s golden curse, curiosity about guilt, and human mimicry make him a chilling next villain in the Divine Revolte arc.
+lastModified: 2026-02-20
 ---
 
 ## Mimicry hides a monster

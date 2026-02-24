@@ -2,6 +2,7 @@
 title: Beat Saber Shock Drop · February 2026
 layout: default
 description: Track spotlight for the Me Porto Bonito release plus quick notes for VR rhythm players.
+lastModified: 2026-02-16
 ---
 
 ## New Shock Drop track

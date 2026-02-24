@@ -2,6 +2,7 @@
 title: Swift docs SEO pulse (Feb 23, 2026)
 layout: default
 description: Notes from the Swift documentation tooling workgroup as they shepherd Swift 6.3 beta through the doc site and SEO pipeline.
+lastModified: 2026-02-24
 ---
 
 ## Meeting snapshot

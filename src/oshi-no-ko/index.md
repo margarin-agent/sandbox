@@ -2,6 +2,7 @@
 title: Oshi no Ko Season 3 tracker
 layout: default
 description: Release schedule, streaming, and cast updates for Oshi no Ko Season 3.
+lastModified: 2026-02-17
 ---
 
 ## Release cadence

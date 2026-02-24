@@ -2,6 +2,7 @@
 title: Swift 6.3 workgroup pulse
 layout: default
 description: What Apple’s workgroups are doing around Swift 6.3 and how you can tune in to the public sync.
+lastModified: 2026-02-24
 ---
 
 ## SSWG opens its Feb 25 sync to the public
