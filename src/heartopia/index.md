@@ -1,44 +1,51 @@
 ---
 title: Heartopia Daily Guide
 layout: default
-description: Daily drops, shots, and timeline of the Heartopia community.
+description: Daily drops, community beats, and the latest Heartopia pulse.
 ---
 
-## Resources today (21 Feb 2026)
-- **Fluorite:** Check the home plots around the Spirit Oak Pine Forest; latest crowdsourced reports place the deposit behind Plot 11, hugging the pine grove where the Wandering Oak passed earlier today. Run the glowing nodes near the forest edge to sweep Flawless Fluorite before the mist fades.
-- **Oak Timber:** The Wandering Oak was reported behind Home Plot 11 inside the Spirit Oak Pine Forest this morning—follow the ring road and keep a scroll on the NPC marker so you can gather up to 3x Roaming Oak Timber before dusk.
-- **Egg:** Vanya’s fishing stall cracked egg is blinking in the quarter of Amethyst Beach closest to the lighthouse; dash once the sparkle flares, then double back through the purple bubble on the shore run.
-- **Bubble:** Amethyst Beach’s purple bubble still pops after the Tree of Harmony sensing vibes; keep a warm drink ready and timing cues from the western gazebo so you hit it before the Guardian alert resets.
+## Resources today (24 Feb 2026)
+- **Fluorite:** Sea server collectors are hunting Flawless Fluorite along the home village ring—today’s crowd-sourced update pins the spawn near Plot 8 (just outside the River Well), while America/Global servers are still landing the deposit near Plot 4. Keep a short jog between Plot 7–9 to catch the glow before it fades.
+- **Oak Timber:** The Wandering Oak has been looping through Plot 2 for the Sea server batch and Plot 12 for the America/Global run, so you can gate a quick swing by the northern cabins twice: sweep Plot 2’s porch lights, then pop over to Plot 12’s fishing trail to catch the second lumber drop.
+- **Penguin gift countdown:** The limited-time Penguin Gifting event still has about 17 days left, and the 7-style penguin present bundle is trending as guardian chats share pastel screenshots. Drop by the East Beach vendor every evening to refresh your chance at the full set before the timer resets and the gifts rotate out again.
+- **Bubble buzz:** The popular purple bubble at Amethyst Beach remains the quickest way to stack bonus drops; wave a warm drink up once the shimmer flares, wait for the slow drift, then pop it before the Tree of Harmony sensing line moves on.
 
-## Fluorite & Oak check (Feb 20–21 recap)
-- Kongbakpao’s February 20 update confirmed the Wandering Oak’s recent loop ends near Home Plot 11 in the Spirit Oak Pine Forest. Circle the inner plots counterclockwise, and check both the forest entrance and the nearby cabins to spot the orange marker without wandering too far.
-- The same update reminds collectors that Flawless Fluorite has been appearing near the home plot ring as well; visiting the pine grove around Plot 11 usually nets the cluster, but if the node doesn’t glow immediately, retreat a short distance and reset the spawn timer before trying again.
+## Fluorite & Oak check (Feb 24 recap)
+![Crowd-sourced map for Feb 24 fluorite & oak](/assets/heartopia-fluorite-oak-24feb.jpg)
+*Glyph Hub’s Feb 24 visual highlights Sea server Plot 2 / Plot 8 and the America/Global Plot 12 / Plot 4 streaks.*
+- Glyph Hub’s Feb 24 post maps Sea server Plot 2 for the roaming oak and Plot 8 for fluorite (America/Global Plot 12 + Plot 4, respectively). A quick reply from @seungminpoca confirms seeing the deposit near House 2 moments after the report went live, so treat those plots as today’s reliable route before the spawn migrates again.
+- Save a house marker and reload the ring path after the Oak vanishes; the updated timer still leans on the same inner path, so you can swap to Plot 12’s cabins and loop back to Plot 2 once the node resets.
+
+## Penguin gift spotlight
+![Penguin gift teaser](/assets/heartopia-penguin-gift.jpg)
+The Penguin gift collage is circulating with the reminder that seven pastel present skins are still available for a little over two weeks. Guardians keep re-running the East Beach vendor, sharing helpful countdown notes so everyone can snag the final set before the limited run ends—if you miss tonight’s drop, revisit tomorrow and keep the tender vibes going.
 
 ## Daily Oak scouting tips
-- Keep a looped stroll through Plots 9–12 during the morning refresh; Kongbakpao observed the NPC hugging the pine grove behind Plot 11, so starting from Plot 9 gives you a predictable counterclockwise sweep and lets you snag Roaming Oak before it rolls deeper into the forest.
-- If the Oak vanishes mid-loop, check the adjacent forest path near the Spirit Oak Pine Forest entrance—the 20 Feb update notes it will occasionally pause against the cabins before continuing along the inner ring, so you can wait there without chasing across the map.
+- Start at Plot 2’s north porch and circle counterclockwise through Plots 3–5; the Oak tends to pause near the water well before continuing into the Pine Forest edge, so keep your stamina bar topped so you can hop between those stops quickly.
+- Use Glyph Hub’s visual map (see above) as a checkpoint: the ring road inside Plot 2 has a narrow sidewalk that lets you spot the glowing stump without orbiting the entire forest. Once you grab it, sprint over to Plot 12’s fishing trail for the America/Global spawn so you don’t miss the morning window.
 
 ## Codes & vault intel
-- SportsRant’s Feb 2026 list highlights **b8n2k5l** for 2x Flawless Fluorite, 6 Rare Timber, and 10 Stone—redeem it from Settings → Redeem Code the moment you can, then pop the rewards into your crafting queue before the next log reset.
+- SportsRant’s Feb 2026 list highlights **b8n2k5l** for 2x Flawless Fluorite, 6 Rare Timber, and 10 Stone—redeem it from Settings → Redeem Code, then pop the rewards into your crafting queue before the next reset.
 - Keep **SPRINGFEST2026** on hand for 10 Moonlight Crystals + 8,888 Gold and pair it with **m7r9q4a** (10,000 Gold) to fund a quick furniture rush or badge pull whenever you need another Moonlight Treasure Box run.
 - The guide also lists high-value codes like `letsbuild`, `letsdressup`, and `letsparty` for bonus Wishing Stars plus Festival materials, so swap through them if your stash is trimmed by the Pony collab quests.
 
 ## Events & quests
-- Onsen Egg Promise runs through Feb 21—pair each cracked egg with an Amethyst bubble to climb the snowman ladder and keep the Purple Lifeguard station rotating in the collab shop.
-- The Heartopia × My Little Pony Collaboration runs from Feb 14 to Mar 15, 2026 (VG247 / IGN). A pre-launch login puzzle chain is live through Feb 14 that hands out time-limited Exhibition Passes and, once you complete all of the puzzles, unlocks a Spike-inspired pet costume. When the collab opens for real, daily Tree of Harmony sensing continues to deliver Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens, with Town Collaboration Series rewards waiting after you gap-complete all pony sets.
+- Onsen Egg Promise runs through Feb 21 — pair each cracked egg with an Amethyst bubble to climb the snowman ladder and keep the Purple Lifeguard station rotating in the collab shop.
+- The Heartopia × My Little Pony Collaboration runs from Feb 14 to Mar 15, 2026 (VG247 / IGN). The pre-launch puzzle chain hands out time-limited Exhibition Passes and unlocks Spike-inspired items; once the collab is live, daily Tree of Harmony sensing keeps delivering Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens.
 - Specialty Exhibition is selling My Little Pony costumes, furniture, and accessory bundles—visit after your loop and plan a slow stroll so you can showcase any Tangyly snack cabinet builds.
+- The Penguin Gifting event is live for roughly 17 more days with seven pastel presents; schedule a nightly vendor visit so you can share the freshly gifted styles with friends before the rotation wraps.
 - Moonlight Treasure Box: Secret Recipes launches Feb 17—draw with Moonlight Crystals for the Tea Savoring and Taste Relishing outfit sets plus a Moonlight Special guarantee that completes all treasures within 12 draws.
 - Spring Gift redemption code SPRINGFEST2026 yields Moonlight Crystal ×10 and Gold ×8888 until Mar 31 (10:59 UTC-5), so hit the town before the blossoms fade.
 
 ## Community tactics
-- Keep the guardian chats bookmarked so you can share warm drinks for iced builds, post statues with protective notes, and warn others when strangers pop into town.
+- Bookmark guardian chats and share the Plot 2/Plot 8 report so people can sync timers when the Oak disappears mid-loop.
 - Bring at least two V-energy drinks and the LunarNook coordinate collage before starting the Coastal Loop—Amethyst Beach bubble pops and the Tree of Harmony circuits stack up quickly.
-- Post the Plot 12 Roaming Oak updates, the Vanya egg glow, and today’s community snapshot so others can sync timers.
+- Post each Penguin gift drop screenshot and tag the East Beach vendor shoutout so others know which penguin style just appeared.
 
 ## Bubble hunting hints
 Piano/Art Street, Snowman bridge, and the Bird Event area still supply reliable bubbles. Keep Glyph Hub’s timer on repeat to know exactly when the purple bubble at Amethyst Beach will respawn.
 
 ## Last references
-- Kongbakpao · "Heartopia Wandering Oak Location Today" (Feb 20) · https://www.kongbakpao.com/heartopia-wandering-oak-location-today/
-- SportsRant (IndiaTimes) · "All Active Heartopia Codes (February 2026)" · https://sportsrant.indiatimes.com/gaming/all-active-heartopia-codes-february-2026-and-how-to-redeem-them/articleshow/128545564.html
-- Twitter (Top/Fluorite/Oak searches) required a logged-in session, so no tweets could be captured for this refresh.
+- @Glyph_Hub · Heartopia Roaming Oak & Fluorite (Feb 24, 2026) · https://x.com/Glyph_Hub/status/2026062460504142271
+- @seungminpoca · Quick reply confirming Plot 2/8 spawns (Feb 24, 2026) · https://x.com/seungminpoca/status/2026148895701848406
+- @ArichanTaylor · Limited Penguin gift countdown (Feb 24, 2026) · https://x.com/ArichanTaylor/status/2026265378377383983
