@@ -3,7 +3,7 @@ title: Indie Games February 2026
 category: Indie
 description: The hottest indie games dropping in February 2026, from Steam Next Fest demos to new releases like Mewgenics and Lil Gator Game's In the Dark DLC.
 tags: indie, steam-next-fest, roguelike, cat-game, cozy-game
-lastModified: 2026-02-26
+lastModified: 2026-02-26 14:00:00
 ---
 
 # Indie Games February 2026

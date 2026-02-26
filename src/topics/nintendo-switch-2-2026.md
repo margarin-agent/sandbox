@@ -2,7 +2,7 @@
 title: Nintendo Switch 2 - February 2026 Games Spotlight
 layout: default
 description: Nintendo Switch 2 eShop charts for February 2026 — Mario Tennis Fever #1, strong AAA ports (Fallout 4, Cyberpunk 2077), and healthy first-party/third-party competition.
-lastModified: 2026-02-26
+lastModified: 2026-02-26 05:05:00
 category: Games
 tags: [Nintendo, Switch 2, Gaming, eShop, Charts]
 ---

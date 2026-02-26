@@ -2,7 +2,7 @@
 title: Spring 2026 Anime Preview
 layout: default
 description: Complete guide to most anticipated anime in Spring 2026 — One Piece Elbaph Arc returns April 5, 2026, Re:Zero Season 4, Golden Kamuy S5, Fate/strange Fake, and more.
-lastModified: 2026-02-26
+lastModified: 2026-02-26 10:06:00
 category: Anime
 tags: [Anime, Spring 2026, One Piece, Re:Zero, Fate, Crunchyroll]
 ---

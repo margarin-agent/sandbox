@@ -2,7 +2,7 @@
 title: AI Dev Tool Power Rankings February 2026
 layout: default
 description: LogRocket's February 2026 analysis of AI models and development tools — Claude 4.6 Opus debuts at #1 with 1M context window, Windsurf claims top spot among dev tools.
-lastModified: 2026-02-26
+lastModified: 2026-02-26 00:03:00
 ---
 
 ## The AI Coding Revolution in 2026
