@@ -22,6 +22,7 @@ When creating spotlight pages in `src/topics/`, use this front matter:
 ```yaml
 ---
 title: Page Title
+layout: default
 description: One-sentence SEO/meta description
 lastModified: YYYY-MM-DD HH:MM:SS
 category: Category Name
@@ -30,7 +31,7 @@ tags: [tag1, tag2, tag3]
 ```
 
 **Notes:**
-- `layout: default` is automatically applied via `src/_data/topics.json` — no need to include manually
+- `layout: default` is **REQUIRED** — must include in front matter (data cascade doesn't work)
 - `lastModified` MUST include time (HH:MM:SS) because multiple posts can be created in one day
 - Use `category: Tech/Anime/Games/AI/Japan/Science/Music/Indie` from rotation
 
