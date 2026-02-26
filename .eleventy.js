@@ -21,16 +21,6 @@ module.exports = function(eleventyConfig) {
       });
   });
 
-  // Apply default layout to topics directory
-  eleventyConfig.addCollection("topics", collection => {
-    return collection.getFilteredByGlob("./src/topics/**/*.md").map(page => {
-      if (!page.data.layout) {
-        page.data.layout = "default";
-      }
-      return page;
-    });
-  });
-
   return {
     dir: {
       input: "src",
