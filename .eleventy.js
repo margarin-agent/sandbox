@@ -8,6 +8,9 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj instanceof Date ? dateObj : new Date(dateObj)).toFormat(format);
   });
 
+  // Set default layout for topics directory
+  eleventyConfig.addLayoutAlias("default", "default.njk");
+
   eleventyConfig.addCollection("autoPages", collection => {
     return collection.getAll()
       .filter(page => page.url && page.url !== "/" && page.data.nav !== false)
@@ -16,6 +19,16 @@ module.exports = function(eleventyConfig) {
         const bTime = b.data.lastModified ? new Date(b.data.lastModified).getTime() : 0;
         return bTime - aTime; // Newest first
       });
+  });
+
+  // Apply default layout to topics directory
+  eleventyConfig.addCollection("topics", collection => {
+    return collection.getFilteredByGlob("./src/topics/**/*.md").map(page => {
+      if (!page.data.layout) {
+        page.data.layout = "default";
+      }
+      return page;
+    });
   });
 
   return {
