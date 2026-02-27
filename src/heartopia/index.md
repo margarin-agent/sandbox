@@ -1,55 +1,52 @@
 ---
 title: Heartopia Daily Guide
 layout: default
-description: Daily drops, community beats, and the latest Heartopia pulse.
-lastModified: 2026-02-26
+description: Daily drops, community beats, and latest Heartopia pulse.
+lastModified: 2026-02-27 12:05:00
 ---
 
-## Resources today (26 Feb 2026)
-- **Fluorite:** Sea server collectors should head to Plot 1 for today's Flawless Fluorite spawn, while America/Global servers will find their deposit at Plot 4. Lunar Nook's morning update confirms sunny weather is perfect for a quick sweep.
-- **Oak Timber:** The Wandering Oak is looping through Plot 4 for the Sea server batch and Plot 8 for the America/Global run. Plan a two-stop route: hit Plot 4's trail first (Sea), then swing by Plot 8's cabins (America/Global) if you're cross-server hopping.
-- **Penguin reminder:** Don't forget to feed the penguins for special gifts! The limited-time Penguin Gifting event continues with about 15 days remaining.
-- **Bubble tip:** Amethyst Beach's purple bubble remains a go-to for bonus drops—time your visit when the shimmer flares for maximum yield.
+## Resources today (27 Feb 2026)
+- **Fluorite:** Onsen Mountain is the hotspot today! Lunar Nook's morning update pinpoints fluorite on Onsen Mountain, while Heartopia Fess confirms it's near the capybara eating area. Perfect spot for a relaxing soak after mining.
+- **Oak Timber:** The Wandering Oak has parked itself at House No. 8 today. Both Lunar Nook and Heartopia Fess confirm Plot 8—plan a direct route there and save some V-energy for the climb up to Onsen Mountain.
+- **New arrival:** Welcome Milo! 🐶 A new dog has joined the household today according to Lunar Nook's update—another furry friend to brighten your daily routine.
+- **Weather:** Sunny skies continue—ideal conditions for a quick collection run before the JST evening reset.
+- **Bubble tip:** Amethyst Beach's purple bubble remains reliable; pair your Onsen visit with a quick beach stop to maximize drop efficiency.
 
-## Fluorite & Oak check (Feb 26 recap)
-![Glyph Hub's Feb 26 coordinate map](/assets/heartopia/glyphhub-2026-02-26.jpg)
-*Glyph Hub's Feb 26 visual shows Sea server Plot 1/4 and America/Global Plot 8/4 routes.*
+## Fluorite & Oak check (Feb 27)
+![Lunar Nook's Feb 27 coordinate map](/assets/heartopia-lunarnook-27feb.jpg)
+*Lunar Nook's Feb 27 visual shows Onsen Mountain fluorite and Plot 8 oak routes.*
 
-### Sea Server (UTC+7)
-| Resource | Plot |
-|----------|------|
-| 💎 Fluorite | Plot 1 |
-| 🪵 Roaming Oak | Plot 4 |
+### All Servers
+| Resource | Location |
+|----------|----------|
+| 💎 Fluorite | Onsen Mountain (near capybara eating area) |
+| 🪵 Roaming Oak | Plot 8 (House No. 8) |
 
-### America/Global Server (UTC-5)
-| Resource | Plot |
-|----------|------|
-| 💎 Fluorite | Plot 4 |
-| 🪵 Roaming Oak | Plot 8 |
-
-- Glyph Hub's coordinated post maps both server sets, making it easy to plan your route regardless of which shard you're playing on.
-- Lunar Nook confirmed the Plot 1 fluorite / Plot 4 oak for Sea server, so those coordinates are verified for today.
+- Both Lunar Nook and Heartopia Fess confirm the same coordinates for today—Plot 8 for oak and Onsen Mountain for fluorite.
+- Onsen Mountain's fluorite spot is conveniently near the capybara feeding area, making it easy to grab your daily deposit while checking on the wildlife.
+- Plot 8's oak is in a residential cluster—keep an eye out for player houses and potential collaborative energy spots.
 
 ## Lunar Nook's daily snapshot
-![Lunar Nook's Feb 26 coordinates](/assets/heartopia/lunarnook-2026-02-26.jpg)
-*Lunar Nook's sunny-day capture with Plot 1 fluorite and Plot 4 oak markers.*
+![Onsen Mountain fluorite location](/assets/heartopia-onsen-27feb.jpg)
+*Lunar Nook's Onsen Mountain map showing the exact fluorite spawn point near the hot springs.*
 
-- The morning update notes sunny weather—ideal for a quick collection run.
-- Penguin feeding reminder included: keep those special gifts rolling in before the event wraps up.
+- The morning update confirms sunny weather continues—perfect for both mountain climbing and house-to-house routes.
+- New dog Milo mentioned: always check your pet's energy levels before heading out on longer collection runs.
+- Onsen Mountain fluorite is well-marked on the map—follow the trail up from the main resort area.
 
-## Yesterday's recap (Feb 25)
-- **Fluorite:** Plot 4 (Sea) / Plot 8 (America/Global)
-- **Roaming Oak:** Plot 8 (Sea) / Plot 2 (America/Global)
-- Heartopia Fess's community post garnered 52 likes, confirming the plot swaps are reliable—check the previous day's section for the full breakdown.
+## Yesterday's recap (Feb 26)
+- **Fluorite:** Plot 1 (Sea) / Plot 4 (America/Global)
+- **Roaming Oak:** Plot 4 (Sea) / Plot 8 (America/Global)
+- Glyph Hub's coordinated post mapped both server sets, confirming the community's rapid information network.
 
 ## Penguin gift spotlight
 ![Penguin gift teaser](/assets/heartopia-penguin-gift.jpg)
-The Penguin gift collage continues to circulate with reminders that seven pastel present skins are still available for about 15 more days. Guardians keep re-running the East Beach vendor, sharing helpful countdown notes so everyone can snag the final set before the limited run ends.
+The Penguin gift collage continues to circulate with reminders that seven pastel present skins are still available for about 14 more days. Guardians keep re-running East Beach vendor, sharing helpful countdown notes so everyone can snag the final set before the limited run ends.
 
 ## Daily Oak scouting tips
-- Start at the Plot 4 trail (Sea server) and circle counterclockwise through Plots 3–2; the Oak tends to pause near the water well before continuing into the Pine Forest edge.
-- Use Glyph Hub's visual map (see above) as a checkpoint: the ring road inside Plot 4 has a narrow sidewalk that lets you spot the glowing stump without orbiting the entire forest.
-- For America/Global, begin at Plot 8's cabins and work toward the fishing trail—the Oak often lingers near the dock before resetting.
+- Start at Plot 8's residential cluster and work your way through the narrow streets between houses—the oak glow is easier to spot against the light-colored home exteriors.
+- After grabbing the oak at Plot 8, head directly to Onsen Mountain for fluorite—the trail is well-marked and the climb is worth it for the mountain views.
+- Keep V-energy drinks handy for the Onsen Mountain climb; the hot springs make for a perfect rest stop after mining.
 
 ## Codes & vault intel
 - SportsRant's Feb 2026 list highlights **b8n2k5l** for 2x Flawless Fluorite, 6 Rare Timber, and 10 Stone—redeem it from Settings → Redeem Code.
@@ -58,20 +55,20 @@ The Penguin gift collage continues to circulate with reminders that seven pastel
 
 ## Events & quests
 - The Heartopia × My Little Pony Collaboration runs from Feb 14 to Mar 15, 2026 (VG247 / IGN). Daily Tree of Harmony sensing keeps delivering Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens.
-- Penguin Gifting event: ~15 days remaining with seven pastel presents; schedule nightly vendor visits.
+- Penguin Gifting event: ~14 days remaining with seven pastel presents; schedule nightly vendor visits.
 - Moonlight Treasure Box: Secret Recipes active—draw with Moonlight Crystals for outfit sets with a Moonlight Special guarantee within 12 draws.
 - Spring Gift redemption code SPRINGFEST2026 yields Moonlight Crystal ×10 and Gold ×8888 until Mar 31 (10:59 UTC-5).
 
 ## Community tactics
-- Bookmark Glyph Hub and Lunar Nook for daily coordinate updates—they're the fastest sources for verified plot locations.
-- Bring at least two V-energy drinks and coordinate collage before starting the Coastal Loop.
+- Bookmark Lunar Nook and Glyph Hub for daily coordinate updates—they're the fastest sources for verified plot locations.
+- Bring at least two V-energy drinks and plan your route: Plot 8 → Onsen Mountain → Amethyst Beach for optimal efficiency.
 - Post each Penguin gift drop screenshot and tag the East Beach vendor shoutout so others know which penguin style just appeared.
 
 ## Bubble hunting hints
-Piano/Art Street, Snowman bridge, and the Bird Event area still supply reliable bubbles. Keep to Amethyst Beach timer on repeat to know exactly when the purple bubble will respawn.
+Piano/Art Street, Snowman bridge, and Bird Event area still supply reliable bubbles. Keep to Amethyst Beach timer on repeat to know exactly when the purple bubble will respawn.
 
 ## Last references
+- @LunarNook · Feb 27 Daily Coordinates (Feb 27, 2026) · https://x.com/LunarNook/status/2027303211040702951
+- @heartopia_fess · Feb 27 Oak & Fluorite (Feb 27, 2026) · https://x.com/heartopia_fess/status/2027180008666489317
 - @LunarNook · Feb 26 Daily Coordinates (Feb 26, 2026) · https://x.com/LunarNook/status/2026938339614433588
 - @Glyph_Hub · Heartopia Roaming Oak & Fluorite (Feb 26, 2026) · https://x.com/Glyph_Hub/status/2026797643587002809
-- @heartopia_fess · Feb 25 Oak & Fluorite (Feb 25, 2026) · https://x.com/heartopia_fess/status/2026801409660698871
-- @LunarNook · Feb 25 Daily Coordinates (Feb 25, 2026) · https://x.com/LunarNook/status/2026577353346879952
