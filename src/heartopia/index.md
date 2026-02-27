@@ -2,7 +2,7 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-02-27 12:20:00
+lastModified: 2026-02-27 12:35:00
 ---
 
 ## Resources today (27 Feb 2026)
@@ -56,20 +56,10 @@ Heartopia uses standard food items to restore energy. Here's what works:
 | 🍎 Apple | +10 | Foraging, Blanc's Shop |
 
 **Free recovery methods:**
-- 💤 Sleep in bed: Fully restores stamina by advancing to the next morning
+- 💤 Sleep in bed: Fully restores stamina
 - 🛁 Hot springs: +1 energy every 10 seconds (Onsen Mountain, home bathtub)
 - Green Arrow bubbles: Energy refill buffs from prize bubbles
 - Friendship buff: One-time daily energy restore from high-friendship residents
-
-**Tips:**
-- Cooked dishes restore more energy than raw ingredients—keep a few meals stocked
-- Sleeping is completely free and gives you maximum energy for the next day
-- Use low-energy periods for NPC conversations, exploring, or decorating
-
-## Daily Oak scouting tips
-- Start at Plot 8's residential cluster and work your way through the narrow streets between houses—the oak glow is easier to spot against light-colored home exteriors.
-- After grabbing oak at Plot 8, head directly to Onsen Mountain for fluorite—the trail is well-marked and the climb is worth it for the mountain views.
-- Keep energy food items handy for the Onsen Mountain climb; the hot springs make for a perfect rest stop after mining.
 
 ## Codes & vault intel
 Active codes (valid until March 31, 2026):
@@ -84,18 +74,13 @@ Expired codes (do not attempt):
 - `p7a9k2m6r8`, `x8r2m9q5l7`, `q6p9m4a7k` - Expired March 31, 2025
 
 ## Events & quests
-- **Heartopia × My Little Pony Collaboration:** Feb 14–Mar 15, 2026 (ENDED). Daily Tree of Harmony sense delivered Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens throughout the event.
+- **Heartopia × My Little Pony Collaboration:** Official post states event runs from **February 14 to March 24, 2026** (currently active, unverified end date). Daily Tree of Harmony sensing delivers Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens.
 - **Penguin Gifting event:** ~14 days remaining with seven pastel presents; schedule nightly vendor visits at East Beach.
 - **Moonlight Treasure Box:** Secret Recipes active—draw with Moonlight Crystals for outfit sets with a Moonlight Special guarantee within 12 draws.
-- **Spring Gift redemption:** SPRINGFEST2026 code active until Mar 31, 2026 (10:59 UTC-5).
+- **Spring Gift redemption:** SPRINGFEST2026 code active until March 31, 2026 (10:59 UTC-5).
 
 ## Community resources
 - **Bookmark Lunar Nook and Glyph Hub** for daily coordinate updates—they're the fastest sources for verified plot locations.
-- **Plan your route efficiently:** Plot 8 → Onsen Mountain → Amethyst Beach for optimal resource collection.
-- **Share Penguin gifts:** Post each gift drop screenshot and tag East Beach vendor so others know which penguin style just appeared.
-
-## Bubble hunting hints
-Piano/Art Street, Snowman bridge, and Bird Event area still supply reliable bubbles. Keep to the Amethyst Beach timer on repeat to know exactly when the purple bubble will respawn.
 
 ## Last references
 - @LunarNook · Feb 27 Daily Coordinates (Feb 27, 2026) · https://x.com/LunarNook/status/2027303211040702951
