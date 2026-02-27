@@ -2,12 +2,12 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-02-27 12:05:00
+lastModified: 2026-02-27 12:20:00
 ---
 
 ## Resources today (27 Feb 2026)
-- **Fluorite:** Onsen Mountain is the hotspot today! Lunar Nook's morning update pinpoints fluorite on Onsen Mountain, while Heartopia Fess confirms it's near the capybara eating area. Perfect spot for a relaxing soak after mining.
-- **Oak Timber:** The Wandering Oak has parked itself at House No. 8 today. Both Lunar Nook and Heartopia Fess confirm Plot 8—plan a direct route there and save some V-energy for the climb up to Onsen Mountain.
+- **Fluorite:** Onsen Mountain is hotspot today! Lunar Nook's morning update pinpoints fluorite on Onsen Mountain, while Heartopia Fess confirms it's near the capybara eating area. Perfect spot for a relaxing soak after mining.
+- **Oak Timber:** The Wandering Oak has parked itself at House No. 8 today. Both Lunar Nook and Heartopia Fess confirm Plot 8—plan a direct route there and save some energy for the climb up to Onsen Mountain.
 - **New arrival:** Welcome Milo! 🐶 A new dog has joined the household today according to Lunar Nook's update—another furry friend to brighten your daily routine.
 - **Weather:** Sunny skies continue—ideal conditions for a quick collection run before the JST evening reset.
 - **Bubble tip:** Amethyst Beach's purple bubble remains reliable; pair your Onsen visit with a quick beach stop to maximize drop efficiency.
@@ -39,33 +39,63 @@ lastModified: 2026-02-27 12:05:00
 - **Roaming Oak:** Plot 4 (Sea) / Plot 8 (America/Global)
 - Glyph Hub's coordinated post mapped both server sets, confirming the community's rapid information network.
 
-## Penguin gift spotlight
-![Penguin gift teaser](/assets/heartopia-penguin-gift.jpg)
-The Penguin gift collage continues to circulate with reminders that seven pastel present skins are still available for about 14 more days. Guardians keep re-running East Beach vendor, sharing helpful countdown notes so everyone can snag the final set before the limited run ends.
+## Energy restoration guide
+Heartopia uses standard food items to restore energy. Here's what works:
+
+| Food Item | Energy Restored | Source |
+|------------|-----------------|--------|
+| 🍰 Cake | +40 | Cooking, Bakery |
+| ☕ Coffee | +35 | Cafe |
+| 🍜 Noodles | +30 | Cooking |
+| 🥧 Pie | +25 | Cooking |
+| 🍪 Cookie | +18 | Cooking |
+| 🍞 Bread | +15 | Cooking, Bakery |
+| 🥗 Salad | +20 | Cooking |
+| 🍓 Strawberry | +12 | Gardening |
+| 🥕 Carrot | +8 | Gardening |
+| 🍎 Apple | +10 | Foraging, Blanc's Shop |
+
+**Free recovery methods:**
+- 💤 Sleep in bed: Fully restores stamina by advancing to the next morning
+- 🛁 Hot springs: +1 energy every 10 seconds (Onsen Mountain, home bathtub)
+- Green Arrow bubbles: Energy refill buffs from prize bubbles
+- Friendship buff: One-time daily energy restore from high-friendship residents
+
+**Tips:**
+- Cooked dishes restore more energy than raw ingredients—keep a few meals stocked
+- Sleeping is completely free and gives you maximum energy for the next day
+- Use low-energy periods for NPC conversations, exploring, or decorating
 
 ## Daily Oak scouting tips
-- Start at Plot 8's residential cluster and work your way through the narrow streets between houses—the oak glow is easier to spot against the light-colored home exteriors.
-- After grabbing the oak at Plot 8, head directly to Onsen Mountain for fluorite—the trail is well-marked and the climb is worth it for the mountain views.
-- Keep V-energy drinks handy for the Onsen Mountain climb; the hot springs make for a perfect rest stop after mining.
+- Start at Plot 8's residential cluster and work your way through the narrow streets between houses—the oak glow is easier to spot against light-colored home exteriors.
+- After grabbing oak at Plot 8, head directly to Onsen Mountain for fluorite—the trail is well-marked and the climb is worth it for the mountain views.
+- Keep energy food items handy for the Onsen Mountain climb; the hot springs make for a perfect rest stop after mining.
 
 ## Codes & vault intel
-- SportsRant's Feb 2026 list highlights **b8n2k5l** for 2x Flawless Fluorite, 6 Rare Timber, and 10 Stone—redeem it from Settings → Redeem Code.
-- Keep **SPRINGFEST2026** on hand for 10 Moonlight Crystals + 8,888 Gold and pair it with **m7r9q4a** (10,000 Gold) to fund a quick furniture rush or badge pull.
-- High-value codes like `letsbuild`, `letsdressup`, and `letsparty` for bonus Wishing Stars plus Festival materials.
+Active codes (valid until March 31, 2026):
+
+- **SPRINGFEST2026** - Moonlight Crystal ×10, Gold ×8,888
+- **b8n2k5l** - Flawless Fluorite ×2, Rare Timber ×6, Stone ×10
+- **m7r9q4a** - Gold ×10,000 (pair with SPRINGFEST2026 for bonus)
+
+High-value bonus codes: `letsbuild`, `letsdressup`, `letsparty` for Wishing Stars + Festival Materials.
+
+Expired codes (do not attempt):
+- `p7a9k2m6r8`, `x8r2m9q5l7`, `q6p9m4a7k` - Expired March 31, 2025
 
 ## Events & quests
-- The Heartopia × My Little Pony Collaboration runs from Feb 14 to Mar 15, 2026 (VG247 / IGN). Daily Tree of Harmony sensing keeps delivering Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens.
-- Penguin Gifting event: ~14 days remaining with seven pastel presents; schedule nightly vendor visits.
-- Moonlight Treasure Box: Secret Recipes active—draw with Moonlight Crystals for outfit sets with a Moonlight Special guarantee within 12 draws.
-- Spring Gift redemption code SPRINGFEST2026 yields Moonlight Crystal ×10 and Gold ×8888 until Mar 31 (10:59 UTC-5).
+- **Heartopia × My Little Pony Collaboration:** Feb 14–Mar 15, 2026 (ENDED). Daily Tree of Harmony sense delivered Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens throughout the event.
+- **Penguin Gifting event:** ~14 days remaining with seven pastel presents; schedule nightly vendor visits at East Beach.
+- **Moonlight Treasure Box:** Secret Recipes active—draw with Moonlight Crystals for outfit sets with a Moonlight Special guarantee within 12 draws.
+- **Spring Gift redemption:** SPRINGFEST2026 code active until Mar 31, 2026 (10:59 UTC-5).
 
-## Community tactics
-- Bookmark Lunar Nook and Glyph Hub for daily coordinate updates—they're the fastest sources for verified plot locations.
-- Bring at least two V-energy drinks and plan your route: Plot 8 → Onsen Mountain → Amethyst Beach for optimal efficiency.
-- Post each Penguin gift drop screenshot and tag the East Beach vendor shoutout so others know which penguin style just appeared.
+## Community resources
+- **Bookmark Lunar Nook and Glyph Hub** for daily coordinate updates—they're the fastest sources for verified plot locations.
+- **Plan your route efficiently:** Plot 8 → Onsen Mountain → Amethyst Beach for optimal resource collection.
+- **Share Penguin gifts:** Post each gift drop screenshot and tag East Beach vendor so others know which penguin style just appeared.
 
 ## Bubble hunting hints
-Piano/Art Street, Snowman bridge, and Bird Event area still supply reliable bubbles. Keep to Amethyst Beach timer on repeat to know exactly when the purple bubble will respawn.
+Piano/Art Street, Snowman bridge, and Bird Event area still supply reliable bubbles. Keep to the Amethyst Beach timer on repeat to know exactly when the purple bubble will respawn.
 
 ## Last references
 - @LunarNook · Feb 27 Daily Coordinates (Feb 27, 2026) · https://x.com/LunarNook/status/2027303211040702951
