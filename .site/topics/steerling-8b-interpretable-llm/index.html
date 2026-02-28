@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Steerling-8B - First Inherently Interpretable LLM</title>
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <header>
+    <p class="tagline">Margarin Sandbox / Proactive Updates</p>
+    <h1>Steerling-8B - First Inherently Interpretable LLM</h1>
+    <p>Guide Labs releases an 8-billion-parameter LLM where every token can be traced back to its training data, concepts, and input context—a breakthrough for AI transparency.</p>
+    <nav class="site-nav">
+      <a href="/">← Back to home</a>
+    </nav>
+  </header>
+  <main>
+    <h2>The Interpretability Problem</h2>
+<p>Understanding why large language models do what they do has been a persistent challenge. Whether it's xAI's struggles fine-tuning Grok's politics, ChatGPT's sycophancy issues, or run-of-the-mill hallucinations, plumbing through neural networks with billions of parameters is notoriously difficult.</p>
+<p><strong>Steerling-8B</strong>, released by San Francisco startup <strong>Guide Labs</strong> on February 23, 2026, takes a fundamentally different approach: engineering interpretability directly into the model's architecture.</p>
+<h2>How It Works</h2>
+<h3>The Concept Layer</h3>
+<p>Steerling-8B alters the standard transformer structure by inserting a <strong>&quot;concept layer&quot;</strong> that categorizes data into traceable buckets during training. This means:</p>
+<ul>
+<li><strong>Every token produced can be traced back to:</strong>
+<ul>
+<li>Input context (prompt tokens)</li>
+<li>Concepts (human-understandable topics in the model's representations)</li>
+<li>Training data (the actual sources that drove the output)</li>
+</ul>
+</li>
+</ul>
+<h3>Steering Without Retraining</h3>
+<p>The architecture enables developers to <strong>suppress or amplify specific concepts at inference time</strong> without retraining. This replaces thousands of safety training examples with explicit concept-level steering.</p>
+<blockquote>
+<p>&quot;The kind of interpretability people do is neuroscience on a model, and we flip that. What we do is actually engineer the model from the ground up so that you don't need to do neuroscience.&quot; — Julius Adebayo, CEO</p>
+</blockquote>
+<h2>Performance</h2>
+<p>Despite the additional interpretability constraints, Steerling-8B holds its own:</p>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Parameters</td>
+<td>8 billion</td>
+</tr>
+<tr>
+<td>Training Tokens</td>
+<td>1.35 trillion</td>
+</tr>
+<tr>
+<td>Relative Efficiency</td>
+<td>Matches models trained on 2-7× more data</td>
+</tr>
+</tbody>
+</table>
+<h2>Key Capabilities</h2>
+<ol>
+<li><strong>Training Data Provenance</strong> — Trace any generated chunk back to its sources</li>
+<li><strong>Concept Control</strong> — Suppress or amplify concepts at inference time</li>
+<li><strong>Inference-Time Alignment</strong> — Replace thousands of safety examples with steering</li>
+</ol>
+<h2>Open Source Release</h2>
+<p>Guide Labs has open-sourced the entire project:</p>
+<ul>
+<li>🤗 <a href="https://huggingface.co/guidelabs/steerling-8b">Steerling-8B on Hugging Face</a></li>
+<li>💻 <a href="https://github.com/guidelabs/steerling">GitHub Repository</a></li>
+<li>📦 <a href="https://pypi.org/project/steerling/">PyPI Package</a></li>
+</ul>
+<h2>Why It Matters</h2>
+<p>For AI engineers and researchers, Steerling-8B represents a shift from post-hoc interpretability (analyzing models after they're built) to <strong>inherent interpretability</strong> (building transparency into the architecture). This could be particularly valuable for:</p>
+<ul>
+<li>Safety-critical applications requiring audit trails</li>
+<li>Debugging and understanding model behavior</li>
+<li>Reducing hallucinations by tracing claims to sources</li>
+<li>Fine-grained control over model outputs</li>
+</ul>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/">TechCrunch: Guide Labs debuts a new kind of interpretable LLM</a></li>
+<li><a href="https://www.guidelabs.ai/post/steerling-8b-base-model-release/">Guide Labs: Steerling-8B Base Model Release</a></li>
+<li><a href="https://dataconomy.com/2026/02/24/new-steerling-8b-model-can-trace-every-single-word-back-to-its-training-source/">Dataconomy: New Steerling-8B Model Can Trace Every Single Word</a></li>
+</ul>
+
+  </main>
+  <footer>
+    <p>Updated Invalid DateTime · Source: proactive summaries & community feeds.</p>
+  </footer>
+</body>
+</html>

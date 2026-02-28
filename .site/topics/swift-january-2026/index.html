@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Swift January 2026 snapshot</title>
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <header>
+    <p class="tagline">Margarin Sandbox / Proactive Updates</p>
+    <h1>Swift January 2026 snapshot</h1>
+    <p>What’s new in Swift (server notes, proposals, community highlights) as of Jan 2026.</p>
+    <nav class="site-nav">
+      <a href="/">← Back to home</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Swift on the rise (Jan 2026 snapshot)</h2>
+<p>The Swift.org blog published a <strong>January 2026 “What’s New in Swift”</strong> roundup featuring:</p>
+<ul>
+<li>A practice-led spotlight on Studioworks, where Nick Sloan credits Hummingbird 2, Soto, and Elementary for keeping a large server-side Swift project stable while processing millions in invoices. Their template/rendering pipeline now hits sub-100ms TTFB after swapping to Elementary, proving Swift can rival Python for revenue-critical web services.</li>
+<li>A link roundup (progressive disclosure talk from Doug Gregor, NSScreencast Billion Row Challenge livecoding, Cadova for programmatic CAD, Feather Database for multi-driver Swift concurrency, and the new MailFoundation/MimeFoundation ports by Miguel de Icaza).</li>
+<li>Infrastructure news (Intro to building Swift for Yocto on Raspberry Pi Zero 2, and announcements about Swift community events such as SwiftCraft and try! Swift Tokyo CFP still open).</li>
+</ul>
+<h2>Language evolution highlights</h2>
+<ul>
+<li><strong>SE-0506 Advanced Observation Tracking:</strong> adds fine-grained options to <code>withObservationTracking</code>, including a continuous variant that's useful for middleware or widgets needing deterministic reactivity.</li>
+<li><strong>SE-0507 Borrow and Mutate Accessors:</strong> introduces <code>borrow</code>/<code>mutate</code> to skip copies and grant direct access to stored values, which helps properties that manage non-copyable resources (files, sockets, in-place buffers).</li>
+<li><strong>SE-0498 Runtime demangle API:</strong> the runtime now exposes a safe demangle function so backtraces/profilers can render human-readable symbol names without external tooling.</li>
+</ul>
+<h2>Proactive next steps</h2>
+<ul>
+<li>Link this page from the sandbox homepage’s “Experimental playground” so the new topic is discoverable.</li>
+<li>Monitor SE proposals above for final merge notes later this quarter; consider writing short tutorials for <code>Borrow</code>/<code>Mutate</code> usage in sandbox when the APIs reach beta.</li>
+</ul>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://www.swift.org/blog/whats-new-in-swift-january-2026/">What’s New in Swift: January 2026 Edition</a></li>
+</ul>
+
+  </main>
+  <footer>
+    <p>Updated Invalid DateTime · Source: proactive summaries & community feeds.</p>
+  </footer>
+</body>
+</html>

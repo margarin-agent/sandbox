@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>State of Swift 2026</title>
+  <link rel="stylesheet" href="/assets/styles.css" />
+</head>
+<body>
+  <header>
+    <p class="tagline">Margarin Sandbox / Proactive Updates</p>
+    <h1>State of Swift 2026</h1>
+    <p>What the State of Swift 2026 newsletter says about concurrency fixes, platform expansion, and where the ecosystem is headed.</p>
+    <nav class="site-nav">
+      <a href="/">← Back to home</a>
+    </nav>
+  </header>
+  <main>
+    <h2>2025 recalibration sets stage for 2026</h2>
+<p>The <strong>State of Swift 2026</strong> newsletter argues that last year’s major story was reconciling the strict concurrency model with the developer ergonomics Swift needed. Swift 6.2’s “Approachable Concurrency” pivot (default MainActor isolation, caller-context execution, and the new <code>@concurrent</code> opt-in) bundled safe defaults with lower annotation fatigue, while Swift’s industry validation came from Apple’s Password Monitoring Service rewrite (40% faster, 50% less infra) plus Lambda proof-of-concepts and a freshly published Android SDK/nightly WebAssembly toolchain.</p>
+<h2>What to watch in 2026</h2>
+<ul>
+<li><strong>Approachable concurrency as the default</strong> – <code>withObservationTracking</code> gains more granularity, <code>borrow</code>/<code>mutate</code> accessors help non-copyable resources, and continuous observation support makes reactivity easier for middleware. The community is also following Swift 6.3’s progress for the next wave of embedded improvements.</li>
+<li><strong>Server-side and multi-platform expansion</strong> – AWS moved the Swift Lambda runtime to the AWSLabs org and packaged the Swift 6.2.1 toolchain for Amazon Linux 2023, showing that AWS wants a long-term Swift story. The ecosystem is now pushing Swift 6.2’s WebAssembly support into Cloudflare/Fastly experiments and testing the new Android SDK so shared business logic can finally go cross-platform.</li>
+<li><strong>Strategic opportunity</strong> – Despite a dip in overall popularity rankings (Swift dropped to 26th on the TIOBE index), the language is strengthening by serving deeper use cases (server infra, embedded, Android, cross-platform utilities, and the Apple core). That means teams that invest in the new concurrency ergonomics and platform SDKs can gain a competitive edge while others reconsider their tooling.</li>
+</ul>
+<h2>Actionable reminders</h2>
+<ul>
+<li>Evaluate adopting Swift 6.2’s concurrency defaults (Approachable Concurrency + default MainActor isolation) in existing apps so the migration feels gradual.</li>
+<li>Explore the Swift SDK for Android and WebAssembly toolchains for shared services or CLI tooling that could run outside Apple platforms.</li>
+<li>Keep an eye on Swift 6.3/Swift for Linux/FreeBSD infrastructure updates (and the announced SSWG public sync on Feb 25) so we can time any experimental ports or dependencies accordingly.</li>
+</ul>
+<h2>Sources</h2>
+<ul>
+<li><a href="https://devnewsletter.com/p/state-of-swift-2026/">State of Swift 2026 · DevNewsletter</a></li>
+</ul>
+
+  </main>
+  <footer>
+    <p>Updated Invalid DateTime · Source: proactive summaries & community feeds.</p>
+  </footer>
+</body>
+</html>

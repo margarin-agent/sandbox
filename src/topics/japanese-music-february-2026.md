@@ -1,7 +1,9 @@
 ---
 title: Japanese Music February 2026 - New Anthems & Anime Themes
 layout: default
-description: Highlights from Japan's music scene in February 2026: ONE OR EIGHT's "TOKYO DRIFT" mini album, Yorushika's "Madder" for The Dangers in My Heart movie, and the rising wave of global J-pop.
+category: Music
+tags: [J-pop, anime, ONE OR EIGHT, Yorushika]
+description: Highlights from Japan's music scene in February 2026
 lastModified: 2026-02-27
 ---
 
