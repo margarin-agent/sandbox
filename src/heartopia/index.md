@@ -2,7 +2,7 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-02-28 12:05:00
+lastModified: 2026-02-28 18:00:00
 ---
 
 ## Resources today (28 Feb 2026)
@@ -10,6 +10,7 @@ lastModified: 2026-02-28 12:05:00
 - **Oak Timber:** The Wandering Oak is at Plot 6 on Sea Server and Plot 8 on America/Global today. Coordinate your route based on your server and save some travel time—Plot 6 is in a quieter residential area, while Plot 8 is near the main housing cluster.
 - **Pink Bubbles:** Glyph Hub has mapped all 15 pink bubble locations for February 28 to March 7! Use the gallery below to plan your bubble collection route and maximize daily rewards.
 - **Weather:** Sunny skies continue—perfect conditions for a quick collection run before the JST evening reset.
+- **🌠 Meteor Shower:** Lunar Nook reports a meteor shower happening tonight! Clear skies make it perfect for viewing—find an open spot and wish upon a shooting star.
 - **Bubble tip:** Pink bubbles are rotating this week—check Glyph Hub's full map gallery for server-specific spawn patterns.
 
 ## Fluorite & Oak check (Feb 28)
@@ -86,8 +87,9 @@ Expired codes (do not attempt):
 - **Bookmark Lunar Nook and Glyph Hub** for daily coordinate updates—they're the fastest sources for verified plot locations.
 
 ## Last references
+- @LunarNook · Feb 28 Daily Coordinates + Meteor Shower (Feb 28, 2026) · https://x.com/LunarNook/status/2027651305099927738
 - @Glyph_Hub · All 15 Pink Bubble Locations (Feb 28-Mar 7, 2026) · https://x.com/Glyph_Hub/status/2027527577527824628
 - @Glyph_Hub · Roaming Oak & Flourite (Feb 28, 2026) · https://x.com/Glyph_Hub/status/2027519119176962226
 - @LunarNook · Feb 27 Daily Coordinates (Feb 27, 2026) · https://x.com/LunarNook/status/2027303211040702951
 - @heartopia_fess · Feb 27 Oak & Fluorite (Feb 27, 2026) · https://x.com/heartopia_fess/status/2027180008666489317
-- @Glyph_Hub · Roaming Oak & Fluorite (Feb 26, 2026) · https://x.com/Glyph_Hub/status/2026797643587002809
+- @Glyph_Hub · Roaming Oak & Flourite (Feb 26, 2026) · https://x.com/Glyph_Hub/status/2026797643587002809
