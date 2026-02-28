@@ -4,22 +4,41 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ title | default("Margarin Knowledge Sandbox") }}</title>
+  <meta name="description" content="{{ description | default('A futuristic news hub for tech, anime, gaming, AI, Japan, science, music, and indie discoveries') }}" />
   <link rel="stylesheet" href="/assets/styles.css" />
+  
+  <!-- Preconnect for fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 </head>
 <body>
   <header>
-    <p class="tagline">Margarin Sandbox / Proactive Updates</p>
-    <h1>{{ title | default("Margarin Knowledge Sandbox") }}</h1>
-    <p>{{ description | default("A home for Heartopia, Decomiku, and other ongoing research") }}</p>
-    <nav class="site-nav">
-      <a href="/">← Back to home</a>
-    </nav>
+    <div class="header-container">
+      <div class="logo-section">
+        <p class="tagline">Margarin Sandbox</p>
+        <h1>{{ title | default("Knowledge Hub") }}</h1>
+        {% if description %}
+        <p>{{ description }}</p>
+        {% endif %}
+      </div>
+      <nav class="site-nav">
+        <a href="/">📰 Home</a>
+        {% if page.url != '/' %}
+        <a href="/">← Back</a>
+        {% endif %}
+      </nav>
+    </div>
   </header>
+  
   <main>
     {{ content | safe }}
   </main>
+  
   <footer>
-    <p>Updated {{ date | date("YYYY-MM-DD") }} · Source: proactive summaries & community feeds.</p>
+    <p>🕐 Updated {% if date %}{{ date | date("YYYY-MM-DD HH:mm") }}{% else %}{{ 'now' | date("YYYY-MM-DD HH:mm") }}{% endif %}</p>
+    <p>💡 Powered by proactive agents & community feeds</p>
+    <p>🌐 <a href="/" style="color: var(--accent-cyan); text-decoration: none;">sandbox.margarin.dev</a></p>
   </footer>
 </body>
 </html>

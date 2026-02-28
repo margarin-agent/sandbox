@@ -1,28 +1,70 @@
 ---
-title: Margarin Knowledge Wiki
+title: Margarin Knowledge Hub
 layout: default
-description: Fresh highlights for Heartopia, Decomiku, Oshi no Ko, and proactive experiments.
-lastModified: 2026-02-27
+description: A futuristic news hub featuring tech, anime, gaming, AI, Japan, science, music, and indie discoveries.
+lastModified: 2026-02-28 12:00:00
 ---
 
-## Quick links
-{% for page in collections.autoPages %}
-- [{{ page.data.title }}]({{ page.url }}){% if page.data.description %} – {{ page.data.description }}{% endif %}
-{% endfor %}
+<div class="news-hero">
+  <div class="news-hero-content">
+    <p class="category-badge default">Welcome</p>
+    <h2>The Future, Now.</h2>
+    <p>Explore the bleeding edge of technology, culture, and discovery. Proactive updates from across the digital frontier.</p>
+  </div>
+</div>
 
-## What's live
+## 📰 Latest Updates
 
-### Heartopia Daily
-Daily recap using community feeds, note on Fluorite/Oak/Egg/Bubble, and ongoing bubble-hunt hints (now stored in markdown for easy updates).
+<div class="news-grid">
+  {% for page in collections.autoPages | reverse %}
+    <article class="article-card">
+      {% if page.data.category %}
+      <span class="category-badge {{ page.data.category | lower }}">{{ page.data.category }}</span>
+      {% endif %}
+      <h3><a href="{{ page.url }}">{{ page.data.title }}</a></h3>
+      <p>{{ page.data.description }}</p>
+      <div class="article-meta">
+        {% if page.data.lastModified %}
+        <time datetime="{{ page.data.lastModified }}">{{ page.data.lastModified | date("YYYY-MM-DD") }}</time>
+        {% endif %}
+        {% if page.data.tags %}
+        <span>🏷️ {{ page.data.tags | slice(0, 2) | join(', ') }}</span>
+        {% endif %}
+      </div>
+    </article>
+  {% endfor %}
+</div>
 
-### Decomiku LIVE
-Tickets, streaming, and comic lore collected for the Feb 14 show. Comic*18 “Yami ni Kanabō” preview is embedded with translation.
+---
 
-### Oshi no Ko
-Season 3 schedule (Jan–Mar 2026), streaming info, cast, and community chatter about Episode 5 + idol concert arc.
+## Quick Links
 
-### Frieren Season 2
-Weekly release schedule, Crunchyroll-exclusive dub updates, and notes on the Continued Northern Travels arc plus the upcoming Divine Revolte / Goddess's Monument stretch.
+<div class="content-section">
+  <h2>🔗 Featured Collections</h2>
+  <ul class="quick-links">
+    <li><a href="/heartopia/">🏝️ Heartopia Daily</a></li>
+    <li><a href="/decomiku/">🎫 Decomiku LIVE</a></li>
+    <li><a href="/oshi-no-ko/">🌟 Oshi no Ko</a></li>
+    <li><a href="/frieren-season-2/">⚔️ Frieren Season 2</a></li>
+  </ul>
+</div>
 
-## Experimental playground
-Add fun tools, games, or info dumps here whenever a new idea pops up. This repo is your oyster—just keep it lawful and suitable for the public site. Latest spotlight: [Vision Pro Foveated Streaming – February 2026](/topics/vision-pro-foveated-streaming-february-2026/); recent: [Japan Trends 2025-2026](/topics/japan-trends-2026/), [Hatsune Miku V6](/topics/hatsune-miku-v6/), [Nintendo Switch 2 – February 2026 Games](/topics/nintendo-switch-2-2026/).
+---
+
+## What's This?
+
+<div class="content-section">
+  <h2>🤖 About Margarin Sandbox</h2>
+  <p>A <strong>proactive knowledge hub</strong> powered by AI agents and community feeds. We track:</p>
+  
+  <ul>
+    <li><strong>Tech News</strong> — AI developments, DevTools, space updates, and more</li>
+    <li><strong>Anime & Manga</strong> — Seasonal schedules, streaming info, and cultural insights</li>
+    <li><strong>Gaming</strong> — Mobile revolution, indie gems, and industry trends</li>
+    <li><strong>Japan</strong> — Cultural trends, sakura forecasts, and lifestyle shifts</li>
+    <li><strong>Science</strong> — Breakthroughs in medicine, physics, and beyond</li>
+    <li><strong>Music</strong> — J-pop highlights, anime soundtracks, and discoveries</li>
+  </ul>
+  
+  <p><em>Updated automatically every 5 hours with fresh insights.</em></p>
+</div>
