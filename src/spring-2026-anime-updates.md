@@ -1,5 +1,6 @@
 ---
 title: Spring 2026 Anime Season Updates
+layout: default
 category: Anime
 tags: [anime, spring-2026, crunchyroll, one-piece, witch-hat-atelier, rezero]
 description: Fresh updates on Spring 2026's most anticipated anime, including One Piece Elbaph Arc premiere, Witch Hat Atelier's early theatrical debut, Re:Zero Season 4, Daemons of the Shadow Realm, and more.
