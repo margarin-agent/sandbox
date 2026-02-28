@@ -2,42 +2,45 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-02-27 12:35:00
+lastModified: 2026-02-28 12:05:00
 ---
 
-## Resources today (27 Feb 2026)
-- **Fluorite:** Onsen Mountain is hotspot today! Lunar Nook's morning update pinpoints fluorite on Onsen Mountain, while Heartopia Fess confirms it's near the capybara eating area. Perfect spot for a relaxing soak after mining.
-- **Oak Timber:** The Wandering Oak has parked itself at House No. 8 today. Both Lunar Nook and Heartopia Fess confirm Plot 8—plan a direct route there and save some energy for the climb up to Onsen Mountain.
-- **New arrival:** Welcome Milo! 🐶 A new dog has joined the household today according to Lunar Nook's update—another furry friend to brighten your daily routine.
-- **Weather:** Sunny skies continue—ideal conditions for a quick collection run before the JST evening reset.
-- **Bubble tip:** Amethyst Beach's purple bubble remains reliable; pair your Onsen visit with a quick beach stop to maximize drop efficiency.
+## Resources today (28 Feb 2026)
+- **Fluorite:** Plot 8 on Sea Server and Onsen Mountain on America/Global Server! Glyph Hub's evening post confirms both locations—grab your pickaxe and head out. Onsen Mountain's hot springs make for a relaxing break between mining sessions.
+- **Oak Timber:** The Wandering Oak is at Plot 6 on Sea Server and Plot 8 on America/Global today. Coordinate your route based on your server and save some travel time—Plot 6 is in a quieter residential area, while Plot 8 is near the main housing cluster.
+- **Pink Bubbles:** Glyph Hub has mapped all 15 pink bubble locations for February 28 to March 7! Use the gallery below to plan your bubble collection route and maximize daily rewards.
+- **Weather:** Sunny skies continue—perfect conditions for a quick collection run before the JST evening reset.
+- **Bubble tip:** Pink bubbles are rotating this week—check Glyph Hub's full map gallery for server-specific spawn patterns.
 
-## Fluorite & Oak check (Feb 27)
-![Lunar Nook's Feb 27 coordinate map](/assets/heartopia-lunarnook-27feb.jpg)
-*Lunar Nook's Feb 27 visual shows Onsen Mountain fluorite and Plot 8 oak routes.*
+## Fluorite & Oak check (Feb 28)
+![Glyph Hub's Feb 28 coordinate map](/assets/heartopia-coords-28feb.jpg)
+*Glyph Hub's Feb 28 visual shows dual-server fluorite and oak locations.*
 
 ### All Servers
-| Resource | Location |
-|----------|----------|
-| 💎 Fluorite | Onsen Mountain (near capybara eating area) |
-| 🪵 Roaming Oak | Plot 8 (House No. 8) |
+| Resource | Sea Server (UTC+7) | America/Global (UTC-5) |
+|----------|-------------------|----------------------|
+| 💎 Fluorite | Plot 8 | Onsen Mountain |
+| 🪵 Roaming Oak | Plot 6 | Plot 8 |
 
-- Both Lunar Nook and Heartopia Fess confirm the same coordinates for today—Plot 8 for oak and Onsen Mountain for fluorite.
-- Onsen Mountain's fluorite spot is conveniently near the capybara feeding area, making it easy to grab your daily deposit while checking on the wildlife.
-- Plot 8's oak is in a residential cluster—keep an eye out for player houses and potential collaborative energy spots.
+- Glyph Hub's coordinated post maps both server sets, confirming the community's rapid information network.
+- Onsen Mountain fluorite on America/Global offers hot spring relaxation after mining.
+- Plot 6 oak on Sea Server is in a quieter residential zone—fewer crowds, faster collection.
 
-## Lunar Nook's daily snapshot
-![Onsen Mountain fluorite location](/assets/heartopia-onsen-27feb.jpg)
-*Lunar Nook's Onsen Mountain map showing the exact fluorite spawn point near the hot springs.*
+## Pink Bubble Locations (Feb 28 - Mar 7)
+![Pink Bubble gallery - Server 1](/assets/pink-bubble-28feb-1.jpg)
+![Pink Bubble gallery - Server 2](/assets/pink-bubble-28feb-2.jpg)
+![Pink Bubble gallery - Server 3](/assets/pink-bubble-28feb-3.jpg)
+![Pink Bubble gallery - Server 4](/assets/pink-bubble-28feb-4.jpg)
 
-- The morning update confirms sunny weather continues—perfect for both mountain climbing and house-to-house routes.
-- New dog Milo mentioned: always check your pet's energy levels before heading out on longer collection runs.
-- Onsen Mountain fluorite is well-marked on the map—follow the trail up from the main resort area.
+- All 15 pink bubble locations mapped for February 28 to March 7, 2026.
+- Multiple server variations shown—find your server's pattern in the gallery.
+- Pair bubble collection with fluorite/oak runs for maximum efficiency.
 
-## Yesterday's recap (Feb 26)
-- **Fluorite:** Plot 1 (Sea) / Plot 4 (America/Global)
-- **Roaming Oak:** Plot 4 (Sea) / Plot 8 (America/Global)
-- Glyph Hub's coordinated post mapped both server sets, confirming the community's rapid information network.
+## Yesterday's recap (Feb 27)
+- **Fluorite:** Onsen Mountain (all servers)
+- **Roaming Oak:** Plot 8 (all servers)
+- Lunar Nook's morning update and Heartopia Fess both confirmed Onsen Mountain fluorite near the capybara area.
+- New dog Milo joined Lunar Nook's household—always check your pet's energy before longer runs.
 
 ## Energy restoration guide
 Heartopia uses standard food items to restore energy. Here's what works:
@@ -83,7 +86,8 @@ Expired codes (do not attempt):
 - **Bookmark Lunar Nook and Glyph Hub** for daily coordinate updates—they're the fastest sources for verified plot locations.
 
 ## Last references
+- @Glyph_Hub · All 15 Pink Bubble Locations (Feb 28-Mar 7, 2026) · https://x.com/Glyph_Hub/status/2027527577527824628
+- @Glyph_Hub · Roaming Oak & Flourite (Feb 28, 2026) · https://x.com/Glyph_Hub/status/2027519119176962226
 - @LunarNook · Feb 27 Daily Coordinates (Feb 27, 2026) · https://x.com/LunarNook/status/2027303211040702951
 - @heartopia_fess · Feb 27 Oak & Fluorite (Feb 27, 2026) · https://x.com/heartopia_fess/status/2027180008666489317
-- @LunarNook · Feb 26 Daily Coordinates (Feb 26, 2026) · https://x.com/LunarNook/status/2026938339614433588
-- @Glyph_Hub · Heartopia Roaming Oak & Fluorite (Feb 26, 2026) · https://x.com/Glyph_Hub/status/2026797643587002809
+- @Glyph_Hub · Roaming Oak & Fluorite (Feb 26, 2026) · https://x.com/Glyph_Hub/status/2026797643587002809
