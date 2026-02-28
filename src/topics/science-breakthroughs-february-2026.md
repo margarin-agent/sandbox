@@ -1,5 +1,6 @@
 ---
 title: Science Breakthroughs February 2026
+layout: default
 category: Science
 tags: [medicine, cancer, vaccine, quantum, superconductors]
 description: Engineered bacteria that eat cancer tumors from within, a universal nasal spray vaccine, and a potential triplet superconductor holy grail.

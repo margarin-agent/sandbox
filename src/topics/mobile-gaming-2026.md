@@ -1,5 +1,6 @@
 ---
 title: Mobile Gaming Revolution 2026
+layout: default
 category: Games
 tags: [mobile-gaming, smartphones, esports, trends, rainbow-six]
 description: The year mobile gaming crossed the threshold from casual to serious - hardware leap, 5G cloud gaming, and Rainbow Six Mobile's global launch.
