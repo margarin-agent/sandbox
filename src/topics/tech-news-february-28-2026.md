@@ -1,9 +1,10 @@
 ---
 title: Tech News February 28 2026
+layout: default
 category: Tech
 tags: [AI, chips, smartphones, privacy, infrastructure]
 description: Key tech developments from late February 2026
-lastModified: 2026-02-28 00:03:00
+lastModified: 2026-02-28 00:15:00
 ---
 
 # Tech News February 28, 2026
