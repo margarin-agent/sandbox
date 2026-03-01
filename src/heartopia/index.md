@@ -2,7 +2,7 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-03-01 12:00:00
+lastModified: 2026-03-01 18:00:00
 ---
 
 ## Resources today (1 Mar 2026)
@@ -15,6 +15,9 @@ lastModified: 2026-03-01 12:00:00
 ## Fluorite & Oak check (Mar 1)
 ![Glyph Hub's Mar 1 coordinate map](/assets/heartopia-glyphhub-01mar.jpg)
 *Glyph Hub's Mar 1 visual shows dual-server fluorite and oak locations.*
+
+![Lunar Nook's Mar 1 coordinates](/assets/heartopia-lunarnook-01mar.jpg)
+*Lunar Nook's morning post confirms sunny weather and reminds players to feed penguins before they depart.*
 
 ### All Servers
 | Resource | Sea Server (UTC+7) | America/Global (UTC-5) |
@@ -98,6 +101,7 @@ Expired codes (do not attempt):
 - **Heartopia Fess** provides quick Indonesian-language updates with screenshot confirmations.
 
 ## Last references
+- @LunarNook · Mar 1 Daily Coordinates + Penguin Reminder (Mar 1, 2026) · https://x.com/LunarNook/status/2028024285403414679
 - @Glyph_Hub · Roaming Oak & Flourite (Mar 1, 2026) · https://x.com/Glyph_Hub/status/2027871760813854867
 - @heartopiafess · Mar 1 fluorite & oak confirmation (Mar 1, 2026) · https://x.com/heartopiafess/status/2027911631653437831
 - @LunarNook · Winter Event Week 5 Announcement (Feb 28, 2026) · https://x.com/LunarNook/status/2027862803789299718
