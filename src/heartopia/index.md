@@ -2,19 +2,42 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-03-02 12:00:00
+lastModified: 2026-03-02 18:00:00
 ---
 
 ## Resources today (2 Mar 2026)
-- **Fluorite:** Plot 6 on Sea Server (UTC+7) and Plot 8 on America/Global Server (UTC-5)! Glyph Hub's latest coordinate map has you covered for both servers.
+- **Fluorite:** Plot 6 on Sea Server (UTC+7) and Plot 8 on America/Global Server (UTC-5)! Glyph Hub and JWOO0405 confirm these coordinates.
 - **Oak Timber:** The Wandering Oak is at Plot 12 on Sea Server and Plot 8 on America/Global today. Plot 12 is typically a quieter residential area—fewer crowds, faster gathering.
+- **🆕 New redeem code:** n5q7m9l2a4 (from LunarNook's Mar 2 update)
 - **Pink Bubbles:** Glyph Hub's weekly Pink Bubble map (Feb 28 - Mar 7) is still active! Use the 4-image gallery below to plan your collection route—15 locations mapped across all servers.
 - **Weather:** Aurora Borealis is happening now! Multiple players reporting stunning aurora views—perfect time to capture screenshots from your kitchen or favorite scenic spot.
 - **Winter Event:** Week 5 of the Winter Event wraps up soon! The Penguin story finale features radish, winter food, and winter bird card collection missions. Sea Lantern event at the beach—don't miss it!
 
+⚠️ **Note on coordinate sources:** LunarNook's Mar 2 update lists swapped coordinates (Fluorite 12, Oak 6), but Glyph Hub and JWOO0405 both report Fluorite 6, Oak 12. We're going with the majority consensus. Verify in-game and check both locations if needed!
+
 ## Fluorite & Oak check (Mar 2)
 ![Glyph Hub's Mar 2 coordinate map](/assets/heartopia-glyphhub-02mar.jpg)
 *Glyph Hub's Mar 2 visual shows dual-server fluorite and oak locations—note the Plot 12 oak on Sea Server!*
+
+![JWOO0405's Mar 2 fluorite screenshot](/assets/heartopia-jwooo405-02mar-1.jpg)
+![JWOO0405's Mar 2 oak screenshot](/assets/heartopia-jwooo405-02mar-2.jpg)
+![JWOO0405's Mar 2 in-game view](/assets/heartopia-jwooo405-02mar-3.jpg)
+*JWOO0405's in-game screenshots confirm Plot 6 fluorite and Plot 12 oak on Sea Server (02/03/2026).*
+
+![LunarNook's Mar 2 update](/assets/heartopia-lunarnook-02mar.jpg)
+*LunarNook's Mar 2 update includes a new redeem code: n5q7m9l2a4. Note the swapped coordinates in this source—verify in-game!*
+
+### All Servers
+| Resource | Sea Server (UTC+7) | America/Global (UTC-5) |
+|----------|-------------------|----------------------|
+| 💎 Fluorite | Plot 6 | Plot 8 |
+| 🪵 Roaming Oak | Plot 12 | Plot 8 |
+
+- Today's split: Sea Server has fluorite at Plot 6 and oak at Plot 12, while America/Global has both at Plot 8.
+- Plot 12 on Sea Server is typically less crowded—great for focused gathering sessions.
+- Glyph Hub and JWOO0405 both confirm these coordinates.
+- LunarNook reports swapped locations (Fluorite 12, Oak 6)—check both plots to be safe!
+- **Don't forget to redeem code n5q7m9l2a4 for today's bonus!**
 
 ### All Servers
 | Resource | Sea Server (UTC+7) | America/Global (UTC-5) |
@@ -108,8 +131,9 @@ Expired codes (do not attempt):
 - **Heartopia Fess** provides quick Indonesian-language updates with screenshot confirmations.
 
 ## Last references
+- @LunarNook · Mar 2 Coordinates + Redeem Code n5q7m9l2a4 (Mar 2, 2026) · https://x.com/LunarNook/status/2028389262513647817
+- @JWOO0405 · Mar 2 Fluorite & Oak Screenshot Gallery (Mar 2, 2026) · https://x.com/JWOO0405/status/2028353934872760587
 - @Glyph_Hub · Roaming Oak & Flourite (Mar 2, 2026) · https://x.com/Glyph_Hub/status/2028236445811613979
-- @LunarNook · Aurora Event + Pet Dog Tip (Mar 2, 2026) · https://x.com/LunarNook/status/2028193635527737710
 - @heartopiafess · Aurora Kitchen View (Mar 1, 2026) · https://x.com/heartopiafess/status/2028251987721040205
 - @haialtalune · Aurora Borealis from Kitchen (Mar 1, 2026) · https://x.com/haialtalune/status/2028250221009129827
 - @LunarNook · Mar 1 Daily Coordinates + Penguin Reminder (Mar 1, 2026) · https://x.com/LunarNook/status/2028024285403414679
