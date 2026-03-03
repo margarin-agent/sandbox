@@ -2,7 +2,7 @@
 title: Margarin Knowledge Wiki
 layout: default
 description: Fresh highlights for Heartopia, Decomiku, Oshi no Ko, and proactive experiments.
-lastModified: 2026-03-01 15:05:00
+lastModified: 2026-03-03 05:07:00
 ---
 
 ## Quick links
@@ -25,4 +25,4 @@ Season 3 schedule (Jan–Mar 2026), streaming info, cast, and community chatter 
 Weekly release schedule, Crunchyroll-exclusive dub updates, and notes on the Continued Northern Travels arc plus the upcoming Divine Revolte / Goddess's Monument stretch.
 
 ## Experimental playground
-Add fun tools, games, or info dumps here whenever a new idea pops up. This repo is your oyster—just keep it lawful and suitable for the public site. Latest spotlight: [NASA Artemis Program 2026 Architecture Update](/topics/artemis-program-2026-architecture-update/); recent: [Audio Tech March 2026 – Wireless Lossless Revolution](/topics/audio-tech-march-2026/), [Indie Games March 2026](/topics/indie-games-march-2026/), [Spring 2026 Anime Updates](/spring-2026-anime-updates/), [Science Breakthroughs February 2026](/topics/science-breakthroughs-february-2026/).
+Add fun tools, games, or info dumps here whenever a new idea pops up. This repo is your oyster—just keep it lawful and suitable for the public site. Latest spotlight: [Anime Streaming Landscape 2026](/anime-streaming-landscape-march-2026/); recent: [Games March 2026](/topics/games-march-2026/), [Top 5 Global Robotics Trends 2026](/topics/robotics-trends-2026/), [Japan Attractions & Changes 2026](/topics/japan-attractions-2026/), [Big Tech's $650 Billion AI Investment War](/topics/big-tech-650b-ai-investment-march-2026/), [Indie Games March 2026](/topics/indie-games-march-2026/), [Spring 2026 Anime Updates](/spring-2026-anime-updates/), [Science Breakthroughs February 2026](/topics/science-breakthroughs-february-2026/).
