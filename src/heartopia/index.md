@@ -2,44 +2,38 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-03-03 18:00:00
+lastModified: 2026-03-04 12:00:00
 ---
 
-## Resources today (3 Mar 2026)
-- **Fluorite:** Plot 2 on Sea Server (UTC+7) and Plot 6 on America/Global Server (UTC-5)! Glyph Hub and Japanese community confirm these coordinates.
-- **Oak Timber:** The Wandering Oak is at Plot 10 on Sea Server and Plot 12 on America/Global today. Plot 10 offers a balanced gathering experience—accessible yet typically manageable crowds.
-- **🆕 New redeem code:** tangyuan0303y (from LunarNook's Mar 3 update - happy Lantern Festival!)
+## Resources today (4 Mar 2026)
+- **Fluorite:** Plot 2 on Sea Server (UTC+7) and Plot 2 on America/Global Server (UTC-5)! Glyph Hub and Japanese community confirm these coordinates.
+- **Oak Timber:** The Wandering Oak is at Plot 7 on Sea Server and Plot 10 on America/Global today. Plot 7 offers a balanced gathering experience—accessible yet typically manageable crowds.
+- **🌈 Rainbow Event:** Rainbow weather today from 12:00-18:00! Perfect for finding Blue Doris in Art Street and hunting for special rainbow-colored sugars.
 - **Pink Bubbles:** Glyph Hub's weekly Pink Bubble map (Feb 28 - Mar 7) is still active! Use the 4-image gallery below to plan your collection route—15 locations mapped across all servers.
-- **Weather:** Aurora Borealis was active over the past few days! Players shared stunning aurora views from kitchens and scenic spots—watch for this beautiful weather event to return.
-- **Winter Event:** Week 5 of the Winter Event has concluded! The Penguin story finale featured radish, winter food, and winter bird card collection missions. Sea Lantern event at the beach—thank you for participating!
+- **Penguin Event:** 10 days left to feed the penguins! Reaching Lv. 4 & 5 gets special gifts. Feeding in rain gives extra points—watch for rainy weather!
+- **Blue Doris:** Can be found in Art Street during rain weather. Blue Doris sells: blue, indigo, violet sugars (perfect for rainbow-colored roll cakes!).
 
-## Fluorite & Oak check (Mar 3)
-![Glyph Hub's Mar 3 coordinate map](/assets/heartopia-glyphhub-03mar.jpg)
-*Glyph Hub's Mar 3 visual shows dual-server fluorite and oak locations—note the Plot 2 fluorite and Plot 10 oak on Sea Server!*
+## Fluorite & Oak check (Mar 4)
+![Glyph Hub's Mar 4 coordinate map](/assets/heartopia-glyphhub-04mar.jpg)
+*Glyph Hub's Mar 4 visual shows dual-server fluorite and oak locations—note the Plot 2 fluorite and Plot 7 oak on Sea Server!*
 
-![Japanese player @nyanho05's confirmation](/assets/heartopia-nyanho-03mar.jpg)
-*Japanese community confirms today's coordinates: Fluorite 2, Oak 10 (滑らかなオーク＆無垢な蛍石). Cross-verified across multiple sources!*
+![Japanese player @nyanho05's confirmation](/assets/heartopia-nyanho-04mar.jpg)
+*Japanese community confirms today's coordinates: Fluorite 2, Oak 7 (滑らかなオーク＆無垢な蛍石). Cross-verified across multiple sources!*
 
-![LunarNook's Mar 3 daily update](/assets/heartopia-lunarnook-03mar.jpg)
-*LunarNook's morning snapshot includes the new redeem code (tangyuan0303y) and notes dog Milo has run away again!*
-
-### Screenshot Gallery (Mar 3)
-![JWOO0405 screenshot 1](/assets/heartopia-jwooo405-03mar-1.jpg)
-![JWOO0405 screenshot 2](/assets/heartopia-jwooo405-03mar-2.jpg)
-![JWOO0405 screenshot 3](/assets/heartopia-jwooo405-03mar-3.png)
-![JWOO0405 screenshot 4](/assets/heartopia-jwooo405-03mar-4.png)
-*JWOO0405's in-game screenshots confirm Plot 2 fluorite and Plot 10 oak locations—four perspectives for verification!*
+### Weather Forecast (Mar 4-8)
+![JWOO0405's weather forecast](/assets/heartopia-jwooo405-weather-04mar.png)
+*Today's weather: Rainbow event from 12:00-18:00! Upcoming events: Meteor on Mar 6 and Rainbow on Mar 8—perfect for hunting special materials and finding Doris!*
 
 ### All Servers
 | Resource | Sea Server (UTC+7) | America/Global (UTC-5) |
 |----------|-------------------|----------------------|
-| 💎 Fluorite | Plot 2 | Plot 6 |
-| 🪵 Roaming Oak | Plot 10 | Plot 12 |
+| 💎 Fluorite | Plot 2 | Plot 2 |
+| 🪵 Roaming Oak | Plot 7 | Plot 10 |
 
-- Today's split: Sea Server has fluorite at Plot 2 and oak at Plot 10, while America/Global has fluorite at Plot 6 and oak at Plot 12.
+- Today's split: Sea Server has fluorite at Plot 2 and oak at Plot 7, while America/Global has fluorite at Plot 2 and oak at Plot 10.
 - Glyph Hub and Japanese player @nyanho05 both confirm these coordinates.
-- Plot 10 on Sea Server offers a balanced gathering experience—typically manageable crowd levels.
-- **Don't forget to redeem code tangyuan0303y for today's bonus!**
+- Plot 7 on Sea Server offers a balanced gathering experience—typically manageable crowd levels.
+- **🌈 Rainbow event today from 12:00-18:00! Perfect time to find Blue Doris and hunt for rainbow-colored sugars!**
 
 ## 🆕 Coming Soon: MBTI-Themed Clothing (March 14, 2026)
 
@@ -92,11 +86,10 @@ The Winter Event has concluded with Week 5:
 - **Penguin Gifting:** ~14-day event with seven pastel presents—nightly vendor visits at East Beach delivered special gifts.
 - **Time-limited rewards:** Exclusive winter event items are now part of the game's history—congratulations to all who participated!
 
-## Yesterday's recap (Mar 2)
-- **Fluorite:** Plot 6 on Sea Server (UTC+7) and Plot 8 on America/Global Server (UTC-5)
-- **Roaming Oak:** Plot 12 on Sea Server, Plot 8 on America/Global
-- ⚠️ **Coordinate discrepancy:** LunarNook reported swapped coordinates (Fluorite 12, Oak 6), but Glyph Hub and JWOO0405 confirmed Fluorite 6, Oak 12 for Sea Server. Players verified in-game.
-- 🆕 **Redeem code:** n5q7m9l2a4 (from LunarNook)
+## Yesterday's recap (Mar 3)
+- **Fluorite:** Plot 2 on Sea Server (UTC+7) and Plot 6 on America/Global Server (UTC-5)
+- **Roaming Oak:** Plot 10 on Sea Server, Plot 12 on America/Global
+- 🆕 **Redeem code:** tangyuan0303y (from LunarNook - happy Lantern Festival!)
 - Glyph Hub's coordinate map showed the correct SEA server locations.
 
 ## Energy restoration guide
@@ -147,17 +140,12 @@ Expired codes (do not attempt):
 - **Japanese community (@nyanho05 and others)** often share cross-verified coordinates—useful for confirming daily spawns.
 
 ## Last references
+- @Glyph_Hub · Roaming Oak & Flourite (Mar 4, 2026) · https://x.com/Glyph_Hub/status/2028968830836621800
+- @nyanho05 · 2026/03/04 オーク 7番地 蛍石 2番地 (Mar 4, 2026) · https://x.com/nyanho05/status/2028939383475454081
+- @JWOO0405 · INFO HEARTOPIA Weather Forecast (Mar 4, 2026) · https://x.com/JWOO0405/status/2028710489950425149
+- @TokkiCarotty · [ HEARTOPIA ] Bangun Rumah sampe event Rainbow? (Mar 4, 2026) · https://x.com/TokkiCarotty/status/2028993317229477995
 - @LunarNook · Mar 3 Coordinates + Redeem Code tangyuan0303y (Mar 3, 2026) · https://x.com/LunarNook/status/2028747709931245806
 - @JWOO0405 · Mar 3 Fluorite & Oak Screenshot Gallery (Mar 3, 2026) · https://x.com/JWOO0405/status/2028713274800566770
-- @Heartopia_JP · ハートピアお絵かき名人イベント第1期スタート (Mar 3, 2026) · https://x.com/Heartopia_JP/status/2028651576189948035
 - @Glyph_Hub · Roaming Oak & Flourite (Mar 3, 2026) · https://x.com/Glyph_Hub/status/2028603994353058120
 - @nyanho05 · 2026/03/03 オーク 10番地 蛍石 2番地 (Mar 3, 2026) · https://x.com/nyanho05/status/2028576906443207110
 - @heartopia_fess · Fluorite no. 2, Oak Timber no. 10 (Mar 3, 2026) · https://x.com/heartopia_fess/status/2028591337176445003
-- @LunarNook · Mar 2 Coordinates + Redeem Code n5q7m9l2a4 (Mar 2, 2026) · https://x.com/LunarNook/status/2028389262513647817
-- @JWOO0405 · Mar 2 Fluorite & Oak Screenshot Gallery (Mar 2, 2026) · https://x.com/JWOO0405/status/2028353934872760587
-- @Glyph_Hub · Roaming Oak & Flourite (Mar 2, 2026) · https://x.com/Glyph_Hub/status/2028236445811613979
-- @heartopiafess · Aurora Kitchen View (Mar 1, 2026) · https://x.com/heartopiafess/status/2028251987721040205
-- @haialtalune · Aurora Borealis from Kitchen (Mar 1, 2026) · https://x.com/haialtalune/status/2028250221009129827
-- @LunarNook · Mar 1 Daily Coordinates + Penguin Reminder (Mar 1, 2026) · https://x.com/LunarNook/status/2028024285403414679
-- @Glyph_Hub · Roaming Oak & Flourite (Mar 1, 2026) · https://x.com/Glyph_Hub/status/2027871760813854867
-- @heartopiafess · Mar 1 fluorite & oak confirmation (Mar 1, 2026) · https://x.com/heartopiafess/status/2027911631653437831
