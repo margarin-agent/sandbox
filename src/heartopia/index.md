@@ -2,38 +2,44 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-03-04 12:00:00
+lastModified: 2026-03-05 12:00:00
 ---
 
-## Resources today (4 Mar 2026)
-- **Fluorite:** Plot 2 on Sea Server (UTC+7) and Plot 2 on America/Global Server (UTC-5)! Glyph Hub and Japanese community confirm these coordinates.
-- **Oak Timber:** The Wandering Oak is at Plot 7 on Sea Server and Plot 10 on America/Global today. Plot 7 offers a balanced gathering experience—accessible yet typically manageable crowds.
-- **🌈 Rainbow Event:** Rainbow weather today from 12:00-18:00! Perfect for finding Blue Doris in Art Street and hunting for special rainbow-colored sugars.
+## Resources today (5 Mar 2026)
+- **Fluorite:** Onsen Mountain (near capybara feeding area) on Sea Server (UTC+7)! Japanese community confirms this location. Note: This is NOT plot-based today.
+- **Oak Timber:** The Wandering Oak is at Plot 12 on Sea Server and Plot 7 on America/Global today. Plot 12 is near the east bus stop—typically manageable crowd levels.
+- **🆕 New Camera Feature:** After maintenance, two new camera controls have been added! Left button fixes background while allowing character movement; right button changes camera patterns. Great for vlog-style content and creative screenshots!
 - **Pink Bubbles:** Glyph Hub's weekly Pink Bubble map (Feb 28 - Mar 7) is still active! Use the 4-image gallery below to plan your collection route—15 locations mapped across all servers.
 - **Penguin Event:** 10 days left to feed the penguins! Reaching Lv. 4 & 5 gets special gifts. Feeding in rain gives extra points—watch for rainy weather!
 - **Blue Doris:** Can be found in Art Street during rain weather. Blue Doris sells: blue, indigo, violet sugars (perfect for rainbow-colored roll cakes!).
 
-## Fluorite & Oak check (Mar 4)
-![Glyph Hub's Mar 4 coordinate map](/assets/heartopia-glyphhub-04mar.jpg)
-*Glyph Hub's Mar 4 visual shows dual-server fluorite and oak locations—note the Plot 2 fluorite and Plot 7 oak on Sea Server!*
+## Fluorite & Oak check (Mar 5)
+![Glyph Hub's Mar 5 coordinate map](/assets/heartopia-glyphhub-05mar.jpg)
+*Glyph Hub's Mar 5 visual shows dual-server fluorite and oak locations—note the Onsen Mountain fluorite and Plot 12 oak on Sea Server!*
 
-![Japanese player @nyanho05's confirmation](/assets/heartopia-nyanho-04mar.jpg)
-*Japanese community confirms today's coordinates: Fluorite 2, Oak 7 (滑らかなオーク＆無垢な蛍石). Cross-verified across multiple sources!*
+![Japanese player @nyanho05's confirmation](/assets/heartopia-nyanho-05mar.jpg)
+*Japanese community confirms today's coordinates: Oak 12, Fluorite at capybara feeding area (滑らかなオーク＆無垢な蛍石). Cross-verified across multiple sources!*
 
-### Weather Forecast (Mar 4-8)
-![JWOO0405's weather forecast](/assets/heartopia-jwooo405-weather-04mar.png)
-*Today's weather: Rainbow event from 12:00-18:00! Upcoming events: Meteor on Mar 6 and Rainbow on Mar 8—perfect for hunting special materials and finding Doris!*
+![@charichan___'s detailed confirmation](/assets/heartopia-charichan-05mar.jpg)
+*Additional confirmation with precise locations: Oak at Plot 12, Fluorite at Onsen Mountain lake area. Valid until 22:00 JST!*
+
+### 🆕 New Camera Feature (Mar 5)
+![Camera update - Screenshot 1](/assets/heartopia-camera-05mar-1.jpg)
+![Camera update - Screenshot 2](/assets/heartopia-camera-05mar-2.jpg)
+![Camera update - Screenshot 3](/assets/heartopia-camera-05mar-3.jpg)
+*New camera controls added after maintenance! Left button (first icon) fixes the background while allowing character movement—perfect for vlog-style content! Right button (second icon) changes camera patterns for different angles. Community is excited about the creative possibilities!*
 
 ### All Servers
 | Resource | Sea Server (UTC+7) | America/Global (UTC-5) |
 |----------|-------------------|----------------------|
-| 💎 Fluorite | Plot 2 | Plot 2 |
-| 🪵 Roaming Oak | Plot 7 | Plot 10 |
+| 💎 Fluorite | Onsen Mountain (capybara feeding area) | Plot 2 |
+| 🪵 Roaming Oak | Plot 12 | Plot 7 |
 
-- Today's split: Sea Server has fluorite at Plot 2 and oak at Plot 7, while America/Global has fluorite at Plot 2 and oak at Plot 10.
-- Glyph Hub and Japanese player @nyanho05 both confirm these coordinates.
-- Plot 7 on Sea Server offers a balanced gathering experience—typically manageable crowd levels.
-- **🌈 Rainbow event today from 12:00-18:00! Perfect time to find Blue Doris and hunt for rainbow-colored sugars!**
+- Today's split: Sea Server has fluorite at Onsen Mountain (non-plot location near capybara feeding area) and oak at Plot 12, while America/Global has fluorite at Plot 2 and oak at Plot 7.
+- **Note:** Sea Server fluorite is NOT plot-based today—head to Onsen Mountain, near the capybara feeding box/area.
+- Multiple Japanese sources confirm these coordinates: @nyanho05, @charichan___, @arenfuyu_gm, @tore_neta_.
+- Plot 12 on Sea Server is near the east bus stop—typically manageable crowd levels.
+- **🎥 Take advantage of the new camera feature to capture creative screenshots of your gathering runs!**
 
 ## 🆕 Coming Soon: MBTI-Themed Clothing (March 14, 2026)
 
@@ -86,11 +92,11 @@ The Winter Event has concluded with Week 5:
 - **Penguin Gifting:** ~14-day event with seven pastel presents—nightly vendor visits at East Beach delivered special gifts.
 - **Time-limited rewards:** Exclusive winter event items are now part of the game's history—congratulations to all who participated!
 
-## Yesterday's recap (Mar 3)
-- **Fluorite:** Plot 2 on Sea Server (UTC+7) and Plot 6 on America/Global Server (UTC-5)
-- **Roaming Oak:** Plot 10 on Sea Server, Plot 12 on America/Global
-- 🆕 **Redeem code:** tangyuan0303y (from LunarNook - happy Lantern Festival!)
-- Glyph Hub's coordinate map showed the correct SEA server locations.
+## Yesterday's recap (Mar 4)
+- **Fluorite:** Plot 2 on Sea Server (UTC+7) and Plot 2 on America/Global Server (UTC-5)
+- **Roaming Oak:** Plot 7 on Sea Server, Plot 10 on America/Global
+- 🌈 **Rainbow Event:** Rainbow weather from 12:00-18:00, perfect for finding Blue Doris and rainbow-colored sugars
+- Glyph Hub and Japanese community confirmed these coordinates.
 
 ## Energy restoration guide
 Heartopia uses standard food items to restore energy. Here's what works:
@@ -140,6 +146,12 @@ Expired codes (do not attempt):
 - **Japanese community (@nyanho05 and others)** often share cross-verified coordinates—useful for confirming daily spawns.
 
 ## Last references
+- @Glyph_Hub · Roaming Oak & Flourite (Mar 5, 2026) · https://x.com/Glyph_Hub/status/2029332988530704569
+- @nyanho05 · 2026/03/05 オーク 12番地 蛍石 カピバラ エサ箱近く (Mar 5, 2026) · https://x.com/nyanho05/status/2029336551948468270
+- @charichan___ · 滑らかなオークの木 12番地、無垢な蛍石 温泉山の湖 (Mar 5, 2026) · https://x.com/charichan___/status/2029336435539755086
+- @chata_hp0 · 新しいカメラ機能で下にある2つのマークが追加！ (Mar 5, 2026) · https://x.com/chata_hp0/status/2029329959609876704
+- @arenfuyu_gm · 滑らかオーク🌳12 | 蛍石🪨カピバラ餌箱近く (Mar 5, 2026) · https://x.com/arenfuyu_gm/status/2029357576086012210
+- @tore_neta_ · 滑らかなオークの木 12番ホーム前、無垢な蛍石 温泉山の遺跡 (Mar 5, 2026) · https://x.com/tore_neta_/status/2029356840686109083
 - @Glyph_Hub · Roaming Oak & Flourite (Mar 4, 2026) · https://x.com/Glyph_Hub/status/2028968830836621800
 - @nyanho05 · 2026/03/04 オーク 7番地 蛍石 2番地 (Mar 4, 2026) · https://x.com/nyanho05/status/2028939383475454081
 - @JWOO0405 · INFO HEARTOPIA Weather Forecast (Mar 4, 2026) · https://x.com/JWOO0405/status/2028710489950425149
