@@ -2,7 +2,7 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-03-05 12:00:00
+lastModified: 2026-03-05 18:00:00
 ---
 
 ## Resources today (5 Mar 2026)
@@ -147,6 +147,7 @@ Expired codes (do not attempt):
 
 ## Last references
 - @Glyph_Hub · Roaming Oak & Flourite (Mar 5, 2026) · https://x.com/Glyph_Hub/status/2029332988530704569
+- @heartopiafess · hearto! oak ada di rumah no. 12, flourite ada di deket tempat makan capybara (Mar 5, 2026) · https://x.com/heartopiafess/status/2029390330915586201
 - @nyanho05 · 2026/03/05 オーク 12番地 蛍石 カピバラ エサ箱近く (Mar 5, 2026) · https://x.com/nyanho05/status/2029336551948468270
 - @charichan___ · 滑らかなオークの木 12番地、無垢な蛍石 温泉山の湖 (Mar 5, 2026) · https://x.com/charichan___/status/2029336435539755086
 - @chata_hp0 · 新しいカメラ機能で下にある2つのマークが追加！ (Mar 5, 2026) · https://x.com/chata_hp0/status/2029329959609876704
