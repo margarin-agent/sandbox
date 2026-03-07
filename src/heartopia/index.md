@@ -2,31 +2,31 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-03-06 16:00:00
+lastModified: 2026-03-07 12:00:00
 ---
 
-## Resources today (6 Mar 2026)
-- **Fluorite:** Plot 5 on Sea Server (UTC+7)! Back to plot-based locations after yesterday's special Onsen Mountain spawn.
-- **Oak Timber:** The Wandering Oak is at Plot 8 on Sea Server and Plot 12 on America/Global today. Plot 8 is near the north bus stop—typically good accessibility.
-- **Pink Bubbles:** Glyph Hub's weekly Pink Bubble map (Feb 28 - Mar 7) is still active! Use the 4-image gallery below to plan your collection route—15 locations mapped across all servers.
-- **Penguin Event:** 9 days left to feed the penguins! Reaching Lv. 4 & 5 gets special gifts. Feeding in rain gives extra points—watch for rainy weather!
+## Resources today (7 Mar 2026)
+- **Fluorite:** Plot 11 on Sea Server (UTC+7)! Standard plot-based location—residential plot with typical accessibility.
+- **Oak Timber:** The Wandering Oak is at Plot 6 on Sea Server and Plot 8 on America/Global today. Plot 6 is a residential cluster—manageable crowd levels.
+- **Pink Bubbles:** New weekly cycle (Mar 7-13)! Glyph Hub has mapped all 15 pink bubble locations across all servers—use the 4-image gallery below to plan your route.
+- **Penguin Event:** 8 days left to feed the penguins! Reaching Lv. 4 & 5 gets special gifts. Feeding in rain gives extra points—watch for rainy weather!
 - **Blue Doris:** Can be found in Art Street during rain weather. Blue Doris sells: blue, indigo, violet sugars (perfect for rainbow-colored roll cakes!).
 
-## Fluorite & Oak check (Mar 6)
-![Glyph Hub's Mar 6 coordinate map](/assets/heartopia-glyphhub-06mar.jpg)
-*Glyph Hub's Mar 6 visual shows dual-server fluorite and oak locations—Sea Server has fluorite at Plot 5 and oak at Plot 8!*
+## Fluorite & Oak check (Mar 7)
+![Glyph Hub's Mar 7 coordinate map](/assets/heartopia-glyphhub-mar7-2026.jpg)
+*Glyph Hub's Mar 7 visual shows dual-server fluorite and oak locations—Sea Server has fluorite at Plot 11 and oak at Plot 6!*
 
 ### All Servers
 | Resource | Sea Server (UTC+7) | America/Global (UTC-5) |
 |----------|-------------------|----------------------|
-| 💎 Fluorite | Plot 5 | Onsen Mountain |
-| 🪵 Roaming Oak | Plot 8 | Plot 12 |
+| 💎 Fluorite | Plot 11 | Plot 5 |
+| 🪵 Roaming Oak | Plot 6 | Plot 8 |
 
-- Today's split: Sea Server has fluorite at Plot 5 and oak at Plot 8, while America/Global has fluorite at Onsen Mountain and oak at Plot 12.
-- **Note:** Back to standard plot-based fluorite locations on Sea Server after yesterday's special Onsen Mountain spawn.
-- Plot 5 fluorite on Sea Server is a residential plot with good accessibility.
-- Plot 8 oak on Sea Server is near the north bus stop—typically manageable crowd levels.
-- America/Global has the non-plot fluorite location today at Onsen Mountain—head there if playing on those servers!
+- Today's split: Sea Server has fluorite at Plot 11 and oak at Plot 6, while America/Global has fluorite at Plot 5 and oak at Plot 8.
+- **Note:** Both servers back to standard plot-based locations after previous Onsen Mountain spawns.
+- Plot 11 fluorite on Sea Server is a residential plot—check accessibility before heading out.
+- Plot 6 oak on Sea Server is a residential cluster—typically manageable crowd levels.
+- America/Global has plot 5 fluorite and plot 8 oak—both are residential plots!
 
 ## 🆕 Coming Soon: MBTI-Themed Clothing (March 14, 2026)
 
@@ -50,16 +50,23 @@ Heartopia is launching an exciting new clothing update on **March 14, 2026** fea
 
 Mark your calendars for March 14, 2026! This update brings personality-driven fashion to Heartopia's cozy world.
 
-## Pink Bubble Locations (Feb 28 - Mar 7)
-![Pink Bubble gallery - Server 1](/assets/pink-bubble-01mar-1.jpg)
-![Pink Bubble gallery - Server 2](/assets/pink-bubble-01mar-2.jpg)
-![Pink Bubble gallery - Server 3](/assets/pink-bubble-01mar-3.jpg)
-![Pink Bubble gallery - Server 4](/assets/pink-bubble-01mar-4.jpg)
+## Pink Bubble Locations (Mar 7 - Mar 13)
+![Pink Bubble gallery - Server 1](/assets/pink-bubble-07mar-1.jpg)
+![Pink Bubble gallery - Server 2](/assets/pink-bubble-07mar-2.jpg)
+![Pink Bubble gallery - Server 3](/assets/pink-bubble-07mar-3.jpg)
+![Pink Bubble gallery - Server 4](/assets/pink-bubble-07mar-4.jpg)
 
-- All 15 pink bubble locations mapped for February 28 to March 7, 2026.
+- All 15 pink bubble locations mapped for March 7 to March 13, 2026.
 - Multiple server variations shown—find your server's pattern in the gallery.
 - Pink bubble furniture rewards are randomized per player—pop them all for a chance at bathroom sets!
 - Pair bubble collection with fluorite/oak runs for maximum efficiency.
+
+## 🎨 Saturday Furniture Updates
+New furniture items are added every Saturday! Keep an eye on the clothing shop for fresh home decor options:
+
+- Weekly refresh cycle brings new items to browse and purchase
+- Community members share their Saturday hauls and showcase new pieces
+- Perfect timing to refresh your home's aesthetic for spring season
 
 ## Aurora Borealis Event - Recently Active!
 Aurora Borealis was visible across all servers over the past few days! Multiple players shared stunning screenshots of the northern lights from scenic spots:
@@ -79,10 +86,10 @@ The Winter Event has concluded with Week 5:
 - **Penguin Gifting:** ~14-day event with seven pastel presents—nightly vendor visits at East Beach delivered special gifts.
 - **Time-limited rewards:** Exclusive winter event items are now part of the game's history—congratulations to all who participated!
 
-## Yesterday's recap (Mar 5)
-- **Fluorite:** Onsen Mountain (capybara feeding area) on Sea Server (UTC+7) and Plot 2 on America/Global Server (UTC-5). Note: Sea Server had a special non-plot fluorite spawn!
-- **Roaming Oak:** Plot 12 on Sea Server, Plot 7 on America/Global
-- **🆕 New Camera Feature:** Two new camera controls added after maintenance—left button fixes background while allowing character movement; right button changes camera patterns.
+## Yesterday's recap (Mar 6)
+- **Fluorite:** Plot 5 on Sea Server (UTC+7) and Onsen Mountain on America/Global Server (UTC-5). Note: America/Global had a special non-plot fluorite spawn!
+- **Roaming Oak:** Plot 8 on Sea Server, Plot 12 on America/Global
+- **New Camera Feature:** Two new camera controls added after maintenance—left button fixes background while allowing character movement; right button changes camera patterns.
 - Multiple Japanese sources (@nyanho05, @charichan___, @arenfuyu_gm, @tore_neta_, @chata_hp0) confirmed these coordinates.
 
 ## Energy restoration guide
@@ -133,6 +140,10 @@ Expired codes (do not attempt):
 - **Japanese community (@nyanho05 and others)** often share cross-verified coordinates—useful for confirming daily spawns.
 
 ## Last references
+- @Glyph_Hub · All 15 Pink Bubble Locations (Mar 7-13, 2026) · https://x.com/Glyph_Hub/status/2030072223328014591
+- @Glyph_Hub · Roaming Oak & Flourite (Mar 7, 2026) · https://x.com/Glyph_Hub/status/2030061787522203714
+- @nyanho05 · 2026/03/07 オーク 6番地 蛍石 11番地 (Mar 7, 2026) · https://x.com/nyanho05/status/2030026312275066938
+- @nyanho05 · 家具更新の土曜日だよー！ (Mar 7, 2026) · https://x.com/nyanho05/status/2030120808438473146
 - @Glyph_Hub · Roaming Oak & Flourite (Mar 6, 2026) · https://x.com/Glyph_Hub/status/2029695837266395235
 - @Glyph_Hub · Roaming Oak & Flourite (Mar 5, 2026) · https://x.com/Glyph_Hub/status/2029332988530704569
 - @heartopiafess · hearto! oak ada di rumah no. 12, flourite ada di deket tempat makan capybara (Mar 5, 2026) · https://x.com/heartopiafess/status/2029390330915586201
