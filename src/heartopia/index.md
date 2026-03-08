@@ -2,31 +2,35 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-03-07 12:00:00
+lastModified: 2026-03-08 12:00:00
 ---
 
-## Resources today (7 Mar 2026)
+## Resources today (8 Mar 2026)
 - **Fluorite:** Plot 11 on Sea Server (UTC+7)! Standard plot-based location—residential plot with typical accessibility.
-- **Oak Timber:** The Wandering Oak is at Plot 6 on Sea Server and Plot 8 on America/Global today. Plot 6 is a residential cluster—manageable crowd levels.
-- **Pink Bubbles:** New weekly cycle (Mar 7-13)! Glyph Hub has mapped all 15 pink bubble locations across all servers—use the 4-image gallery below to plan your route.
-- **Penguin Event:** 8 days left to feed the penguins! Reaching Lv. 4 & 5 gets special gifts. Feeding in rain gives extra points—watch for rainy weather!
+- **Oak Timber:** The Wandering Oak is at Plot 11 on Sea Server (UTC+7) and Plot 6 on America/Global Server (UTC-5). Both are residential areas—expect moderate traffic.
+- **Pink Bubbles:** Weekly cycle (Mar 7-13) continues! Glyph Hub has mapped all 15 pink bubble locations across all servers—use the 4-image gallery below to plan your route.
+- **Rainbow Bouquet & Doris Event:** Active from 7am-1pm JST! Rainbow Blessing boosts star ratings in fishing, cooking, and insect catching for 30 minutes per bouquet. Doris appears at various locations during the event—check today's Rainbow section for details!
+- **Penguin Event:** 7 days left to feed the penguins! Reaching Lv. 4 & 5 gets special gifts. Feeding in rain gives extra points—watch for rainy weather!
 - **Blue Doris:** Can be found in Art Street during rain weather. Blue Doris sells: blue, indigo, violet sugars (perfect for rainbow-colored roll cakes!).
 
-## Fluorite & Oak check (Mar 7)
-![Glyph Hub's Mar 7 coordinate map](/assets/heartopia-glyphhub-mar7-2026.jpg)
-*Glyph Hub's Mar 7 visual shows dual-server fluorite and oak locations—Sea Server has fluorite at Plot 11 and oak at Plot 6!*
+## Fluorite & Oak check (Mar 8)
+![Glyph Hub's Mar 8 coordinate map](/assets/heartopia-08mar-glyphhub-coords.jpg)
+*Glyph Hub's Mar 8 visual shows dual-server fluorite and oak locations—Sea Server has both fluorite and oak at Plot 11!*
+
+![@nyanho05's Mar 8 coordinate confirmation](/assets/heartopia-08mar-nyanho05-coords.jpg)
+*Japanese community confirmation from @nyanho05—オーク 11番地 (Oak Plot 11) and 蛍石 11番地 (Fluorite Plot 11)!*
 
 ### All Servers
 | Resource | Sea Server (UTC+7) | America/Global (UTC-5) |
 |----------|-------------------|----------------------|
-| 💎 Fluorite | Plot 11 | Plot 5 |
-| 🪵 Roaming Oak | Plot 6 | Plot 8 |
+| 💎 Fluorite | Plot 11 | Plot 11 |
+| 🪵 Roaming Oak | Plot 11 | Plot 6 |
 
-- Today's split: Sea Server has fluorite at Plot 11 and oak at Plot 6, while America/Global has fluorite at Plot 5 and oak at Plot 8.
-- **Note:** Both servers back to standard plot-based locations after previous Onsen Mountain spawns.
-- Plot 11 fluorite on Sea Server is a residential plot—check accessibility before heading out.
-- Plot 6 oak on Sea Server is a residential cluster—typically manageable crowd levels.
-- America/Global has plot 5 fluorite and plot 8 oak—both are residential plots!
+- Today's alignment: Sea Server has BOTH fluorite and oak at Plot 11—efficient gathering opportunity!
+- **Note:** All servers on standard plot-based locations today.
+- Plot 11 on Sea Server has both resources—residential plot with typical accessibility.
+- America/Global has fluorite at Plot 11 and oak at Plot 6—both are residential plots!
+- **Pro tip:** Sea Server players can gather both resources in one trip to Plot 11!
 
 ## 🆕 Coming Soon: MBTI-Themed Clothing (March 14, 2026)
 
@@ -49,6 +53,17 @@ Heartopia is launching an exciting new clothing update on **March 14, 2026** fea
 - Perfect timing for players wanting to refresh their spring wardrobe!
 
 Mark your calendars for March 14, 2026! This update brings personality-driven fashion to Heartopia's cozy world.
+
+## 🌈 Rainbow Bouquet & Doris Event (Mar 8)
+![Rainbow Bouquet & Doris Locations](/assets/heartopia-08mar-rainbow-1.jpg)
+![Rainbow Bouquet & Doris Locations](/assets/heartopia-08mar-rainbow-2.jpg)
+![Rainbow Bouquet & Doris Locations](/assets/heartopia-08mar-rainbow-3.jpg)
+
+- **Event Time:** March 8, 2026 · 7am - 1pm JST (6 real-time hours)
+- **Rainbow Bouquet Effect:** Collect bouquets for a 30-minute Rainbow Blessing—boosts star ratings in fishing, cooking, and insect catching!
+- **Doris Locations:** The Rainbow Doris appears at specific locations during the event—check the images above for exact spots!
+- **Strategy:** Use Rainbow Blessing for high-value fishing spots or rare insect hunting—maximize star ratings for better rewards!
+- **Event Frequency:** Rainbow events appear sporadically—watch weather forecasts or community announcements for next occurrence!
 
 ## Pink Bubble Locations (Mar 7 - Mar 13)
 ![Pink Bubble gallery - Server 1](/assets/pink-bubble-07mar-1.jpg)
@@ -86,11 +101,13 @@ The Winter Event has concluded with Week 5:
 - **Penguin Gifting:** ~14-day event with seven pastel presents—nightly vendor visits at East Beach delivered special gifts.
 - **Time-limited rewards:** Exclusive winter event items are now part of the game's history—congratulations to all who participated!
 
-## Yesterday's recap (Mar 6)
-- **Fluorite:** Plot 5 on Sea Server (UTC+7) and Onsen Mountain on America/Global Server (UTC-5). Note: America/Global had a special non-plot fluorite spawn!
-- **Roaming Oak:** Plot 8 on Sea Server, Plot 12 on America/Global
-- **New Camera Feature:** Two new camera controls added after maintenance—left button fixes background while allowing character movement; right button changes camera patterns.
-- Multiple Japanese sources (@nyanho05, @charichan___, @arenfuyu_gm, @tore_neta_, @chata_hp0) confirmed these coordinates.
+## Yesterday's recap (Mar 7)
+- **Fluorite:** Plot 11 on Sea Server (UTC+7) and Plot 5 on America/Global Server (UTC-5).
+- **Roaming Oak:** Plot 6 on Sea Server, Plot 8 on America/Global
+- Both servers back to standard plot-based locations.
+- New weekly Pink Bubble cycle began (Mar 7-13) with all 15 locations mapped by Glyph Hub.
+- @nyanho05 shared Saturday furniture update video—community showcasing new weekly additions.
+- LunarNook is AFK for a week (vacation), no morning confirmation available.
 
 ## Energy restoration guide
 Heartopia uses standard food items to restore energy. Here's what works:
@@ -140,6 +157,9 @@ Expired codes (do not attempt):
 - **Japanese community (@nyanho05 and others)** often share cross-verified coordinates—useful for confirming daily spawns.
 
 ## Last references
+- @Glyph_Hub · Rainbow Bouquet & Doris Locations (Mar 8, 2026) · https://x.com/Glyph_Hub/status/2030423669965812113
+- @Glyph_Hub · Roaming Oak & Flourite (Mar 8, 2026) · https://x.com/Glyph_Hub/status/2030422543220560143
+- @nyanho05 · 2026/03/08 オーク 11番地 蛍石 11番地 (Mar 8, 2026) · https://x.com/nyanho05/status/2030388642330644774
 - @Glyph_Hub · All 15 Pink Bubble Locations (Mar 7-13, 2026) · https://x.com/Glyph_Hub/status/2030072223328014591
 - @Glyph_Hub · Roaming Oak & Flourite (Mar 7, 2026) · https://x.com/Glyph_Hub/status/2030061787522203714
 - @nyanho05 · 2026/03/07 オーク 6番地 蛍石 11番地 (Mar 7, 2026) · https://x.com/nyanho05/status/2030026312275066938
