@@ -2,42 +2,46 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-03-11 12:00:00
+lastModified: 2026-03-12 12:00:00
 ---
 
-## Resources today (11 Mar 2026)
-- **Fluorite:** Plot 4 on Sea Server (UTC+7)! Standard plot-based location—residential plot with typical accessibility.
-- **Oak Timber:** The Wandering Oak is at Plot 3 on Sea Server (UTC+7) and Plot 9 on America/Global Server (UTC-5). Both are residential areas—expect moderate traffic.
+## Resources today (12 Mar 2026)
+- **Fluorite:** Plot 11 on Sea Server (UTC+7)! Standard plot-based location—residential plot with typical accessibility.
+- **Oak Timber:** The Wandering Oak is at Plot 6 on Sea Server (UTC+7) and Plot 3 on America/Global Server (UTC-5). Both are residential areas—expect moderate traffic.
 - **Pink Bubbles:** Weekly cycle (Mar 7-13) continues! Glyph Hub has mapped all 15 pink bubble locations across all servers—use the gallery below to plan your route.
-- **Penguin Event:** 4 days left to feed the penguins! Reaching Lv. 4 & 5 gets special gifts. Feeding in rain gives extra points—watch for rainy weather!
+- **Snow Weather Alert:** ❄️ Snow is coming on March 13, 2026 at 00:00 JST! Don't forget to buy candy from Doris before the weather changes.
 - **Blue Doris:** Can be found in Art Street during rain weather. Blue Doris sells: blue, indigo, violet sugars (perfect for rainbow-colored roll cakes!).
-- **MBTI Clothing Update:** Coming March 14, 2026! 16 personality-themed outfit sets, new hairstyles, and model rooms arriving in the clothing shop.
+- **MBTI Clothing Update:** Coming March 14, 2026! Only 2 days away—16 personality-themed outfit sets, new hairstyles, and model rooms arriving in the clothing shop.
 
-## Fluorite & Oak check (Mar 11)
-![Glyph Hub's Mar 11 coordinate map](/assets/heartopia-mar11-glyph.jpg)
-*Glyph Hub's Mar 11 visual shows dual-server fluorite and oak locations—Sea Server has fluorite at Plot 4 and oak at Plot 3!*
+## Fluorite & Oak check (Mar 12)
+![Glyph Hub's Mar 12 coordinate map](/assets/heartopia-glyphhub-12mar.jpg)
+*Glyph Hub's Mar 12 visual shows dual-server fluorite and oak locations—Sea Server has fluorite at Plot 11 and oak at Plot 6!*
 
-![@hamululu0801's Mar 11 daily update](/assets/heartopia-mar11-hamululu1.jpg)
-*Daily update from @hamululu0801 showing Oak (🌳) at Plot 3 and Fluorite (💎) at Plot 4!*
+![@tore_neta_'s Mar 12 daily update](/assets/heartopia-torenet-12mar-1.jpg)
+*Daily update from @tore_neta_ showing Oak (🌳) at Plot 6 and Fluorite (💎) at Plot 11!*
+
+![@charichan___'s Mar 12 confirmation](/assets/heartopia-charichan-12mar.jpg)
+*Confirmation from @charichan___ matching Glyph Hub's coordinates—Oak Plot 6 and Fluorite Plot 11!*
 
 ### All Servers
 | Resource | Sea Server (UTC+7) | America/Global (UTC-5) |
 |----------|-------------------|----------------------|
-| 💎 Fluorite | Plot 4 | Plot 12 |
-| 🪵 Roaming Oak | Plot 3 | Plot 9 |
+| 💎 Fluorite | Plot 11 | Plot 4 |
+| 🪵 Roaming Oak | Plot 6 | Plot 3 |
 
-- Today's alignment: Sea Server has fluorite at Plot 4 and oak at Plot 3—close plots for efficient gathering!
+- Today's alignment: Sea Server has fluorite at Plot 11 and oak at Plot 6—residential areas with typical accessibility!
 - **Note:** All servers on standard plot-based locations today.
-- Plot 3 and Plot 4 on Sea Server are residential plots with typical accessibility.
-- America/Global has fluorite at Plot 12 and oak at Plot 9—both residential areas!
-- **Pro tip:** Sea Server players can gather both resources quickly with adjacent plot locations!
+- Plot 6 and Plot 11 on Sea Server are both residential plots with typical accessibility.
+- America/Global has fluorite at Plot 4 and oak at Plot 3—both residential areas!
+- **Pro tip:** LunarNook is still AFK this week, but Japanese community (@tore_neta_, @charichan___) confirmed coordinates!
 
-## Yesterday's recap (Mar 10)
-- **Fluorite:** Plot 12 on Sea Server (UTC+7) and Plot 2 on America/Global Server (UTC-5).
-- **Roaming Oak:** Plot 9 on Sea Server, Plot 2 on America/Global
+## Yesterday's recap (Mar 11)
+- **Fluorite:** Plot 4 on Sea Server (UTC+7) and Plot 12 on America/Global Server (UTC-5).
+- **Roaming Oak:** Plot 3 on Sea Server, Plot 9 on America/Global
 - All servers on standard plot-based locations.
 - Pink Bubble weekly cycle continues (Mar 7-13) with all 15 locations mapped by Glyph Hub.
-- Glyph Hub posted Mar 10 coordinates in the evening before.
+- Glyph Hub posted Mar 11 coordinates in the evening before.
+- Two sources confirmed: Glyph Hub (evening before with coordinate map), @hamululu0801 (morning daily update).
 
 ## 🆕 Coming Soon: MBTI-Themed Clothing (March 14, 2026)
 
