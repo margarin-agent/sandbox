@@ -2,52 +2,49 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-03-12 12:00:00
+lastModified: 2026-03-14 16:00:00
 ---
 
-## Resources today (12 Mar 2026)
-- **Fluorite:** Plot 11 on Sea Server (UTC+7)! Standard plot-based location—residential plot with typical accessibility.
-- **Oak Timber:** The Wandering Oak is at Plot 6 on Sea Server (UTC+7) and Plot 3 on America/Global Server (UTC-5). Both are residential areas—expect moderate traffic.
-- **Pink Bubbles:** Weekly cycle (Mar 7-13) continues! Glyph Hub has mapped all 15 pink bubble locations across all servers—use the gallery below to plan your route.
-- **Snow Weather Alert:** ❄️ Snow is coming on March 13, 2026 at 00:00 JST! Don't forget to buy candy from Doris before the weather changes.
+## Resources today (14 Mar 2026)
+- **Fluorite:** Plot 9 on Sea Server (UTC+7)! Standard plot-based location—residential plot with typical accessibility.
+- **Oak Timber:** The Wandering Oak is at Plot 11 on Sea Server (UTC+7) and Plot 2 on America/Global Server (UTC-5). Both are residential areas—expect moderate traffic.
+- **Pink Bubbles:** Weekly cycle (Mar 7-13) ends today! Last chance to collect all 15 pink bubble locations—use the gallery below to plan your final route.
 - **Blue Doris:** Can be found in Art Street during rain weather. Blue Doris sells: blue, indigo, violet sugars (perfect for rainbow-colored roll cakes!).
-- **MBTI Clothing Update:** Coming March 14, 2026! Only 2 days away—16 personality-themed outfit sets, new hairstyles, and model rooms arriving in the clothing shop.
+- **🆕 Sweet White Day Event:** New event active! Redeem code `sweetgift314u` for Snowfeather Rose ×5, Colorful Sparkler (Pink) ×2, Colorful Cold Firework (Pink) ×2. Valid until April 30, 2026 (10:59 UTC-5).
+- **🎉 MBTI Clothing Update:** NOW LIVE! 16 personality-themed outfit sets, new hairstyles, and model rooms available in clothing shop.
 
-## Fluorite & Oak check (Mar 12)
-![Glyph Hub's Mar 12 coordinate map](/assets/heartopia-glyphhub-12mar.jpg)
-*Glyph Hub's Mar 12 visual shows dual-server fluorite and oak locations—Sea Server has fluorite at Plot 11 and oak at Plot 6!*
+## Fluorite & Oak check (Mar 14)
+![Glyph Hub's Mar 14 coordinate map](/assets/heartopia-14mar-glyph.jpg)
+*Glyph Hub's Mar 14 visual shows dual-server fluorite and oak locations—Sea Server has fluorite at Plot 9 and oak at Plot 11!*
 
-![@tore_neta_'s Mar 12 daily update](/assets/heartopia-torenet-12mar-1.jpg)
-*Daily update from @tore_neta_ showing Oak (🌳) at Plot 6 and Fluorite (💎) at Plot 11!*
-
-![@charichan___'s Mar 12 confirmation](/assets/heartopia-charichan-12mar.jpg)
-*Confirmation from @charichan___ matching Glyph Hub's coordinates—Oak Plot 6 and Fluorite Plot 11!*
+![@nyanho05's Mar 14 confirmation](/assets/heartopia-14mar-nyanho.jpg)
+*Confirmation from @nyanho05 matching Glyph Hub's coordinates—オーク 11番地 (Oak Plot 11) and 蛍石 9番地 (Fluorite Plot 9)!*
 
 ### All Servers
 | Resource | Sea Server (UTC+7) | America/Global (UTC-5) |
 |----------|-------------------|----------------------|
-| 💎 Fluorite | Plot 11 | Plot 4 |
-| 🪵 Roaming Oak | Plot 6 | Plot 3 |
+| 💎 Fluorite | Plot 9 | Plot 7 |
+| 🪵 Roaming Oak | Plot 11 | Plot 2 |
 
-- Today's alignment: Sea Server has fluorite at Plot 11 and oak at Plot 6—residential areas with typical accessibility!
+- Today's alignment: Sea Server has fluorite at Plot 9 and oak at Plot 11—residential areas with typical accessibility!
 - **Note:** All servers on standard plot-based locations today.
-- Plot 6 and Plot 11 on Sea Server are both residential plots with typical accessibility.
-- America/Global has fluorite at Plot 4 and oak at Plot 3—both residential areas!
-- **Pro tip:** LunarNook is still AFK this week, but Japanese community (@tore_neta_, @charichan___) confirmed coordinates!
+- Plot 9 and Plot 11 on Sea Server are both residential plots with typical accessibility.
+- America/Global has fluorite at Plot 7 and oak at Plot 2—both residential areas!
+- **Pro tip:** LunarNook is still AFK this week, but Japanese community (@nyanho05) confirmed coordinates!
 
-## Yesterday's recap (Mar 11)
-- **Fluorite:** Plot 4 on Sea Server (UTC+7) and Plot 12 on America/Global Server (UTC-5).
-- **Roaming Oak:** Plot 3 on Sea Server, Plot 9 on America/Global
+## Yesterday's recap (Mar 13)
+- **Fluorite:** Plot 7 on Sea Server (UTC+7) and Plot 11 on America/Global Server (UTC-5).
+- **Roaming Oak:** Plot 2 on Sea Server, Plot 6 on America/Global
 - All servers on standard plot-based locations.
 - Pink Bubble weekly cycle continues (Mar 7-13) with all 15 locations mapped by Glyph Hub.
-- Glyph Hub posted Mar 11 coordinates in the evening before.
-- Two sources confirmed: Glyph Hub (evening before with coordinate map), @hamululu0801 (morning daily update).
+- Glyph Hub posted Mar 13 coordinates in the evening before.
+- Two sources confirmed: Glyph Hub (evening before with coordinate map), @heartopia_fess (morning confirmation).
 
-## 🆕 Coming Soon: MBTI-Themed Clothing (March 14, 2026)
+## 🎉 MBTI-Themed Clothing Update (March 14, 2026) - NOW LIVE!
 
-Heartopia is launching an exciting new clothing update on **March 14, 2026** featuring MBTI-themed outfits for all 16 personality types!
+Heartopia has launched an exciting new clothing update featuring MBTI-themed outfits for all 16 personality types!
 
-**What to expect:**
+**What's available now:**
 - 🎭 **16 unique clothing sets** — One for each MBTI personality type (INTJ, ENFP, ISFJ, etc.)
 - 💇‍♀️ **New hairstyles** — Fresh hair options to complement your personality look
 - 🏠 **Model rooms** — Showroom spaces to preview and style your new outfits
@@ -59,11 +56,31 @@ Heartopia is launching an exciting new clothing update on **March 14, 2026** fea
 - Popular for self-discovery and understanding communication styles
 
 **Community buzz:**
-- Players are already discussing which MBTI type best represents their Heartopia avatars
+- Players are discussing which MBTI type best represents their Heartopia avatars
 - Cosplay and styling enthusiasts excited for the creative possibilities
-- Perfect timing for players wanting to refresh their spring wardrobe!
+- Perfect timing to refresh your spring wardrobe with personality-driven fashion!
 
-Mark your calendars for March 14, 2026! This update brings personality-driven fashion to Heartopia's cozy world.
+## 🤍 Sweet White Day Return Gift Event (March 14, 2026)
+
+Heartopia is celebrating White Day with a special return gift event! **White Day** is a Japanese tradition where men give gifts to women who gave them chocolate on Valentine's Day (one month earlier).
+
+**Redemption code:** `sweetgift314u`
+
+**Rewards:**
+- 🌹 Snowfeather Rose ×5
+- 🎇 Colorful Sparkler (Pink) ×2
+- 🎆 Colorful Cold Firework (Pink) ×2
+
+**Redemption deadline:** April 30, 2026 (10:59 UTC-5)
+
+![Sweet White Day event](/assets/heartopia-14mar-whiteday.jpg)
+*Sweet White Day event banner with redemption code and rewards!*
+
+**About White Day:**
+- Observed on March 14 in Japan, South Korea, Taiwan, and other Asian countries
+- Response to Valentine's Day—reciprocal gift-giving tradition
+- Often associated with white chocolates and marshmallows
+- In Heartopia, this event allows players to celebrate with beautiful pink and white-themed rewards!
 
 ## Pink Bubble Locations (Mar 7 - Mar 13)
 ![Pink Bubble gallery - Server 1](/assets/pink-bubble-07mar-1.jpg)
@@ -145,11 +162,12 @@ Expired codes (do not attempt):
 - `p7a9k2m6r8`, `x8r2m9q5l7`, `q6p9m4a7k` - Expired March 31, 2025
 
 ## Events & quests
+- **🤍 Sweet White Day Return Gift Event:** NOW ACTIVE! Redeem code `sweetgift314u` for Snowfeather Rose ×5, Colorful Sparkler (Pink) ×2, Colorful Cold Firework (Pink) ×2. Valid until April 30, 2026 (10:59 UTC-5).
+- **🎉 MBTI Clothing Update (NOW LIVE):** 16 personality-themed outfit sets, new hairstyles, and model rooms available in clothing shop!
 - **Winter Event Week 5 (CONCLUDED):** Penguin story finale completed with radish, winter food, and winter bird card collection missions. Sea Lantern event at the beach. Thank you for participating!
 - **Heartopia × My Little Pony Collaboration:** Official post states event runs from **February 14 to March 24, 2026** (currently active). Daily Tree of Harmony sensing delivers Exhibition Passes, Moonlight Crystals, and Badge Pull Tokens.
 - **Moonlight Treasure Box:** Secret Recipes active—draw with Moonlight Crystals for outfit sets with a Moonlight Special guarantee within 12 draws.
 - **Spring Gift redemption:** SPRINGFEST2026 code active until March 31, 2026 (10:59 UTC-5).
-- **🆕 MBTI Clothing Update:** Launching March 14, 2026 — 16 personality-themed outfit sets, new hairstyles, and model rooms in the clothing shop!
 - **🎨 Heartopia Art Contest (ハートピアお絵かき名人) Phase 1:** Official art contest event is now live! Players are sharing their Heartopia illustrations and fan art. Community excitement is building around creative submissions.
 
 ## Community resources
@@ -158,6 +176,9 @@ Expired codes (do not attempt):
 - **Japanese community (@nyanho05 and others)** often share cross-verified coordinates—useful for confirming daily spawns.
 
 ## Last references
+- @Glyph_Hub · Roaming Oak & Flourite (Mar 14, 2026) · https://x.com/Glyph_Hub/status/2032594004773319098
+- @nyanho05 · 2026/03/14 オーク 11番地 蛍石 9番地 (Mar 14, 2026) · https://x.com/nyanho05/status/2032563417568129187
+- @MyHeartopia · 🤍 Heartopia Sweet White Day Return Gift 🤍 (Mar 14, 2026) · https://x.com/MyHeartopia/status/2032698240169292199
 - @Glyph_Hub · Roaming Oak & Flourite (Mar 11, 2026) · https://x.com/Glyph_Hub/status/2031500750485180703
 - @hamululu0801 · 🌟Heartopia Daily update🌟 (Mar 11, 2026) · https://x.com/hamululu0801/status/2031614732285915534
 - @Glyph_Hub · Roaming Oak & Flourite (Mar 10, 2026) · https://x.com/Glyph_Hub/status/2031138781005492593
