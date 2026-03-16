@@ -2,52 +2,60 @@
 title: Heartopia Daily Guide
 layout: default
 description: Daily drops, community beats, and latest Heartopia pulse.
-lastModified: 2026-03-15 12:00:00
+lastModified: 2026-03-16 12:00:00
 ---
 
-## Resources today (15 Mar 2026)
-- **Fluorite:** Plot 4 on Sea Server (UTC+7)! Standard plot-based location—residential plot with typical accessibility.
-- **Oak Timber:** The Wandering Oak is at **Spirit Oak Pine Forest** on Sea Server (UTC+7)—special non-plot-based location (不思議な松林 in Japanese)! America/Global has oak at Plot 11 (UTC-5).
+## Resources today (16 Mar 2026)
+- **Fluorite:** Plot 4 on BOTH Sea Server (UTC+7) and America/Global Server (UTC-5)! Standard plot-based location—residential plot with typical accessibility.
+- **Oak Timber:** The Wandering Oak is at **Spirit Oak Pine Forest** on BOTH servers! Special non-plot-based location (不思議な松林 in Japanese, Bosque dos Carvalhos Espirituais in Portuguese).
 - **Pink Bubbles:** Weekly cycle ended yesterday (Mar 7-13). New locations expected this Thursday!
 - **Blue Doris:** Can be found in Art Street during rain weather. Blue Doris sells: blue, indigo, violet sugars (perfect for rainbow-colored roll cakes!).
 - **🤍 Sweet White Day Event:** Active! Redeem code `sweetgift314u` for Snowfeather Rose ×5, Colorful Sparkler (Pink) ×2, Colorful Cold Firework (Pink) ×2. Valid until April 30, 2026 (10:59 UTC-5).
 - **🎉 MBTI Clothing Update:** Live! 16 personality-themed outfit sets, new hairstyles, and model rooms available in clothing shop.
+- **Special note:** Both servers have IDENTICAL locations today—rare occurrence! Fluorite at Plot 4, Oak at Spirit Oak Pine Forest (special location).
 
-## Fluorite & Oak check (Mar 15)
-![Glyph Hub's Mar 15 coordinate map](/assets/heartopia-mar15-glyph-hub.jpg)
-*Glyph Hub's Mar 15 visual shows dual-server fluorite and oak locations—Sea Server has fluorite at Plot 4 and oak at Spirit Oak Pine Forest (special location)!*
+## Fluorite & Oak check (Mar 16)
+![Glyph Hub's Mar 16 coordinate map](/assets/heartopia-glyph-mar16.jpg)
+*Glyph Hub's Mar 16 visual shows IDENTICAL dual-server locations—both Sea and America/Global have fluorite at Plot 4 and oak at Spirit Oak Pine Forest (special location)!*
 
-![@nyanho05's Mar 15 confirmation](/assets/heartopia-mar15-nyanho05-1.jpg)
+![@nyanho05's Mar 16 confirmation](/assets/heartopia-nyanho05-mar16-1.jpg)
+![@nyanho05's Mar 16 confirmation - gallery 2](/assets/heartopia-nyanho05-mar16-2.jpg)
 *Confirmation from @nyanho05 matching Glyph Hub's coordinates—オーク 不思議な松林 (Oak: Mysterious Pine Forest) and 蛍石 4番地 (Fluorite Plot 4)!*
 
-![@shaotopia's Mar 15 Portuguese coordinates](/assets/heartopia-mar15-shaotopia.jpg)
+![@shaotopia's Mar 16 Portuguese coordinates](/assets/heartopia-shaotopia-mar16.jpg)
 *Portuguese-language confirmation from @shaotopia—Carvalho Delicado: Bosque dos Carvalhos Espirituais (Spiritual Oak Forest) and Fluorita Pura: Plot 04!*
 
 ### All Servers
 | Resource | Sea Server (UTC+7) | America/Global (UTC-5) |
 |----------|-------------------|----------------------|
-| 💎 Fluorite | Plot 4 | Plot 9 |
-| 🪵 Roaming Oak | Spirit Oak Pine Forest (特殊) | Plot 11 |
+| 💎 Fluorite | Plot 4 | Plot 4 |
+| 🪵 Roaming Oak | Spirit Oak Pine Forest (特殊) | Spirit Oak Pine Forest (特殊) |
 
-- Today's alignment: Sea Server has fluorite at Plot 4 (standard plot) but oak at a special Spirit Oak Pine Forest location—not a plot number! America/Global has both resources at standard plots.
-- **Note:** SEA Server oak is at a special non-plot-based location today (Spirit Oak Pine Forest / 不思議な松林). This is similar to the Onsen Mountain fluorite locations seen previously.
-- America/Global has fluorite at Plot 9 and oak at Plot 11—both standard residential areas!
-- **Pro tip:** LunarNook is still AFK this week, but Japanese community (@nyanho05) and Portuguese community (@shaotopia) both confirmed coordinates!
+- Today's alignment: **BOTH servers have IDENTICAL locations**—rare occurrence! Fluorite at Plot 4 (standard plot) and Oak at Spirit Oak Pine Forest (special non-plot location).
+- **Note:** Oak is at a special non-plot-based location today on both servers (Spirit Oak Pine Forest / 不思議な松林 / Bosque dos Carvalhos Espirituais). This is similar to Onsen Mountain fluorite locations seen previously.
+- **Pro tip:** Since both servers have the same locations today, you can coordinate with friends on different servers! Use this opportunity for cross-server advice sharing.
 
-## Yesterday's recap (Mar 14)
-- **Fluorite:** Plot 9 on Sea Server (UTC+7) and Plot 7 on America/Global Server (UTC-5).
-- **Roaming Oak:** Plot 11 on Sea Server, Plot 2 on America/Global.
+## Yesterday's recap (Mar 15)
+- **Fluorite:** Plot 4 on Sea Server (UTC+7) and Plot 9 on America/Global Server (UTC-5).
+- **Roaming Oak:** Spirit Oak Pine Forest (特殊) on Sea Server, Plot 11 on America/Global.
 - Pink Bubbles weekly cycle ended yesterday (Mar 7-13).
-- All servers on standard plot-based locations.
+- SEA Server oak was at a special non-plot location—similar pattern to today!
 - Glyph Hub and @nyanho05 confirmed coordinates.
 
-## Day before yesterday's recap (Mar 13)
+## Day before yesterday's recap (Mar 14)
+- **Fluorite:** Plot 9 on Sea Server (UTC+7) and Plot 7 on America/Global Server (UTC-5).
+- **Roaming Oak:** Plot 11 on Sea Server, Plot 2 on America/Global
+- All servers on standard plot-based locations.
+- Pink Bubbles weekly cycle ended yesterday (Mar 7-13).
+- Glyph Hub and @nyanho05 confirmed coordinates.
+- Two sources confirmed: Glyph Hub (evening before with coordinate map), @heartopia_fess (morning confirmation).
+
+## 3 days ago recap (Mar 13)
 - **Fluorite:** Plot 7 on Sea Server (UTC+7) and Plot 11 on America/Global Server (UTC-5).
 - **Roaming Oak:** Plot 2 on Sea Server, Plot 6 on America/Global
 - All servers on standard plot-based locations.
 - Pink Bubble weekly cycle continues (Mar 7-13) with all 15 locations mapped by Glyph Hub.
 - Glyph Hub posted Mar 13 coordinates in the evening before.
-- Two sources confirmed: Glyph Hub (evening before with coordinate map), @heartopia_fess (morning confirmation).
 
 ## 🎉 MBTI-Themed Clothing Update (March 14, 2026) - NOW LIVE!
 
@@ -185,9 +193,13 @@ Expired codes (do not attempt):
 - **Japanese community (@nyanho05 and others)** often share cross-verified coordinates—useful for confirming daily spawns.
 
 ## Last references
+- @Glyph_Hub · Roaming Oak & Flourite (Mar 16, 2026) · https://x.com/Glyph_Hub/status/2033322397877874921
+- @shaotopia · Dia 16/03 Coletáveis (Mar 16, 2026) · https://x.com/shaotopia/status/2033430346008551654
+- @nyanho05 · 2026/03/016 オーク 不思議な松林 蛍石 4番地 (Mar 16, 2026) · https://x.com/nyanho05/status/2033292369765040578
 - @Glyph_Hub · Roaming Oak & Flourite (Mar 15, 2026) · https://x.com/Glyph_Hub/status/2032956429238415621
 - @nyanho05 · 2026/03/15 オーク 不思議な松林 蛍石 4番地 (Mar 15, 2026) · https://x.com/nyanho05/status/2032926766453731432
 - @shaotopia · Dia 15/03 Coletáveis (Mar 15, 2026) · https://x.com/shaotopia/status/2033068957863706857
+- @Glyph_Hub · Roaming Oak & Flourite (Mar 14, 2026) · https://x.com/Glyph_Hub/status/2032594004773319098
 - @Glyph_Hub · Roaming Oak & Flourite (Mar 14, 2026) · https://x.com/Glyph_Hub/status/2032594004773319098
 - @nyanho05 · 2026/03/14 オーク 11番地 蛍石 9番地 (Mar 14, 2026) · https://x.com/nyanho05/status/2032563417568129187
 - @MyHeartopia · 🤍 Heartopia Sweet White Day Return Gift 🤍 (Mar 14, 2026) · https://x.com/MyHeartopia/status/2032698240169292199
